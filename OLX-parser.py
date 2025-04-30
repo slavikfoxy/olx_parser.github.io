@@ -33,7 +33,7 @@ async def save_ads(data):
 import json
 from pathlib import Path
 
-async def generate_html_from_json(json_path: str, html_output: str = "ads_preview.html"):
+async def generate_html_from_json(json_path: str, html_output: str = "index.html"):
     with open(json_path, "r", encoding="utf-8") as f:
         ads = json.load(f)
 
