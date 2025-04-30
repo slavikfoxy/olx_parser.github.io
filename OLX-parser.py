@@ -77,6 +77,7 @@ async def generate_html_from_json(json_path: str, html_output: str = "index.html
 
         html_parts.append(f'<a class="link" href="{ad.get("link", "#")}" target="_blank">Перейти на OLX</a>')
         html_parts.append('</div>')
+    html_parts.append(f'<div class="time">{datetime.now().strftime("%Y-%m-%d")}</div>')
 
     html_parts.append('</body></html>')
 
