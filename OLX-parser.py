@@ -85,10 +85,11 @@ async def generate_html_from_json(json_path: str, html_output: str = "index.html
 
     print(f"✅ HTML файл збережено: {html_output}")
 
-async def parse_ads():
+async def parse_ads(old_links):
     ads = []
     seen_links = set()
     page = 1
+    itteration = 0
     while True:
         url = f"https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1&page={page}"
         response = requests.get(url, headers=HEADERS)
@@ -103,30 +104,33 @@ async def parse_ads():
             link_tag = offer.select_one("a.css-1tqlkj0")
             title_tag = offer.select_one("h4")
             price_tag = offer.select_one("p[data-testid='ad-price']")
-            location_tag = offer.select_one("p[data-testid='location-date']")
-            #image_tag = offer.select_one("img.css-8wsg1m")
-
+            
+            itteration += 1
             if link_tag and title_tag:
-                print(title_tag.get_text(strip=True))
+                print(f"{itteration}: {title_tag.get_text(strip=True)} ")
                 relative_link = link_tag.get("href")
                 link = "https://www.olx.pl" + relative_link
                 
                 if link in seen_links:
                     continue  # це вже було
-
+                
                 seen_links.add(link)
-                ad = {
-                    "title": title_tag.get_text(strip=True),
-                    "link": link,
-                    "price": price_tag.get_text(strip=True).replace("do negocjacji", "").strip() if price_tag else "",
-                    "location": location_tag.get_text(strip=True) if location_tag else "",
-                    "status": "active",
-                    "date_found": datetime.now().strftime("%Y-%m-%d"),
-                    "date_removed": None
-                }
-                await parse_ad_details(ad)  # <- доповнюємо інформацію
-                #await asyncio.sleep(1)  # 1 секунда між запитами
-                new_ads.append(ad)
+                if not link in old_links:
+                    ad = {
+                        "title": title_tag.get_text(strip=True),
+                        "link": link,
+                        "price": price_tag.get_text(strip=True).replace("do negocjacji", "").strip() if price_tag else "",
+                    
+                        "status": "active",
+                        "date_found": datetime.now().strftime("%Y-%m-%d"),
+                        "date_removed": None
+                    }
+                    await parse_ad_details(ad)  # <- доповнюємо інформацію
+                    await asyncio.sleep(1)  # 1 секунда між запитами
+                    new_ads.append(ad)
+                else:
+                    #print(f"Пропускаємо {link} (вже в базі)")
+                    continue
                 
 
         if not new_ads:
@@ -167,7 +171,9 @@ async def parse_ad_details(ad):
             posted_info = posted_info.replace("Dzisiaj", "").strip()
             posted_info = f"{datetime.now().strftime("%Y-%m-%d")} {posted_info}"
         ad["published_date"] = posted_info
-        print(f"Дата публікації: {posted_info}")
+        
+    location_tag = soup.select_one("p[data-testid='location-date']")
+    ad["location"] = location_tag.get_text(strip=True) if location_tag else ""
 
 async def notify_new_ads(new_ads):
     
@@ -194,11 +200,11 @@ async def notify_new_ads(new_ads):
         await bot.send_message(chat_id=CHAT_ID, text=message, parse_mode="Markdown", disable_web_page_preview=True)
         await bot.send_message(chat_id=CHAT_ID, text=message2, parse_mode="Markdown", disable_web_page_preview=True)
         
-async def main2():
+async def main():
     old_ads = await load_old_ads()
     old_links = {ad["link"]: ad for ad in old_ads}
     print(f"Found old {len(old_links)} ads.")
-    current_ads = await parse_ads()
+    current_ads = await parse_ads(old_links)
     print(f"Found {len(current_ads)} ads.")
     current_links = {ad["link"] for ad in current_ads}
     today = datetime.now().strftime("%Y-%m-%d")
@@ -233,12 +239,14 @@ async def main2():
     
     await generate_html_from_json("olx_ads.json")
     
-def main():
+    
+    
+def main0():
     app = ApplicationBuilder().token(TOKEN).build()
     app.add_handler(CommandHandler("start", start))
     loop = asyncio.get_event_loop()
-    loop.create_task(main2())
+    loop.create_task(main())
     app.run_polling()
     
 if __name__ == "__main__":
-    main()
+    asyncio.run(main())
