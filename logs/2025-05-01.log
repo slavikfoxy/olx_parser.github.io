@@ -692,3 +692,7 @@
 2025-05-01 11:31:54 - INFO - HTTP Request: POST https://api.telegram.org/bot7930055889:AAEG1rcIRftxKxzIRzqAxTj8TaWpd2c-fNQ/sendMessage "HTTP/1.1 200 OK"
 2025-05-01 11:31:54 - INFO - HTTP Request: POST https://api.telegram.org/bot7930055889:AAEG1rcIRftxKxzIRzqAxTj8TaWpd2c-fNQ/sendMessage "HTTP/1.1 200 OK"
 2025-05-01 11:31:54 - INFO - ✅ HTML файл збережено: index.html
+2025-05-01 09:42:05 - INFO - Found old 446 ads.
+2025-05-01 09:42:55 - INFO - Last page 13 is the same as this page. Stopping.
+2025-05-01 09:42:55 - INFO - Found actual 0 ads.
+2025-05-01 09:42:55 - INFO - ✅ HTML файл збережено: index.html
