@@ -19,6 +19,8 @@ TOKEN = '7930055889:AAEG1rcIRftxKxzIRzqAxTj8TaWpd2c-fNQ'
 CHAT_ID = '376481898'
 bot = Bot(token=TOKEN)
 
+filter = set()
+filter.add("Na moich wystawionych pozostałych ogłoszeniach możesz kupić sprzęty typu:")
 
 os.makedirs("logs", exist_ok=True)
 log_file = os.path.join("logs", f"{datetime.now().strftime('%Y-%m-%d')}.log")
@@ -143,14 +145,14 @@ async def parse_ads(old_links):
                         "title": title_tag.get_text(strip=True),
                         "link": link,
                         "price": price_tag.get_text(strip=True).replace("do negocjacji", "").strip() if price_tag else "",
-                    
                         "status": "active",
                         "date_found": datetime.now().strftime("%Y-%m-%d"),
                         "date_removed": None
                     }
                     await parse_ad_details(ad)  # <- доповнюємо інформацію
-                    logging.info(f"NEW {ad}")
-                    new_ads.append(ad)
+                    if not any(f in ad["description"] for f in filter):
+                        logging.info(f"NEW {ad}")
+                        new_ads.append(ad)
                 else:
                     #print(f"Пропускаємо {link} (вже в базі)")
                     continue
@@ -170,7 +172,7 @@ async def parse_ads(old_links):
         
         ads.extend(new_ads)
         #print(f"Parsed page {page}, found {len(new_ads)} new ads.")
-        if new_ads > 0:
+        if len(new_ads) > 0:
             logging.info(f"Parsed page {page}, found {len(new_ads)} new ads.")
         page += 1
         await asyncio.sleep(1)
