@@ -5,10 +5,12 @@ import time
 from datetime import datetime
 import os
 from telegram import Bot
-from pathlib import Path
 from telegram import Update, InputMediaPhoto
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 import asyncio
+import json
+import logging
+
 # Конфігурація
 #SEARCH_URL = "https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1"
 HEADERS = {"User-Agent": "Mozilla/5.0"}
@@ -17,9 +19,26 @@ TOKEN = '7930055889:AAEG1rcIRftxKxzIRzqAxTj8TaWpd2c-fNQ'
 CHAT_ID = '376481898'
 bot = Bot(token=TOKEN)
 
+
+os.makedirs("logs", exist_ok=True)
+log_file = os.path.join("logs", f"{datetime.now().strftime('%Y-%m-%d')}.log")
+
+# Налаштування логування
+logging.basicConfig(
+    level=logging.INFO,  # Рівень логів (DEBUG, INFO, WARNING, ERROR, CRITICAL)
+
+    format="%(asctime)s - %(levelname)s - %(message)s",  # Формат повідомлення
+    datefmt="%Y-%m-%d %H:%M:%S",  # Формат дати й часу
+    handlers=[
+        logging.StreamHandler(),  # Виведення в консоль
+        logging.FileHandler(log_file, encoding="utf-8")  # Запис у файл
+    ]
+)
+
+"""
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text("Привіт! Я OLX Бот 🛎️")
-    
+"""
 async def load_old_ads():
     if os.path.exists(JSON_FILE):
         with open(JSON_FILE, "r", encoding="utf-8") as f:
@@ -29,9 +48,6 @@ async def load_old_ads():
 async def save_ads(data):
     with open(JSON_FILE, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
-
-import json
-from pathlib import Path
 
 async def generate_html_from_json(json_path: str, html_output: str = "index.html"):
     with open(json_path, "r", encoding="utf-8") as f:
@@ -84,15 +100,18 @@ async def generate_html_from_json(json_path: str, html_output: str = "index.html
     with open(html_output, "w", encoding="utf-8") as f:
         f.write("".join(html_parts))
 
-    print(f"✅ HTML файл збережено: {html_output}")
+    #print(f"✅ HTML файл збережено: {html_output}")
+    logging.info(f"✅ HTML файл збережено: {html_output}")
 
 async def parse_ads(old_links):
     ads = []
     seen_links = set()
+    last_page = set()
+    this_page = set()
     page = 1
     itteration = 0
     while True:
-        url = f"https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1&page={page}"
+        url = f"https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?page={page}"
         response = requests.get(url, headers=HEADERS)
         soup = BeautifulSoup(response.text, "html.parser")
         cards = soup.select("div[data-cy='l-card']")
@@ -105,18 +124,21 @@ async def parse_ads(old_links):
             link_tag = offer.select_one("a.css-1tqlkj0")
             title_tag = offer.select_one("h4")
             price_tag = offer.select_one("p[data-testid='ad-price']")
-            
+            #await asyncio.sleep(0.1)  # 1 секунда між запитами
             itteration += 1
             if link_tag and title_tag:
-                print(f"{itteration}: {title_tag.get_text(strip=True)} ")
+                #print(f"{itteration}: {title_tag.get_text(strip=True)} ")
+               
                 relative_link = link_tag.get("href")
                 link = "https://www.olx.pl" + relative_link
                 
                 if link in seen_links:
                     continue  # це вже було
-                
+                this_page.add(link)
                 seen_links.add(link)
+                
                 if not link in old_links:
+                    
                     ad = {
                         "title": title_tag.get_text(strip=True),
                         "link": link,
@@ -127,20 +149,31 @@ async def parse_ads(old_links):
                         "date_removed": None
                     }
                     await parse_ad_details(ad)  # <- доповнюємо інформацію
-                    await asyncio.sleep(1)  # 1 секунда між запитами
+                    logging.info(f"NEW {ad}")
                     new_ads.append(ad)
                 else:
                     #print(f"Пропускаємо {link} (вже в базі)")
                     continue
                 
-
-        if not new_ads:
+        """
+        if not cards:
             print(f"No new ads on page {page}. Stopping.")
             break
-
+        """
+        last_page = this_page.copy()
+        this_page.clear()
+        
+        if last_page == this_page:
+            #print(f"Last page {page} is the same as this page. Stopping.")
+            logging.info(f"Last page {page} is the same as this page. Stopping.")
+            break
+        
         ads.extend(new_ads)
-        print(f"Parsed page {page}, found {len(new_ads)} new ads.")
+        #print(f"Parsed page {page}, found {len(new_ads)} new ads.")
+        if new_ads > 0:
+            logging.info(f"Parsed page {page}, found {len(new_ads)} new ads.")
         page += 1
+        await asyncio.sleep(1)
         
 
     return ads
@@ -177,7 +210,7 @@ async def parse_ad_details(ad):
     ad["location"] = location_tag.get_text(strip=True) if location_tag else ""
 
 async def notify_new_ads(new_ads):
-    
+    await asyncio.sleep(1)
     for ad in new_ads:
         message = (
             f"🆕 *{ad['title']}*\n"
@@ -195,7 +228,8 @@ async def notify_new_ads(new_ads):
             try:
                 await bot.send_media_group(chat_id=CHAT_ID, media=media_group)
             except Exception as e:
-                print(f"❌ Помилка надсилання фото: {e}")
+                #print(f"❌ Помилка надсилання фото: {e}")
+                logging.error(f"❌ Помилка надсилання фото: {e}")
         
         # Надіслати окремо повідомлення з caption, оскільки caption в media_group показується лише до першої картинки
         await bot.send_message(chat_id=CHAT_ID, text=message, parse_mode="Markdown", disable_web_page_preview=True)
@@ -204,9 +238,11 @@ async def notify_new_ads(new_ads):
 async def main():
     old_ads = await load_old_ads()
     old_links = {ad["link"]: ad for ad in old_ads}
-    print(f"Found old {len(old_links)} ads.")
+    #print(f"Found old {len(old_links)} ads.")
+    logging.info(f"Found old {len(old_links)} ads.")
     current_ads = await parse_ads(old_links)
-    print(f"Found {len(current_ads)} ads.")
+    #print(f"Found actual {len(current_ads)} ads.")
+    logging.info(f"Found actual {len(current_ads)} ads.")
     current_links = {ad["link"] for ad in current_ads}
     today = datetime.now().strftime("%Y-%m-%d")
 
@@ -215,7 +251,7 @@ async def main():
     # Додаємо або оновлюємо активні оголошення
     for ad in current_ads:
         if ad["link"] not in old_links:
-            print(f"Додаємо {ad["link"]}")
+            logging.info(f"Додаємо {ad["link"]}.")
             ad["date_found"] = today
             ad["status"] = "active"
             ad["date_removed"] = None
@@ -240,14 +276,14 @@ async def main():
     
     await generate_html_from_json("olx_ads.json")
     
-    
-    
+"""
 def main0():
     app = ApplicationBuilder().token(TOKEN).build()
     app.add_handler(CommandHandler("start", start))
     loop = asyncio.get_event_loop()
     loop.create_task(main())
     app.run_polling()
-    
+"""
+
 if __name__ == "__main__":
     asyncio.run(main())
