@@ -743,3 +743,10 @@
 2025-05-01 14:42:56 - INFO - Last page 13 is the same as this page. Stopping.
 2025-05-01 14:42:56 - INFO - Found actual 0 ads.
 2025-05-01 14:42:56 - INFO - ✅ HTML файл збережено: index.html
+2025-05-01 15:23:22 - INFO - Found old 448 ads.
+2025-05-01 15:23:29 - INFO - NEW {'title': 'Suboofer Magnat Tranforce 1200 moc 600W', 'link': 'https://www.olx.pl/d/oferta/suboofer-magnat-tranforce-1200-moc-600w-CID99-ID15DARp.html', 'price': '500 zł', 'status': 'active', 'date_found': '2025-05-01', 'date_removed': None, 'description': 'Magnat Transforce 1200Potężny subbwoofer 600 watt, Potężny basSprzedam potężny subwoofer znanej z produkcji subwooferów firmy Magnat.Subwoofer dysponuje mocą muzyczną 600 wat i znamionową 300 wat, więc spokojnie powinien zaspokoić niedobór niskich częstotliwości w większości systemów nagłośnieniowych.Zbudowany w oparciu o super niskotonowy głośnik Magnat 300 mm.Gra naprawdę potężnie i skutecznieRodzaj: bandpass subwoofer, 1 x 300mm bassMoc [Wat]: max 600RMS: 300Impedancja [Ohm]: 4Pasmo (Hz): 16 - 500Skuteczność [dB] : 93Wymiary: 365x600x365 mmSubwoofer gra znakomicie, głośnik oryginalny, w pełni sprawny, gra czysto, dynamicznie, bez zniekształceń. Zawieszenie górne głośnika w bardzo dobrym stanie.Wizualnie stan co najmniej dobry, miejscami zabrudzenia płótna obudowy, do wyczyszczenia', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/x9x2wzm6vqp4-PL/image;s=734x1632', 'https://ireland.apollo.olxcdn.com:443/v1/files/3nqsv34eoxxz-PL/image;s=734x1632', 'https://ireland.apollo.olxcdn.com:443/v1/files/ehl61f64ik3o2-PL/image;s=734x1632', 'https://ireland.apollo.olxcdn.com:443/v1/files/0tv5z1k1h5ma1-PL/image;s=734x1632'], 'published_date': '2025-05-01 o 14:50', 'location': ''}
+2025-05-01 15:23:31 - INFO - Parsed page 1, found 1 new ads.
+2025-05-01 15:24:10 - INFO - Last page 13 is the same as this page. Stopping.
+2025-05-01 15:24:10 - INFO - Found actual 1 ads.
+2025-05-01 15:24:10 - INFO - Додаємо https://www.olx.pl/d/oferta/suboofer-magnat-tranforce-1200-moc-600w-CID99-ID15DARp.html.
+2025-05-01 15:24:14 - INFO - ✅ HTML файл збережено: index.html
