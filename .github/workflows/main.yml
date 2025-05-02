@@ -2,7 +2,7 @@ name: "OLX-parser"
 
 on:
   schedule:
-    - cron: "0,30 3,6-23 * * *"  # Minute/Hour/Day/Month/Weekday (UTC)
+    - cron: "0 3,6-23 * * *"  # Minute/Hour/Day/Month/Weekday (UTC)
   workflow_dispatch:
 permissions:
   contents: write
