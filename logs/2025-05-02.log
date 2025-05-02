@@ -96,3 +96,10 @@
 2025-05-02 21:23:23 - INFO - Found old 459 ads.
 2025-05-02 21:23:23 - INFO - Found actual 0 ads.
 2025-05-02 21:23:23 - INFO - ✅ HTML файл збережено: index.html
+2025-05-02 22:24:57 - INFO - Found old 459 ads.
+2025-05-02 22:25:02 - INFO - NEW {'title': 'Kolumny głośnikowe podstawkowe magnat supreme 200', 'link': 'https://www.olx.pl/d/oferta/kolumny-glosnikowe-podstawkowe-magnat-supreme-200-CID99-ID15EpWX.html', 'price': '300 zł', 'status': 'active', 'date_found': '2025-05-02 22:25', 'date_removed': None, 'description': 'Kolumny całkowicie sprawne technicznie , grają naprawdę dobrze , czysto,  wizualnie noszą drobne ślady użytkowania widoczne na zdjęciach , w zestawie maskownice w niezłej kondycjicena nie podlega negocjacji.Głośnik regałowy 2-drożny, bassreflex, 180WKonstrukcja 2-drożna, regałowa, bassreflexWyposażenie prz. nisko-średniotonowy 1 x 170 mmPrzetwornik wysokotonowy 1 x 25 mmObciążalność (RMS/max.) 90/180 WImpedancja 4 - 8 OhmPasmo przenoszenia 34 - 38.000 HzCzęstotliwość zwrotnicy 3.500 HzRekomendowana moc wzmacniacza > 30 WSprawność (1 W/1 m) 91 dBWykończenie czarnyWymiary (szer. x wys. x gł.) 215 x 354 x 273 mmOdbiór osobisty - możliwy odsłuch na miejscu.', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/5nxcvsinnem42-PL/image;s=767x668', 'https://ireland.apollo.olxcdn.com:443/v1/files/5hv2vkqdyuw82-PL/image;s=1057x735'], 'published_date': '2025-05-02 o 21:57', 'location': ''}
+2025-05-02 22:25:05 - INFO - Parsed page 1, found 1 new ads.
+2025-05-02 22:25:45 - INFO - Last page 13 is the same as this page. Stopping.
+2025-05-02 22:25:45 - INFO - Found actual 1 ads.
+2025-05-02 22:25:45 - INFO - Додаємо https://www.olx.pl/d/oferta/kolumny-glosnikowe-podstawkowe-magnat-supreme-200-CID99-ID15EpWX.html.
+2025-05-02 22:25:47 - INFO - ✅ HTML файл збережено: index.html
