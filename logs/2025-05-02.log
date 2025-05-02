@@ -56,3 +56,10 @@
 2025-05-02 13:34:00 - INFO - Found actual 1 ads.
 2025-05-02 13:34:00 - INFO - Додаємо https://www.olx.pl/d/oferta/magnat-power-bull-tuba-do-auta-CID99-ID15E86t.html.
 2025-05-02 13:34:02 - INFO - ✅ HTML файл збережено: index.html
+2025-05-02 14:24:29 - INFO - Found old 456 ads.
+2025-05-02 14:24:34 - INFO - NEW {'title': 'Kolumny głośnikowe Magnat Transplus 1500 od audiofila', 'link': 'https://www.olx.pl/d/oferta/kolumny-glosnikowe-magnat-transplus-1500-od-audiofila-CID99-ID15Ebd7.html', 'price': '2 900 zł', 'status': 'active', 'date_found': '2025-05-02 14:24', 'date_removed': None, 'description': 'Mam do sprzedania zestaw głośnikowy Magnat Transplus 1500.Stan techniczny i wizualny gabinetowy/sklepowy - bez NAJMNIEJSZEJ skazy (więcej zdjęć na życzenie).Dodam kable 2 x 5m przekrój 4 mm2.Posiadam też oryginalne kartony ze styropianem dla bezpiecznego transportu.Kupione ponad 2 lata temu zatem brak gwarancji.Odbiór osobisty ze względu na gabaryty (52 x 38 x 100cm)i wagę 37 kg/sztuka.Posiadam też amplituner Denon 190W dla zainteresowanych.', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/yio129fqcx3j1-PL/image;s=1841x1072', 'https://ireland.apollo.olxcdn.com:443/v1/files/g3bkh9fvf2ix1-PL/image;s=1058x1435', 'https://ireland.apollo.olxcdn.com:443/v1/files/4mx5csp1ss2t2-PL/image;s=1063x1600'], 'published_date': '2025-05-02 o 13:58', 'location': ''}
+2025-05-02 14:24:37 - INFO - Parsed page 1, found 1 new ads.
+2025-05-02 14:25:21 - INFO - Last page 13 is the same as this page. Stopping.
+2025-05-02 14:25:21 - INFO - Found actual 1 ads.
+2025-05-02 14:25:21 - INFO - Додаємо https://www.olx.pl/d/oferta/kolumny-glosnikowe-magnat-transplus-1500-od-audiofila-CID99-ID15Ebd7.html.
+2025-05-02 14:25:24 - INFO - ✅ HTML файл збережено: index.html
