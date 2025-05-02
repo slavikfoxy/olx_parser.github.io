@@ -95,7 +95,7 @@ async def generate_html_from_json(json_path: str, html_output: str = "index.html
 
         html_parts.append(f'<a class="link" href="{ad.get("link", "#")}" target="_blank">Перейти на OLX</a>')
         html_parts.append('</div>')
-    html_parts.append(f'<div class="time">{datetime.now().strftime("%Y-%m-%d")}</div>')
+    html_parts.append(f'<div class="time">{datetime.now().strftime("%Y-%m-%d ")}</div>')
 
     html_parts.append('</body></html>')
 
@@ -146,7 +146,7 @@ async def parse_ads(old_links):
                         "link": link,
                         "price": price_tag.get_text(strip=True).replace("do negocjacji", "").strip() if price_tag else "",
                         "status": "active",
-                        "date_found": datetime.now().strftime("%Y-%m-%d"),
+                        "date_found": datetime.now().strftime("%Y-%m-%d %H:%M"),
                         "date_removed": None
                     }
                     await parse_ad_details(ad)  # <- доповнюємо інформацію
@@ -240,6 +240,7 @@ async def notify_new_ads(new_ads):
 async def main():
     old_ads = await load_old_ads()
     old_links = {ad["link"]: ad for ad in old_ads}
+    old_titles = {ad["title"]: ad for ad in old_ads}
     #print(f"Found old {len(old_links)} ads.")
     logging.info(f"Found old {len(old_links)} ads.")
     current_ads = await parse_ads(old_links)
@@ -252,7 +253,7 @@ async def main():
 
     # Додаємо або оновлюємо активні оголошення
     for ad in current_ads:
-        if ad["link"] not in old_links:
+        if (ad["link"] not in old_links) or (ad["title"] not in old_titles):
             logging.info(f"Додаємо {ad["link"]}.")
             ad["date_found"] = today
             ad["status"] = "active"
