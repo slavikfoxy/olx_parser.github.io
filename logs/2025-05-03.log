@@ -57,3 +57,10 @@
 2025-05-03 14:23:07 - INFO - Додаємо https://www.olx.pl/d/oferta/kolumny-monitiry-magnat-integra-professional-150w-tanio-CID99-ID10wyN3.html.
 2025-05-03 14:23:10 - INFO - Додаємо https://www.olx.pl/d/oferta/kolumny-yamaha-ns-e7900-glosniki-do-amplituner-a-kino-domowe-CID99-ID15EM8v.html.
 2025-05-03 14:23:16 - INFO - ✅ HTML файл збережено: index.html
+2025-05-03 15:23:53 - INFO - Found old 467 ads.
+2025-05-03 15:23:58 - INFO - NEW {'title': 'Kolumny głośniki Magnat Soundforce 1200  130/300 watt', 'link': 'https://www.olx.pl/d/oferta/kolumny-glosniki-magnat-soundforce-1200-130-300-watt-CID99-ID15EOaM.html', 'price': '249 zł', 'status': 'active', 'date_found': '2025-05-03 15:23', 'date_removed': None, 'description': 'Sprzedam używane kolumny głośniki Magnat Soundforce 1200 o mocy 130/300 watt. Swietne dla miłośników doskonałego dźwięku., wszystkie głośniki sprawne Polecam możliwa wysyłka', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/wkg1xb12mcn53-PL/image;s=2304x1728', 'https://ireland.apollo.olxcdn.com:443/v1/files/0e2qcwf38q5o3-PL/image;s=2304x1728', 'https://ireland.apollo.olxcdn.com:443/v1/files/54h2q8sm12c02-PL/image;s=2304x1728', 'https://ireland.apollo.olxcdn.com:443/v1/files/8irrqd3vr0it-PL/image;s=2304x1728', 'https://ireland.apollo.olxcdn.com:443/v1/files/gpjyds9ovhcy2-PL/image;s=2304x1728', 'https://ireland.apollo.olxcdn.com:443/v1/files/mwulb1ljvre53-PL/image;s=2304x1728', 'https://ireland.apollo.olxcdn.com:443/v1/files/vkw8amv6a1yj3-PL/image;s=2304x1728'], 'published_date': '2025-05-03 o 14:38', 'location': ''}
+2025-05-03 15:24:01 - INFO - Parsed page 1, found 1 new ads.
+2025-05-03 15:24:48 - INFO - Last page 13 is the same as this page. Stopping.
+2025-05-03 15:24:48 - INFO - Found actual 1 ads.
+2025-05-03 15:24:48 - INFO - Додаємо https://www.olx.pl/d/oferta/kolumny-glosniki-magnat-soundforce-1200-130-300-watt-CID99-ID15EOaM.html.
+2025-05-03 15:24:52 - INFO - ✅ HTML файл збережено: index.html
