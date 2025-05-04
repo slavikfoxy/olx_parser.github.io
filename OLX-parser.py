@@ -6,7 +6,7 @@ from datetime import datetime
 import os
 from telegram import Bot
 from telegram import Update, InputMediaPhoto
-from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
+from telegram.helpers import escape_markdown
 import asyncio
 import json
 import logging
@@ -220,10 +220,8 @@ async def notify_new_ads(new_ads):
             f"📍 {ad['location']}\n"
             f"🔗 [Перейти на OLX]({ad['link']})"
         )
-        message2 = (
-            f"{ad['description'][:1021] + '...'}"
-        )
-
+        #message2 = (f"{ad['description'][:1021] + '...'}")
+        message2 = escape_markdown(ad['description'][:1021] + '...', version=2)
         images = ad.get("images") or []
         if images:
             media_group = [InputMediaPhoto(media=img) for img in images[:10]]  # max 10
@@ -235,7 +233,8 @@ async def notify_new_ads(new_ads):
         
         # Надіслати окремо повідомлення з caption, оскільки caption в media_group показується лише до першої картинки
         await bot.send_message(chat_id=CHAT_ID, text=message, parse_mode="Markdown", disable_web_page_preview=True)
-        await bot.send_message(chat_id=CHAT_ID, text=message2, parse_mode="Markdown", disable_web_page_preview=True)
+        await bot.send_message(chat_id=CHAT_ID, text=message2, parse_mode="MarkdownV2", disable_web_page_preview=True) #MarkdownV2 - escape_markdown
+        
         
 async def main():
     old_ads = await load_old_ads()
