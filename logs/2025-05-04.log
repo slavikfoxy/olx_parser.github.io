@@ -1,0 +1,7 @@
+2025-05-04 03:47:52 - INFO - Found old 471 ads.
+2025-05-04 03:48:00 - INFO - NEW {'title': 'Kolumny magnat sprawne', 'link': 'https://www.olx.pl/d/oferta/kolumny-magnat-sprawne-CID99-ID15DcLG.html', 'price': '349 zł', 'status': 'active', 'date_found': '2025-05-04 03:48', 'date_removed': None, 'description': 'Sprzedam wpełni sprawne kolumny marki Magnat. Więcej informacji udzielę wyłącznie telefonicznych nie odpowiadam na sms-y emaile telefon 531_ 002 _659. Pozdrawiam', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/jc7vsc8l9n831-PL/image;s=868x1160', 'https://ireland.apollo.olxcdn.com:443/v1/files/1rqrcpx3yd5g2-PL/image;s=868x1160', 'https://ireland.apollo.olxcdn.com:443/v1/files/6894h6c6akbu2-PL/image;s=868x1160'], 'published_date': '2025-05-04 o 01:30', 'location': ''}
+2025-05-04 03:48:02 - INFO - Parsed page 2, found 1 new ads.
+2025-05-04 03:48:46 - INFO - Last page 13 is the same as this page. Stopping.
+2025-05-04 03:48:46 - INFO - Found actual 1 ads.
+2025-05-04 03:48:46 - INFO - Додаємо https://www.olx.pl/d/oferta/kolumny-magnat-sprawne-CID99-ID15DcLG.html.
+2025-05-04 03:48:48 - INFO - ✅ HTML файл збережено: index.html
