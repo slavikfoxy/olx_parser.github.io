@@ -31,3 +31,10 @@
 2025-05-04 10:26:12 - INFO - Last page 13 is the same as this page. Stopping.
 2025-05-04 10:26:12 - INFO - Found actual 0 ads.
 2025-05-04 10:26:12 - INFO - ✅ HTML файл збережено: index.html
+2025-05-04 11:19:09 - INFO - Found old 474 ads.
+2025-05-04 11:19:48 - INFO - NEW {'title': 'Kolumny Pylon Sapphire 25 orzech', 'link': 'https://www.olx.pl/d/oferta/kolumny-pylon-sapphire-25-orzech-CID99-ID13Tfzj.html', 'price': '3 299 zł', 'status': 'active', 'date_found': '2025-05-04 11:19', 'date_removed': None, 'description': 'Cześć, na sprzedaż lecą świetne kolumny Pylon Sapphire 25, orzech, stan jak nowe. Sprzedaję tylko dlatego że przesiadłem się na monitory, te były za duże do pokoju. O dźwięku nie muszę się rozpisywać, w internecie jest masa świetnych recenzji. Brak maskownic, nie ma ich w komplecie. Data zakupu 24.02.2023, gwarancja przedłużona, posiadam dokument karty gwarancyjnej. Nie wysyłam z racji braku kartonów, tylko odbiór osobisty. Możliwość odsłuchu.Możliwość zakupu w zestawie ze wzmacniaczem Magnat MA 900, patrz na pozostałe ogłoszenia w profilu.https://pylonsklep.pl/pl/pylon-audio-sapphire-25.html', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/j6wf3qdnxfz62-PL/image;s=768x1024', 'https://ireland.apollo.olxcdn.com:443/v1/files/ze1cdx1xdosp3-PL/image;s=768x1024', 'https://ireland.apollo.olxcdn.com:443/v1/files/6cvhndjwjeaz1-PL/image;s=768x1024', 'https://ireland.apollo.olxcdn.com:443/v1/files/fq50lp3s78rm3-PL/image;s=768x1024', 'https://ireland.apollo.olxcdn.com:443/v1/files/yeopt2cxu80j2-PL/image;s=768x1024'], 'published_date': '10 kwietnia 2025', 'location': ''}
+2025-05-04 11:19:48 - INFO - Parsed page 11, found 1 new ads.
+2025-05-04 11:19:59 - INFO - Last page 13 is the same as this page. Stopping.
+2025-05-04 11:19:59 - INFO - Found actual 1 ads.
+2025-05-04 11:19:59 - INFO - Додаємо https://www.olx.pl/d/oferta/kolumny-pylon-sapphire-25-orzech-CID99-ID13Tfzj.html.
+2025-05-04 11:20:02 - INFO - ✅ HTML файл збережено: index.html
