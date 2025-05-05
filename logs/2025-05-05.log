@@ -76,3 +76,10 @@
 2025-05-05 08:35:48 - INFO - Found actual 1 ads.
 2025-05-05 08:35:48 - INFO - Додаємо https://www.olx.pl/d/oferta/subwoofer-magnat-CID99-ID12tkxb.html.
 2025-05-05 08:35:50 - INFO - ✅ HTML файл збережено: index.html
+2025-05-05 09:28:13 - INFO - Found old 486 ads.
+2025-05-05 09:28:17 - INFO - NEW {'title': 'Tuba Magnat Bull 250 400Watt', 'link': 'https://www.olx.pl/d/oferta/tuba-magnat-bull-250-400watt-CID99-ID15Gdml.html', 'price': '140 zł', 'status': 'active', 'date_found': '2025-05-05 09:28', 'date_removed': None, 'description': 'Witam, przedmiotem dzisiejszej sprzedaży jest Tuba bassowa marki Magnat, sprawna 100%, w dobrym stanie wizualnym. Zapraszam do wiadomości prywatnej zainteresowane osoby numer telefonu podam we wiadomości prywatnej, gdyż wypisuje pełno botów i naciągaczy.', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/elo6mo0s4s6a3-PL/image;s=545x768'], 'published_date': '2025-05-05 o 09:13', 'location': ''}
+2025-05-05 09:28:21 - INFO - Parsed page 1, found 1 new ads.
+2025-05-05 09:29:02 - INFO - Last page 13 is the same as this page. Stopping.
+2025-05-05 09:29:02 - INFO - Found actual 1 ads.
+2025-05-05 09:29:02 - INFO - Додаємо https://www.olx.pl/d/oferta/tuba-magnat-bull-250-400watt-CID99-ID15Gdml.html.
+2025-05-05 09:29:05 - INFO - ✅ HTML файл збережено: index.html
