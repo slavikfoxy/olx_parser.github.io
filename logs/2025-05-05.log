@@ -91,3 +91,12 @@
 2025-05-05 11:21:50 - INFO - Last page 13 is the same as this page. Stopping.
 2025-05-05 11:21:50 - INFO - Found actual 0 ads.
 2025-05-05 11:21:50 - INFO - ✅ HTML файл збережено: index.html
+2025-05-05 12:52:54 - INFO - Found old 487 ads.
+2025-05-05 12:52:58 - INFO - NEW {'title': 'Kolumny głośnikowe Magnat Monitor 880', 'link': 'https://www.olx.pl/d/oferta/kolumny-glosnikowe-magnat-monitor-880-CID99-ID15Gpdm.html', 'price': '700 zł', 'status': 'active', 'date_found': '2025-05-05 12:52', 'date_removed': None, 'description': 'Sprzedam 2 drożne kolumny głośnikowe niemieckiej firmy Magnat.Kolumny są w bardzo dobrym stanie, bez uszkodzeń i wad. W komplecie maskownice. Do obejrzenia i odbioru na Zaciszu w Warszawie. Odbiór wyłącznie osobisty.', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/xuepswm9jh272-PL/image;s=867x1156', 'https://ireland.apollo.olxcdn.com:443/v1/files/yc1r8xo8c2iq2-PL/image;s=867x1156', 'https://ireland.apollo.olxcdn.com:443/v1/files/0d26mhfghqbd1-PL/image;s=867x1156', 'https://ireland.apollo.olxcdn.com:443/v1/files/2jmdppxy62mi1-PL/image;s=867x1156'], 'published_date': '2025-05-05 o 11:56', 'location': ''}
+2025-05-05 12:52:59 - INFO - NEW {'title': 'Kolumny glosnikowe Magnat quantum 677', 'link': 'https://www.olx.pl/d/oferta/kolumny-glosnikowe-magnat-quantum-677-CID99-ID15Go3p.html', 'price': '1 600 zł', 'status': 'active', 'date_found': '2025-05-05 12:52', 'date_removed': None, 'description': 'WitamPosiadam na sprzedaż dwoe kolumny głośnikowe Magnat Quantum 677 stan idealny, mało używane.', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/w5c4olltyut5-PL/image;s=750x1000', 'https://ireland.apollo.olxcdn.com:443/v1/files/5zzo2e6vtru6-PL/image;s=750x1000', 'https://ireland.apollo.olxcdn.com:443/v1/files/c7xatmgwkkpv2-PL/image;s=750x1000'], 'published_date': '2025-05-05 o 11:41', 'location': ''}
+2025-05-05 12:53:02 - INFO - Parsed page 1, found 2 new ads.
+2025-05-05 12:53:42 - INFO - Last page 13 is the same as this page. Stopping.
+2025-05-05 12:53:42 - INFO - Found actual 2 ads.
+2025-05-05 12:53:42 - INFO - Додаємо https://www.olx.pl/d/oferta/kolumny-glosnikowe-magnat-monitor-880-CID99-ID15Gpdm.html.
+2025-05-05 12:53:44 - INFO - Додаємо https://www.olx.pl/d/oferta/kolumny-glosnikowe-magnat-quantum-677-CID99-ID15Go3p.html.
+2025-05-05 12:53:47 - INFO - ✅ HTML файл збережено: index.html
