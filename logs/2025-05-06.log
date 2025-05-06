@@ -56,3 +56,10 @@
 2025-05-06 15:34:19 - INFO - Found actual 1 ads.
 2025-05-06 15:34:19 - INFO - Додаємо https://www.olx.pl/d/oferta/tuba-magnat-megaforce-1120-400w-CID99-ID15HAwi.html.
 2025-05-06 15:34:22 - INFO - ✅ HTML файл збережено: index.html
+2025-05-06 16:31:05 - INFO - Found old 497 ads.
+2025-05-06 16:31:10 - INFO - NEW {'title': 'Sprzedam tube magnat 1200wat', 'link': 'https://www.olx.pl/d/oferta/sprzedam-tube-magnat-1200wat-CID99-ID15HFRU.html', 'price': '350 zł', 'status': 'active', 'date_found': '2025-05-06 16:31', 'date_removed': None, 'description': 'Sprzedam tube magnat 1200wat odbiór osobisty ! Proszę dzwonić pod numer 45*****73', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/pgdb66gx8vz2-PL/image;s=768x1024'], 'published_date': '2025-05-06 o 15:38', 'location': ''}
+2025-05-06 16:31:13 - INFO - Parsed page 1, found 1 new ads.
+2025-05-06 16:31:53 - INFO - Last page 13 is the same as this page. Stopping.
+2025-05-06 16:31:53 - INFO - Found actual 1 ads.
+2025-05-06 16:31:53 - INFO - Додаємо https://www.olx.pl/d/oferta/sprzedam-tube-magnat-1200wat-CID99-ID15HFRU.html.
+2025-05-06 16:31:56 - INFO - ✅ HTML файл збережено: index.html
