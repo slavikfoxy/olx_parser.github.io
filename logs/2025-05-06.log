@@ -32,3 +32,12 @@
 2025-05-06 11:22:16 - INFO - Found actual 1 ads.
 2025-05-06 11:22:16 - INFO - Додаємо https://www.olx.pl/d/oferta/pink-faun-stantem-accuton-kolumny-CID99-ID15Hey7.html.
 2025-05-06 11:22:19 - INFO - ✅ HTML файл збережено: index.html
+2025-05-06 12:53:57 - INFO - Found old 494 ads.
+2025-05-06 12:54:03 - INFO - NEW {'title': 'Subwoofee Magnat Quantum omega 250 ltd', 'link': 'https://www.olx.pl/d/oferta/subwoofee-magnat-quantum-omega-250-ltd-CID99-ID15Hp82.html', 'price': '1 999 zł', 'status': 'active', 'date_found': '2025-05-06 12:54', 'date_removed': None, 'description': 'Magnat Quantum Omegq 250 ltdBardzo dobry stan w pelni sprawny techniczne.Kolor palisander', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/lrh2ym5fx5151-PL/image;s=400x576'], 'published_date': '2025-05-06 o 12:18', 'location': ''}
+2025-05-06 12:54:05 - INFO - NEW {'title': 'Magnat Quantum 816 głośnik centralny', 'link': 'https://www.olx.pl/d/oferta/magnat-quantum-816-glosnik-centralny-CID99-ID15HoNz.html', 'price': '1 200 zł', 'status': 'active', 'date_found': '2025-05-06 12:54', 'date_removed': None, 'description': 'Magnat Quantum 816Bardzo dobry stan w pelni sprawny techniczne.W zestawie jest głośnik oraz maskownica.', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/orkd39zjwz4j2-PL/image;s=300x250'], 'published_date': '2025-05-06 o 12:14', 'location': ''}
+2025-05-06 12:54:07 - INFO - Parsed page 1, found 2 new ads.
+2025-05-06 12:55:00 - INFO - Last page 13 is the same as this page. Stopping.
+2025-05-06 12:55:00 - INFO - Found actual 2 ads.
+2025-05-06 12:55:00 - INFO - Додаємо https://www.olx.pl/d/oferta/subwoofee-magnat-quantum-omega-250-ltd-CID99-ID15Hp82.html.
+2025-05-06 12:55:03 - INFO - Додаємо https://www.olx.pl/d/oferta/magnat-quantum-816-glosnik-centralny-CID99-ID15HoNz.html.
+2025-05-06 12:55:05 - INFO - ✅ HTML файл збережено: index.html
