@@ -87,3 +87,10 @@
 2025-05-07 20:28:55 - INFO - Found old 510 ads.
 2025-05-07 20:28:55 - INFO - Found actual 0 ads.
 2025-05-07 20:28:55 - INFO - ✅ HTML файл збережено: index.html
+2025-05-07 21:21:26 - INFO - Found old 510 ads.
+2025-05-07 21:22:20 - INFO - NEW {'title': 'Monitor Audio RX2 kolumny podstawkowe + podstawy', 'link': 'https://www.olx.pl/d/oferta/monitor-audio-rx2-kolumny-podstawkowe-podstawy-CID99-IDVNAxg.html', 'price': '2 200 zł', 'status': 'active', 'date_found': '2025-05-07 21:22', 'date_removed': None, 'description': 'Do sprzedania para głośników podstawowych znanej i cenionej marki Audio Monitor. Model to RX2, bardzo przyjemne i mocne głośniki. Grają ze wzmacniaczem Magnat mr780 i gramofonem pro-jest carbon. Bardzo dobry stan i podstawki gratis.', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/9ydopqft42hg2-PL/image;s=750x1000', 'https://ireland.apollo.olxcdn.com:443/v1/files/0z495xhwy5302-PL/image;s=750x1000'], 'published_date': '2025-05-07 o 19:36', 'location': ''}
+2025-05-07 21:22:20 - INFO - Parsed page 7, found 1 new ads.
+2025-05-07 21:22:45 - INFO - Last page 13 is the same as this page. Stopping.
+2025-05-07 21:22:45 - INFO - Found actual 1 ads.
+2025-05-07 21:22:45 - INFO - Додаємо https://www.olx.pl/d/oferta/monitor-audio-rx2-kolumny-podstawkowe-podstawy-CID99-IDVNAxg.html.
+2025-05-07 21:22:47 - INFO - ✅ HTML файл збережено: index.html
