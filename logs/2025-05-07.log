@@ -2,3 +2,10 @@
 2025-05-07 03:44:44 - INFO - Last page 13 is the same as this page. Stopping.
 2025-05-07 03:44:44 - INFO - Found actual 0 ads.
 2025-05-07 03:44:44 - INFO - ✅ HTML файл збережено: index.html
+2025-05-07 06:36:20 - INFO - Found old 501 ads.
+2025-05-07 06:36:33 - INFO - NEW {'title': 'Magnat glosniki kolumny', 'link': 'https://www.olx.pl/d/oferta/magnat-glosniki-kolumny-CID99-ID14Ymht.html', 'price': '400 zł', 'status': 'active', 'date_found': '2025-05-07 06:36', 'date_removed': None, 'description': 'Glosniki Magnat . W pelni sprawne , sprzedaje z powodu wymiany na wieksze. Dokladny opis Glosnikow zalaczam w zdjeciach .  Zainteresowane osoby prosze o wiadomosc sms .Tylko odbior osobisty', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/ul032aiqs2232-PL/image;s=2252x4000', 'https://ireland.apollo.olxcdn.com:443/v1/files/8jhzpxqjzf3o1-PL/image;s=2252x4000', 'https://ireland.apollo.olxcdn.com:443/v1/files/mk6e3migza1x-PL/image;s=2252x4000', 'https://ireland.apollo.olxcdn.com:443/v1/files/f1sclftejr122-PL/image;s=2252x4000', 'https://ireland.apollo.olxcdn.com:443/v1/files/1m1lphdq2s9v1-PL/image;s=2252x4000'], 'published_date': '2025-05-07 o 06:07', 'location': ''}
+2025-05-07 06:36:34 - INFO - Parsed page 2, found 1 new ads.
+2025-05-07 06:37:11 - INFO - Last page 13 is the same as this page. Stopping.
+2025-05-07 06:37:11 - INFO - Found actual 1 ads.
+2025-05-07 06:37:11 - INFO - Додаємо https://www.olx.pl/d/oferta/magnat-glosniki-kolumny-CID99-ID14Ymht.html.
+2025-05-07 06:37:15 - INFO - ✅ HTML файл збережено: index.html
