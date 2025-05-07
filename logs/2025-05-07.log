@@ -73,3 +73,10 @@
 2025-05-07 17:24:09 - INFO - Found actual 1 ads.
 2025-05-07 17:24:09 - INFO - Додаємо https://www.olx.pl/d/oferta/piekne-kolumny-quadral-korun-iv-CID99-ID15hWm6.html.
 2025-05-07 17:24:13 - INFO - ✅ HTML файл збережено: index.html
+2025-05-07 18:34:44 - INFO - Found old 509 ads.
+2025-05-07 18:34:59 - INFO - NEW {'title': 'Głośnik Magnat Edytion B33', 'link': 'https://www.olx.pl/d/oferta/glosnik-magnat-edytion-b33-CID99-ID157pj2.html', 'price': '120 zł', 'status': 'active', 'date_found': '2025-05-07 18:34', 'date_removed': None, 'description': 'Sprzedam głośnik Magnat samochodowy, nie wiadomo czy działa, został wymontowany z samochodu, stał w garażu.', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/960uf4rfjx4u3-PL/image;s=3024x4032', 'https://ireland.apollo.olxcdn.com:443/v1/files/2cfge3pn17r23-PL/image;s=3024x4032', 'https://ireland.apollo.olxcdn.com:443/v1/files/0m58go9t2jls3-PL/image;s=3024x4032'], 'published_date': '2025-05-07 o 17:33', 'location': ''}
+2025-05-07 18:35:00 - INFO - Parsed page 3, found 1 new ads.
+2025-05-07 18:35:35 - INFO - Last page 13 is the same as this page. Stopping.
+2025-05-07 18:35:35 - INFO - Found actual 1 ads.
+2025-05-07 18:35:35 - INFO - Додаємо https://www.olx.pl/d/oferta/glosnik-magnat-edytion-b33-CID99-ID157pj2.html.
+2025-05-07 18:35:39 - INFO - ✅ HTML файл збережено: index.html
