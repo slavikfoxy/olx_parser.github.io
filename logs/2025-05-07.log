@@ -57,3 +57,12 @@
 2025-05-07 15:30:21 - INFO - Found actual 1 ads.
 2025-05-07 15:30:21 - INFO - Додаємо https://www.olx.pl/d/oferta/kolumny-magnat-saundforce-1200-CID99-ID15Iy44.html.
 2025-05-07 15:30:24 - INFO - ✅ HTML файл збережено: index.html
+2025-05-07 16:33:35 - INFO - Found old 506 ads.
+2025-05-07 16:33:38 - INFO - NEW {'title': 'Subwoofer aktywny MAGNAT Betasub 30A', 'link': 'https://www.olx.pl/d/oferta/subwoofer-aktywny-magnat-betasub-30a-CID99-ID15IBCa.html', 'price': '600 zł', 'status': 'active', 'date_found': '2025-05-07 16:33', 'date_removed': None, 'description': 'Subwoofer aktywny- mało używany, w bardzo dobrym stanie.Możliwość odbioru w Szubinie lub Kowalewie oraz wysyłka kurierska za dodatkową opłatą- ok 50 zł.', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/ckz7q51ld7hg3-PL/image;s=768x1024', 'https://ireland.apollo.olxcdn.com:443/v1/files/v7cdg3d23zts1-PL/image;s=768x1024'], 'published_date': '2025-05-07 o 16:03', 'location': ''}
+2025-05-07 16:33:39 - INFO - NEW {'title': 'Yamaha rx v363 + Głośniki 5.1 magnat', 'link': 'https://www.olx.pl/d/oferta/yamaha-rx-v363-glosniki-5-1-magnat-CID99-ID15IB3E.html', 'price': '400 zł', 'status': 'active', 'date_found': '2025-05-07 16:33', 'date_removed': None, 'description': 'Sprzedam tak jak w tytule sprzęt sprawny tylko odbiór osobisty cena ostateczna.', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/hnrg5ywgi31h1-PL/image;s=2048x1536', 'https://ireland.apollo.olxcdn.com:443/v1/files/gg35kd1zm5b51-PL/image;s=1536x2048', 'https://ireland.apollo.olxcdn.com:443/v1/files/9fkopabw3yft2-PL/image;s=1536x2048', 'https://ireland.apollo.olxcdn.com:443/v1/files/z2xcdk8eweoo2-PL/image;s=1536x2048', 'https://ireland.apollo.olxcdn.com:443/v1/files/qtigbjw43cd02-PL/image;s=1536x2048'], 'published_date': '2025-05-07 o 15:53', 'location': ''}
+2025-05-07 16:33:41 - INFO - Parsed page 1, found 2 new ads.
+2025-05-07 16:34:22 - INFO - Last page 13 is the same as this page. Stopping.
+2025-05-07 16:34:22 - INFO - Found actual 2 ads.
+2025-05-07 16:34:22 - INFO - Додаємо https://www.olx.pl/d/oferta/subwoofer-aktywny-magnat-betasub-30a-CID99-ID15IBCa.html.
+2025-05-07 16:34:24 - INFO - Додаємо https://www.olx.pl/d/oferta/yamaha-rx-v363-glosniki-5-1-magnat-CID99-ID15IB3E.html.
+2025-05-07 16:34:26 - INFO - ✅ HTML файл збережено: index.html
