@@ -66,3 +66,12 @@
 2025-05-08 16:34:10 - INFO - Found actual 1 ads.
 2025-05-08 16:34:10 - INFO - Додаємо https://www.olx.pl/d/oferta/kolumny-magnat-shadow-209-CID99-ID15JqHW.html.
 2025-05-08 16:34:14 - INFO - ✅ HTML файл збережено: index.html
+2025-05-08 17:22:34 - INFO - Found old 521 ads.
+2025-05-08 17:22:38 - INFO - NEW {'title': 'Subwoofer Magnat edition bs30', 'link': 'https://www.olx.pl/d/oferta/subwoofer-magnat-edition-bs30-CID99-ID15JwHg.html', 'price': '200 zł', 'status': 'active', 'date_found': '2025-05-08 17:22', 'date_removed': None, 'description': 'subwoofer magnat edition bs30 w pełni sprawny wysyłam kurierem', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/7px4bvbwl4843-PL/image;s=750x1000', 'https://ireland.apollo.olxcdn.com:443/v1/files/4hbcotj9oxwr2-PL/image;s=750x1000', 'https://ireland.apollo.olxcdn.com:443/v1/files/8hyb7ow5nuap3-PL/image;s=750x1000'], 'published_date': '2025-05-08 o 17:10', 'location': ''}
+2025-05-08 17:22:40 - INFO - NEW {'title': 'Subwoofer Magnat edition BS30', 'link': 'https://www.olx.pl/d/oferta/subwoofer-magnat-edition-bs30-CID99-ID15JwAu.html', 'price': '200 zł', 'status': 'active', 'date_found': '2025-05-08 17:22', 'date_removed': None, 'description': 'Subwoofer magnat edition bs30 w pełni sprawny wysyłam kurierem', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/9skkiwm1wqtb1-PL/image;s=750x1000', 'https://ireland.apollo.olxcdn.com:443/v1/files/ltqlvlmvjsy-PL/image;s=750x1000', 'https://ireland.apollo.olxcdn.com:443/v1/files/9e2dp9xqatsm2-PL/image;s=750x1000'], 'published_date': '2025-05-08 o 17:08', 'location': ''}
+2025-05-08 17:22:44 - INFO - Parsed page 1, found 2 new ads.
+2025-05-08 17:23:29 - INFO - Last page 13 is the same as this page. Stopping.
+2025-05-08 17:23:29 - INFO - Found actual 2 ads.
+2025-05-08 17:23:29 - INFO - Додаємо https://www.olx.pl/d/oferta/subwoofer-magnat-edition-bs30-CID99-ID15JwHg.html.
+2025-05-08 17:23:31 - INFO - Додаємо https://www.olx.pl/d/oferta/subwoofer-magnat-edition-bs30-CID99-ID15JwAu.html.
+2025-05-08 17:23:34 - INFO - ✅ HTML файл збережено: index.html
