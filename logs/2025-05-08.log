@@ -59,3 +59,10 @@
 2025-05-08 15:29:32 - INFO - Found actual 1 ads.
 2025-05-08 15:29:32 - INFO - Додаємо https://www.olx.pl/d/oferta/kolumny-magnat-sprawne-CID99-ID15JnnO.html.
 2025-05-08 15:29:35 - INFO - ✅ HTML файл збережено: index.html
+2025-05-08 16:33:17 - INFO - Found old 520 ads.
+2025-05-08 16:33:25 - INFO - NEW {'title': 'Kolumny Magnat Shadow 209', 'link': 'https://www.olx.pl/d/oferta/kolumny-magnat-shadow-209-CID99-ID15JqHW.html', 'price': '1 500 zł', 'status': 'active', 'date_found': '2025-05-08 16:33', 'date_removed': None, 'description': 'Kolumny Magnat Shadow 209 używane. Jedna ma dwie niewielkie plamki widoczne na zdjęciach a tak to stan idealny. Kolor biały. Głosniki niskotonowe 3x170mm, głośnik średniotonowy 1x170, głośnik wysokotonowy 1x30mm. Pasmo 20 Hz - 48 000 Hz. Port bi-ampling. Bass-reflex. Niesamowity dźwięk. Wspaniałe basy. Posiadam je od nowości. Tylko odbiór osobisty w Warszawie. Tylko gotówka. Cena za dwie sztuki.', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/qkzr90x3ne453-PL/image;s=768x1024', 'https://ireland.apollo.olxcdn.com:443/v1/files/060bhagk1iag2-PL/image;s=768x1024', 'https://ireland.apollo.olxcdn.com:443/v1/files/38k49ye80v1q3-PL/image;s=768x1024', 'https://ireland.apollo.olxcdn.com:443/v1/files/04d1hhowtwee3-PL/image;s=768x1024', 'https://ireland.apollo.olxcdn.com:443/v1/files/3de3717uj91d2-PL/image;s=768x1024', 'https://ireland.apollo.olxcdn.com:443/v1/files/8v0089yxbmsu1-PL/image;s=768x1024', 'https://ireland.apollo.olxcdn.com:443/v1/files/fszvb8oyi0mu2-PL/image;s=768x1024'], 'published_date': '2025-05-08 o 15:51', 'location': ''}
+2025-05-08 16:33:27 - INFO - Parsed page 1, found 1 new ads.
+2025-05-08 16:34:10 - INFO - Last page 13 is the same as this page. Stopping.
+2025-05-08 16:34:10 - INFO - Found actual 1 ads.
+2025-05-08 16:34:10 - INFO - Додаємо https://www.olx.pl/d/oferta/kolumny-magnat-shadow-209-CID99-ID15JqHW.html.
+2025-05-08 16:34:14 - INFO - ✅ HTML файл збережено: index.html
