@@ -67,3 +67,10 @@
 2025-05-10 17:20:40 - INFO - Last page 13 is the same as this page. Stopping.
 2025-05-10 17:20:40 - INFO - Found actual 0 ads.
 2025-05-10 17:20:40 - INFO - ✅ HTML файл збережено: index.html
+2025-05-10 18:31:22 - INFO - Found old 536 ads.
+2025-05-10 18:31:30 - INFO - NEW {'title': 'Subwoofer Magnat Sub 302A Moc 220W', 'link': 'https://www.olx.pl/d/oferta/subwoofer-magnat-sub-302a-moc-220w-CID99-ID15Lh5q.html', 'price': '500 zł', 'status': 'active', 'date_found': '2025-05-10 18:31', 'date_removed': None, 'description': 'Witam,Mam na sprzedaż subwoofer Magnat 302A.Głośnik w pełni sprawny i bez uszkodzeń. Zachowany w dobrym stanie.Sprzedaję ponieważ nowe kolumny dają mi wystarczająco dużo basu.Do subwoofera dodaje gratis markowy kabel RCA Melodika MDSW30 o długości 3m.Odbiór osobisty Gdynia KarwinyKontakt telefoniczny lub wiadomość olx', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/p5u598g7hs11-PL/image;s=1500x2000', 'https://ireland.apollo.olxcdn.com:443/v1/files/i0cm672u4cgy1-PL/image;s=1500x2000', 'https://ireland.apollo.olxcdn.com:443/v1/files/ld8sxehincfq-PL/image;s=1500x2000', 'https://ireland.apollo.olxcdn.com:443/v1/files/8hprrtf83eyb3-PL/image;s=1500x2000', 'https://ireland.apollo.olxcdn.com:443/v1/files/fsa9sjlx3iso3-PL/image;s=1079x1080'], 'published_date': '2025-05-10 o 17:48', 'location': ''}
+2025-05-10 18:31:32 - INFO - Parsed page 1, found 1 new ads.
+2025-05-10 18:32:17 - INFO - Last page 13 is the same as this page. Stopping.
+2025-05-10 18:32:17 - INFO - Found actual 1 ads.
+2025-05-10 18:32:17 - INFO - Додаємо https://www.olx.pl/d/oferta/subwoofer-magnat-sub-302a-moc-220w-CID99-ID15Lh5q.html.
+2025-05-10 18:32:21 - INFO - ✅ HTML файл збережено: index.html
