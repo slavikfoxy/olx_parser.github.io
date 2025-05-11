@@ -62,3 +62,10 @@
 2025-05-11 17:20:46 - INFO - Found actual 1 ads.
 2025-05-11 17:20:46 - INFO - Додаємо https://www.olx.pl/d/oferta/okazja-duzy-zestaw-kina-domowego-CID99-ID15M47d.html.
 2025-05-11 17:20:50 - INFO - ✅ HTML файл збережено: index.html
+2025-05-11 18:31:42 - INFO - Found old 541 ads.
+2025-05-11 18:31:46 - INFO - NEW {'title': 'Subwoofer magnat + wzmacniacz', 'link': 'https://www.olx.pl/d/oferta/subwoofer-magnat-wzmacniacz-CID99-ID15M6q2.html', 'price': '400 zł', 'status': 'active', 'date_found': '2025-05-11 18:31', 'date_removed': None, 'description': 'Witam serdecznie, mam do zaoferowania Państwu subwoofer + wzmacniacz sprzęt w pełni sprawny dopiero co wyjęty z samochodu grającego. Nigdy nie katowany, w minusowe temperatury nie włączany.Jeżeli jesteś zainteresowany proszę o kontakt.', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/jqvdorb3refn3-PL/image;s=1500x2000', 'https://ireland.apollo.olxcdn.com:443/v1/files/u5030uel5i9b-PL/image;s=1500x2000', 'https://ireland.apollo.olxcdn.com:443/v1/files/vxn55uxb27sc2-PL/image;s=1500x2000', 'https://ireland.apollo.olxcdn.com:443/v1/files/ujih2tsmxt9q2-PL/image;s=1500x2000'], 'published_date': '2025-05-11 o 17:24', 'location': ''}
+2025-05-11 18:31:50 - INFO - Parsed page 1, found 1 new ads.
+2025-05-11 18:32:30 - INFO - Last page 13 is the same as this page. Stopping.
+2025-05-11 18:32:30 - INFO - Found actual 1 ads.
+2025-05-11 18:32:30 - INFO - Додаємо https://www.olx.pl/d/oferta/subwoofer-magnat-wzmacniacz-CID99-ID15M6q2.html.
+2025-05-11 18:32:32 - INFO - ✅ HTML файл збережено: index.html
