@@ -17,3 +17,10 @@
 2025-05-11 08:30:59 - INFO - Last page 13 is the same as this page. Stopping.
 2025-05-11 08:30:59 - INFO - Found actual 0 ads.
 2025-05-11 08:30:59 - INFO - ✅ HTML файл збережено: index.html
+2025-05-11 09:24:14 - INFO - Found old 538 ads.
+2025-05-11 09:24:21 - INFO - NEW {'title': 'subwoofer magnat 800wat', 'link': 'https://www.olx.pl/d/oferta/subwoofer-magnat-800wat-CID99-ID15Ly6c.html', 'price': '250 zł', 'status': 'active', 'date_found': '2025-05-11 09:24', 'date_removed': None, 'description': 'sprzedam subwoofer firmy magnat 800 wat.Gra ładnie nic nie trzeszczy.Służył mi przez ponad dwa lata, sprzedaje ponieważ zmieniłem auto i stoi nie używany.', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/o2x3jcim8fcn3-PL/image;s=750x1000', 'https://ireland.apollo.olxcdn.com:443/v1/files/isqcvvr7u15n1-PL/image;s=750x1000', 'https://ireland.apollo.olxcdn.com:443/v1/files/mmlorvbr2nev2-PL/image;s=750x1000'], 'published_date': '2025-05-11 o 08:31', 'location': ''}
+2025-05-11 09:24:23 - INFO - Parsed page 1, found 1 new ads.
+2025-05-11 09:25:06 - INFO - Last page 13 is the same as this page. Stopping.
+2025-05-11 09:25:06 - INFO - Found actual 1 ads.
+2025-05-11 09:25:06 - INFO - Додаємо https://www.olx.pl/d/oferta/subwoofer-magnat-800wat-CID99-ID15Ly6c.html.
+2025-05-11 09:25:10 - INFO - ✅ HTML файл збережено: index.html
