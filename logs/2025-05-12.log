@@ -55,3 +55,10 @@
 2025-05-12 14:28:12 - INFO - Додаємо https://www.olx.pl/d/oferta/magnat-monitor-s14-ckolumna-centralna-kolor-czarny-CID99-ID15MXoY.html.
 2025-05-12 14:28:14 - INFO - Додаємо https://www.olx.pl/d/oferta/glosniki-pioneer-wzmacniacz-magnat-classic-4000-CID99-ID15MWt4.html.
 2025-05-12 14:28:18 - INFO - ✅ HTML файл збережено: index.html
+2025-05-12 15:29:56 - INFO - Found old 550 ads.
+2025-05-12 15:30:44 - INFO - NEW {'title': 'MAGNAT TRANSPULS 26b VINTAGE west germany aktywne !', 'link': 'https://www.olx.pl/d/oferta/magnat-transpuls-26b-vintage-west-germany-aktywne-CID99-IDlE6Hk.html', 'price': '1 400 zł', 'status': 'active', 'date_found': '2025-05-12 15:30', 'date_removed': None, 'description': 'UNIKAT NA RYNKU WTÓRNYM ,KOLUMNY AKTYWNE MAGNAT TRANSPULS 26b.wszystko sprawne i oryginalne.wiecej danych tu - http://www.magnat.tv/b4.shtml.zainteresowanym wiecej  foto na priv.', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/788mf5kgfv903-PL/image;s=933x700', 'https://ireland.apollo.olxcdn.com:443/v1/files/9982esbs2x843-PL/image;s=933x700', 'https://ireland.apollo.olxcdn.com:443/v1/files/rpr2mc3x1grf-PL/image;s=933x700'], 'published_date': '2025-05-12 o 15:11', 'location': ''}
+2025-05-12 15:30:48 - INFO - Parsed page 11, found 1 new ads.
+2025-05-12 15:31:00 - INFO - Last page 13 is the same as this page. Stopping.
+2025-05-12 15:31:00 - INFO - Found actual 1 ads.
+2025-05-12 15:31:00 - INFO - Додаємо https://www.olx.pl/d/oferta/magnat-transpuls-26b-vintage-west-germany-aktywne-CID99-IDlE6Hk.html.
+2025-05-12 15:31:03 - INFO - ✅ HTML файл збережено: index.html
