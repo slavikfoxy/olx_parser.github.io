@@ -72,3 +72,7 @@
 2025-05-12 16:34:18 - INFO - Додаємо https://www.olx.pl/d/oferta/kolumny-podlogowe-magnat-duze-250-wat-CID99-ID15N3Xa.html.
 2025-05-12 16:34:20 - ERROR - ❌ Помилка надсилання фото: Failed to send message #8 with the error message "webpage_curl_failed"
 2025-05-12 16:34:20 - INFO - ✅ HTML файл збережено: index.html
+2025-05-12 17:22:53 - INFO - Found old 553 ads.
+2025-05-12 17:23:44 - INFO - Last page 13 is the same as this page. Stopping.
+2025-05-12 17:23:44 - INFO - Found actual 0 ads.
+2025-05-12 17:23:44 - INFO - ✅ HTML файл збережено: index.html
