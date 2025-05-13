@@ -17,3 +17,10 @@
 2025-05-13 08:35:21 - INFO - Last page 13 is the same as this page. Stopping.
 2025-05-13 08:35:21 - INFO - Found actual 0 ads.
 2025-05-13 08:35:21 - INFO - ✅ HTML файл збережено: index.html
+2025-05-13 09:28:15 - INFO - Found old 554 ads.
+2025-05-13 09:28:22 - INFO - NEW {'title': 'Subwoofer Magnat BS30 12" 30cm', 'link': 'https://www.olx.pl/d/oferta/subwoofer-magnat-bs30-12-30cm-CID99-ID15NFa0.html', 'price': '120 zł', 'status': 'active', 'date_found': '2025-05-13 09:28', 'date_removed': None, 'description': 'Subwoofer magnat bs30 o mocy 250w rms oraz 800w max impedentacja 4 ohm rozmiar 300mmW pełni sprawny w dobrym stanie + skrzynia. Subwoofer służył mi jaki aktywny do kina domowego, niestety wzmacniacz wyzionął ducha i musiałem go wyciągnąć. Dziura po wzmacniaczu została "profesjonalnie" naprawiona.Idealny zawodnik na tanie granie da młodego gniewnego. Preferuje odbiór osobisty i sprawdzenie na miejscu. Wysyłka jest możliwa, ale na odpowiedzialność kupującego (wiadomo jak kurierzy obchodzą się z paczkami)', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/kpkbvpj4hw193-PL/image;s=1024x768', 'https://ireland.apollo.olxcdn.com:443/v1/files/prn5on1y73572-PL/image;s=768x1024', 'https://ireland.apollo.olxcdn.com:443/v1/files/ae3k7og7oddq2-PL/image;s=1024x768', 'https://ireland.apollo.olxcdn.com:443/v1/files/l7bd5rkfoa2j-PL/image;s=768x1024', 'https://ireland.apollo.olxcdn.com:443/v1/files/ajz32ipjwmyn2-PL/image;s=1024x768'], 'published_date': '2025-05-13 o 08:44', 'location': ''}
+2025-05-13 09:28:26 - INFO - Parsed page 1, found 1 new ads.
+2025-05-13 09:29:10 - INFO - Last page 13 is the same as this page. Stopping.
+2025-05-13 09:29:10 - INFO - Found actual 1 ads.
+2025-05-13 09:29:10 - INFO - Додаємо https://www.olx.pl/d/oferta/subwoofer-magnat-bs30-12-30cm-CID99-ID15NFa0.html.
+2025-05-13 09:29:13 - INFO - ✅ HTML файл збережено: index.html
