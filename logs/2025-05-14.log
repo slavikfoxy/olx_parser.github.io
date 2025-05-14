@@ -23,3 +23,12 @@
 2025-05-14 08:34:59 - INFO - Found actual 1 ads.
 2025-05-14 08:34:59 - INFO - Додаємо https://www.olx.pl/d/oferta/subwoofer-wzmacniacz-subwoofer-gratis-cena-ostateczna-320-zl-CID99-ID15McrB.html.
 2025-05-14 08:35:02 - INFO - ✅ HTML файл збережено: index.html
+2025-05-14 09:27:55 - INFO - Found old 566 ads.
+2025-05-14 09:28:00 - INFO - NEW {'title': 'Kolumny Magnat mr2 , studyjne', 'link': 'https://www.olx.pl/d/oferta/kolumny-magnat-mr2-studyjne-CID99-ID15OFIv.html', 'price': '450 zł', 'status': 'active', 'date_found': '2025-05-14 09:28', 'date_removed': None, 'description': 'Sprzedam kolumny Magnat MR2 , chwalone kolumny do malego , domowego studia …. W pełni sprawne , ale do odnowienia skrzynki , widać na foto .', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/wycajkfitvys1-PL/image;s=750x1000', 'https://ireland.apollo.olxcdn.com:443/v1/files/kthei2mbohzv1-PL/image;s=750x1000', 'https://ireland.apollo.olxcdn.com:443/v1/files/j7faj0hhyq442-PL/image;s=750x1000', 'https://ireland.apollo.olxcdn.com:443/v1/files/pmq0tcabqln53-PL/image;s=750x1000', 'https://ireland.apollo.olxcdn.com:443/v1/files/v9k8u57nn69s1-PL/image;s=750x1000', 'https://ireland.apollo.olxcdn.com:443/v1/files/frk76abe8pnm1-PL/image;s=750x1000', 'https://ireland.apollo.olxcdn.com:443/v1/files/ozaxkc0ruh3y-PL/image;s=750x1000'], 'published_date': '2025-05-14 o 09:08', 'location': ''}
+2025-05-14 09:28:02 - INFO - NEW {'title': 'Zestaw SOUNDBAR + SUBWOOFER Magnat SBW 280 Bluetooth aptX Dolby Audio', 'link': 'https://www.olx.pl/d/oferta/zestaw-soundbar-subwoofer-magnat-sbw-280-bluetooth-aptx-dolby-audio-CID99-ID15ODbR.html', 'price': '888 zł', 'status': 'active', 'date_found': '2025-05-14 09:28', 'date_removed': None, 'description': 'Zestaw SOUNDBAR + SUBWOOFER Magnat SBW 280 Bluetooth aptX Dolby Audio HDMINowyGwarancja producentaZapraszam', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/qmtf8rj8xx3n3-PL/image;s=1200x580'], 'published_date': '2025-05-14 o 08:30', 'location': ''}
+2025-05-14 09:28:04 - INFO - Parsed page 1, found 2 new ads.
+2025-05-14 09:28:47 - INFO - Last page 13 is the same as this page. Stopping.
+2025-05-14 09:28:47 - INFO - Found actual 2 ads.
+2025-05-14 09:28:47 - INFO - Додаємо https://www.olx.pl/d/oferta/kolumny-magnat-mr2-studyjne-CID99-ID15OFIv.html.
+2025-05-14 09:28:50 - INFO - Додаємо https://www.olx.pl/d/oferta/zestaw-soundbar-subwoofer-magnat-sbw-280-bluetooth-aptx-dolby-audio-CID99-ID15ODbR.html.
+2025-05-14 09:28:52 - INFO - ✅ HTML файл збережено: index.html
