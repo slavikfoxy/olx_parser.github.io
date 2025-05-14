@@ -67,3 +67,10 @@
 2025-05-14 14:27:34 - INFO - Found actual 1 ads.
 2025-05-14 14:27:34 - INFO - Додаємо https://www.olx.pl/d/oferta/kolumny-magnat-sounforce-1200-300watt-CID99-ID15OZaK.html.
 2025-05-14 14:27:38 - INFO - ✅ HTML файл збережено: index.html
+2025-05-14 15:27:53 - INFO - Found old 573 ads.
+2025-05-14 15:27:59 - INFO - NEW {'title': 'subwoofer aktywny Magnat', 'link': 'https://www.olx.pl/d/oferta/subwoofer-aktywny-magnat-CID99-IDVkEFB.html', 'price': '250 zł', 'status': 'active', 'date_found': '2025-05-14 15:27', 'date_removed': None, 'description': 'Witam sprzedam subwoofer magnat aktywny  wszystko sprawne Ładnie wszystko gra  .za mało miejsca w pokoju dlatego sprzedaję . Ze względu na gabaryty  nie wysyłam odbiór osobisty więcej pytań 66*******28 można się dogadać w sprawach kurierskichmozliwosc zamiany na coś innego najlepiej coś dla chłopca 8 lat propozycje pisać.', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/opooqlgc2iko1-PL/image;s=900x2000', 'https://ireland.apollo.olxcdn.com:443/v1/files/6pbth12xbb1e-PL/image;s=900x2000', 'https://ireland.apollo.olxcdn.com:443/v1/files/dr00hcb9ekds2-PL/image;s=900x2000', 'https://ireland.apollo.olxcdn.com:443/v1/files/nij4menw3nm6-PL/image;s=900x2000'], 'published_date': '2025-05-14 o 14:55', 'location': ''}
+2025-05-14 15:28:02 - INFO - Parsed page 1, found 1 new ads.
+2025-05-14 15:28:49 - INFO - Last page 13 is the same as this page. Stopping.
+2025-05-14 15:28:49 - INFO - Found actual 1 ads.
+2025-05-14 15:28:49 - INFO - Додаємо https://www.olx.pl/d/oferta/subwoofer-aktywny-magnat-CID99-IDVkEFB.html.
+2025-05-14 15:28:51 - INFO - ✅ HTML файл збережено: index.html
