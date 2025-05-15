@@ -79,3 +79,10 @@
 2025-05-15 22:25:30 - INFO - Last page 13 is the same as this page. Stopping.
 2025-05-15 22:25:30 - INFO - Found actual 0 ads.
 2025-05-15 22:25:30 - INFO - ✅ HTML файл збережено: index.html
+2025-05-15 23:24:05 - INFO - Found old 582 ads.
+2025-05-15 23:24:14 - INFO - NEW {'title': 'KOLUMNA Głośnik BLUETOOTH Radioodtwarzacz MP3 Wieża Karaoke Budowlane', 'link': 'https://www.olx.pl/d/oferta/kolumna-glosnik-bluetooth-radioodtwarzacz-mp3-wieza-karaoke-budowlane-CID99-IDGldsP.html', 'price': '130 zł', 'status': 'active', 'date_found': '2025-05-15 23:24', 'date_removed': None, 'description': '', 'images': [], 'location': ''}
+2025-05-15 23:24:21 - INFO - Parsed page 1, found 1 new ads.
+2025-05-15 23:25:22 - INFO - Last page 13 is the same as this page. Stopping.
+2025-05-15 23:25:22 - INFO - Found actual 1 ads.
+2025-05-15 23:25:22 - INFO - Додаємо https://www.olx.pl/d/oferta/kolumna-glosnik-bluetooth-radioodtwarzacz-mp3-wieza-karaoke-budowlane-CID99-IDGldsP.html.
+2025-05-15 23:25:24 - INFO - ✅ HTML файл збережено: index.html
