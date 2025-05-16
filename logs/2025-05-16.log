@@ -45,3 +45,10 @@
 2025-05-16 12:53:47 - INFO - Last page 13 is the same as this page. Stopping.
 2025-05-16 12:53:47 - INFO - Found actual 0 ads.
 2025-05-16 12:53:47 - INFO - ✅ HTML файл збережено: index.html
+2025-05-16 13:35:04 - INFO - Found old 588 ads.
+2025-05-16 13:35:10 - INFO - NEW {'title': 'Kolumna centralna Magnat', 'link': 'https://www.olx.pl/d/oferta/kolumna-centralna-magnat-CID99-ID15R481.html', 'price': '320 zł', 'status': 'active', 'date_found': '2025-05-16 13:35', 'date_removed': None, 'description': 'Sprzedam kolumnę centralną marki Magnat Monitor Supremę Center 250. Kolumna sprawna i zadbana w kolorze ciemny brąz.Specyfikacja na zdjęciu', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/n91xe8yifr0o3-PL/image;s=1000x750', 'https://ireland.apollo.olxcdn.com:443/v1/files/vohmmh1gh25n3-PL/image;s=1000x750', 'https://ireland.apollo.olxcdn.com:443/v1/files/u4w0ip8094ai3-PL/image;s=1000x750', 'https://ireland.apollo.olxcdn.com:443/v1/files/2ajcry7p9i2k-PL/image;s=1000x750', 'https://ireland.apollo.olxcdn.com:443/v1/files/q2g1dpx7md6q2-PL/image;s=1000x750', 'https://ireland.apollo.olxcdn.com:443/v1/files/airvc5r2nwgl1-PL/image;s=1000x750', 'https://ireland.apollo.olxcdn.com:443/v1/files/adsto8azvl7k-PL/image;s=1000x750'], 'published_date': '2025-05-16 o 13:09', 'location': ''}
+2025-05-16 13:35:16 - INFO - Parsed page 1, found 1 new ads.
+2025-05-16 13:35:57 - INFO - Last page 13 is the same as this page. Stopping.
+2025-05-16 13:35:57 - INFO - Found actual 1 ads.
+2025-05-16 13:35:57 - INFO - Додаємо https://www.olx.pl/d/oferta/kolumna-centralna-magnat-CID99-ID15R481.html.
+2025-05-16 13:36:01 - INFO - ✅ HTML файл збережено: index.html
