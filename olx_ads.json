@@ -1,11 +1,27 @@
 [
   {
+    "title": "Głośnik magnat symbol 120 pro",
+    "link": "https://www.olx.pl/d/oferta/glosnik-magnat-symbol-120-pro-CID99-ID15QFYx.html",
+    "price": "100 zł",
+    "status": "active",
+    "date_found": "2025-05-16",
+    "date_removed": null,
+    "description": "Nowy.Odbiór tylko osobisty - Gdynia.Polecam",
+    "images": [
+      "https://ireland.apollo.olxcdn.com:443/v1/files/jmmqjdo9t3tv2-PL/image;s=2000x1126",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/i759py53na661-PL/image;s=2000x1126",
+      "https://ireland.apollo.olxcdn.com:443/v1/files/0pwafdsxcbx11-PL/image;s=2000x1126"
+    ],
+    "published_date": "2025-05-16 o 01:15",
+    "location": ""
+  },
+  {
     "title": "KOLUMNA Głośnik BLUETOOTH Radioodtwarzacz MP3 Wieża Karaoke Budowlane",
     "link": "https://www.olx.pl/d/oferta/kolumna-glosnik-bluetooth-radioodtwarzacz-mp3-wieza-karaoke-budowlane-CID99-IDGldsP.html",
     "price": "130 zł",
-    "status": "active",
+    "status": "inactive",
     "date_found": "2025-05-15",
-    "date_removed": null,
+    "date_removed": "2025-05-16",
     "description": "",
     "images": [],
     "location": ""
