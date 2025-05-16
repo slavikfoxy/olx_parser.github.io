@@ -13,3 +13,10 @@
 2025-05-16 07:26:19 - INFO - Last page 13 is the same as this page. Stopping.
 2025-05-16 07:26:19 - INFO - Found actual 0 ads.
 2025-05-16 07:26:19 - INFO - ✅ HTML файл збережено: index.html
+2025-05-16 08:34:00 - INFO - Found old 584 ads.
+2025-05-16 08:34:07 - INFO - NEW {'title': 'Kolumny Magnat , zamienię', 'link': 'https://www.olx.pl/d/oferta/kolumny-magnat-zamienie-CID99-ID15Q4Xs.html', 'price': '299 zł', 'status': 'active', 'date_found': '2025-05-16 08:34', 'date_removed': None, 'description': 'Sprzedam kolumny magnat widoczne na zdjęciach. Sprzęt sprawny bardzo ładnie grają , maskownice w dobrym stanie , specyfikacja na tabliczce znamionowej .Możliwa zamiana na rower , aparat , inne.Zamiana tylko osobista w Zgierzu', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/6kf5ul363jzv3-PL/image;s=1000x750', 'https://ireland.apollo.olxcdn.com:443/v1/files/ocj68oi275fu-PL/image;s=1000x750', 'https://ireland.apollo.olxcdn.com:443/v1/files/pxwe6ylk2gn2-PL/image;s=1000x750', 'https://ireland.apollo.olxcdn.com:443/v1/files/xgs8w847j7u42-PL/image;s=1000x750', 'https://ireland.apollo.olxcdn.com:443/v1/files/937ytj3ahxsx1-PL/image;s=1000x750', 'https://ireland.apollo.olxcdn.com:443/v1/files/6yl5k3d4dle1-PL/image;s=1000x750'], 'published_date': '15 maja 2025', 'location': ''}
+2025-05-16 08:34:08 - INFO - Parsed page 1, found 1 new ads.
+2025-05-16 08:34:49 - INFO - Last page 13 is the same as this page. Stopping.
+2025-05-16 08:34:49 - INFO - Found actual 1 ads.
+2025-05-16 08:34:49 - INFO - Додаємо https://www.olx.pl/d/oferta/kolumny-magnat-zamienie-CID99-ID15Q4Xs.html.
+2025-05-16 08:34:50 - INFO - ✅ HTML файл збережено: index.html
