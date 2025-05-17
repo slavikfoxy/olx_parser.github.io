@@ -52,3 +52,12 @@
 2025-05-17 13:30:14 - INFO - Last page 13 is the same as this page. Stopping.
 2025-05-17 13:30:14 - INFO - Found actual 0 ads.
 2025-05-17 13:30:14 - INFO - ✅ HTML файл збережено: index.html
+2025-05-17 14:22:02 - INFO - Found old 598 ads.
+2025-05-17 14:22:06 - INFO - NEW {'title': 'Kolumny Magnat 6 sztuk', 'link': 'https://www.olx.pl/d/oferta/kolumny-magnat-6-sztuk-CID99-ID15ROmS.html', 'price': '2 000 zł', 'status': 'active', 'date_found': '2025-05-17 14:22', 'date_removed': None, 'description': 'Stan bdb brak kabliŚwietna firma dobra moc', 'images': [], 'published_date': '2025-05-17 o 13:34', 'location': ''}
+2025-05-17 14:22:07 - INFO - NEW {'title': 'Subwoofer Magnat supreme Sub 302A', 'link': 'https://www.olx.pl/d/oferta/subwoofer-magnat-supreme-sub-302a-CID99-ID15RNTh.html', 'price': '450 zł', 'status': 'active', 'date_found': '2025-05-17 14:22', 'date_removed': None, 'description': 'Sprzedam subwoofer firmy Magnat supreme sub 302A. Stan bardzo dobry. Kolor ciemny brąz/czekoladowy.', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/11br1i53h0ca1-PL/image;s=717x1599', 'https://ireland.apollo.olxcdn.com:443/v1/files/tp1z46bysjel1-PL/image;s=717x1599', 'https://ireland.apollo.olxcdn.com:443/v1/files/mjo6uykbo61z2-PL/image;s=1599x717', 'https://ireland.apollo.olxcdn.com:443/v1/files/v6i9dzcar3pi2-PL/image;s=717x1599'], 'published_date': '2025-05-17 o 13:26', 'location': ''}
+2025-05-17 14:22:12 - INFO - Parsed page 1, found 2 new ads.
+2025-05-17 14:23:01 - INFO - Last page 13 is the same as this page. Stopping.
+2025-05-17 14:23:01 - INFO - Found actual 2 ads.
+2025-05-17 14:23:01 - INFO - Додаємо https://www.olx.pl/d/oferta/kolumny-magnat-6-sztuk-CID99-ID15ROmS.html.
+2025-05-17 14:23:03 - INFO - Додаємо https://www.olx.pl/d/oferta/subwoofer-magnat-supreme-sub-302a-CID99-ID15RNTh.html.
+2025-05-17 14:23:06 - INFO - ✅ HTML файл збережено: index.html
