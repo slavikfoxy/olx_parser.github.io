@@ -65,3 +65,12 @@
 2025-05-17 15:24:44 - INFO - Last page 13 is the same as this page. Stopping.
 2025-05-17 15:24:44 - INFO - Found actual 0 ads.
 2025-05-17 15:24:44 - INFO - ✅ HTML файл збережено: index.html
+2025-05-17 16:29:40 - INFO - Found old 600 ads.
+2025-05-17 16:29:47 - INFO - NEW {'title': 'Glosniki Magnat Viva 2', 'link': 'https://www.olx.pl/d/oferta/glosniki-magnat-viva-2-CID99-ID15RWX1.html', 'price': '250 zł', 'status': 'active', 'date_found': '2025-05-17 16:29', 'date_removed': None, 'description': 'Sprzedam głośniki znanej firmy jaką jest Magnat. Membrany w idealnym stanie.obudowy nie są obite ale okleina lekko odchodzi czego na pierwszy rzut oka nie widać. zostaje podłączyć i używać :)', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/mz2cvqbr6e1u2-PL/image;s=768x1024', 'https://ireland.apollo.olxcdn.com:443/v1/files/9ae0vzzwlvla-PL/image;s=1024x768', 'https://ireland.apollo.olxcdn.com:443/v1/files/sbkudrhl19kk1-PL/image;s=768x1024'], 'published_date': '2025-05-17 o 15:29', 'location': ''}
+2025-05-17 16:29:48 - INFO - NEW {'title': 'Kolumny Magnat Monitor Supreme 800', 'link': 'https://www.olx.pl/d/oferta/kolumny-magnat-monitor-supreme-800-CID99-ID15RV5D.html', 'price': '450 zł', 'status': 'active', 'date_found': '2025-05-17 16:29', 'date_removed': None, 'description': 'Sprzedam kolumny magnat. Głośniki w bardzo dobrym stanie. Grają czysto.Obudowy noszą lekkie ślady użytkowania ale ich stan oceniam na dobry :) osoby zainteresowane zapraszam do kontaktuNIE WYSYŁAM', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/gj2y9xtu3r1b2-PL/image;s=768x1024', 'https://ireland.apollo.olxcdn.com:443/v1/files/259mef2wz9zf1-PL/image;s=768x1024', 'https://ireland.apollo.olxcdn.com:443/v1/files/014da3anqhn81-PL/image;s=768x1024'], 'published_date': '2025-05-17 o 15:31', 'location': ''}
+2025-05-17 16:29:52 - INFO - Parsed page 1, found 2 new ads.
+2025-05-17 16:30:37 - INFO - Last page 13 is the same as this page. Stopping.
+2025-05-17 16:30:37 - INFO - Found actual 2 ads.
+2025-05-17 16:30:37 - INFO - Додаємо https://www.olx.pl/d/oferta/glosniki-magnat-viva-2-CID99-ID15RWX1.html.
+2025-05-17 16:30:39 - INFO - Додаємо https://www.olx.pl/d/oferta/kolumny-magnat-monitor-supreme-800-CID99-ID15RV5D.html.
+2025-05-17 16:30:41 - INFO - ✅ HTML файл збережено: index.html
