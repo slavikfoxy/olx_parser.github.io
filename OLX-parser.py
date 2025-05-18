@@ -285,7 +285,7 @@ async def main():
 
         # Додаємо або оновлюємо активні оголошення
         for ad in current_ads:
-            if (ad["link"] not in old_links) or (ad["title"] not in old_titles):
+            if (ad["link"] not in old_links): #or (ad["title"] not in old_titles(
                 logging.info(f"Додаємо {ad['link']}.")
                 ad["date_found"] = today
                 ad["status"] = "active"
