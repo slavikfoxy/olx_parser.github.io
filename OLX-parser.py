@@ -10,6 +10,9 @@ from telegram.helpers import escape_markdown
 import asyncio
 import logging
 import re
+import httpx
+from telegram.request import HTTPXRequest
+from telegram.error import TelegramError
 
 # Конфігурація
 SEARCH_URLS = [
@@ -20,7 +23,15 @@ SEARCH_URLS = [
 HEADERS = {"User-Agent": "Mozilla/5.0"}
 TOKEN = '7930055889:AAEG1rcIRftxKxzIRzqAxTj8TaWpd2c-fNQ'
 CHAT_ID = '-1002655572721' #376481898 old bot ID
-bot = Bot(token=TOKEN)
+
+# Налаштування HTTPXRequest з більшим таймаутом
+request = HTTPXRequest(
+    connection_pool_size=10,
+    read_timeout=30.0,  # Збільшено таймаут до 30 секунд
+    write_timeout=30.0,
+    connect_timeout=30.0,
+)
+bot = Bot(token=TOKEN, request=request)
 
 filter = set()
 filter.add("Na moich wystawionych pozostałych ogłoszeniach możesz kupić sprzęty typu:")
@@ -204,9 +215,8 @@ async def parse_ad_details(ad):
     location_tag = soup.select_one("p[data-testid='location-date']")
     ad["location"] = location_tag.get_text(strip=True) if location_tag else ""
 
-async def notify_new_ads(new_ads, thread_id=None):
-    """Надсилає повідомлення про нові оголошення в указану гілку."""
-    await asyncio.sleep(1)
+async def notify_new_ads(new_ads, thread_id=None, retries=3, retry_delay=5):
+    """Надсилає повідомлення про нові оголошення в указану гілку з повторами."""
     for ad in new_ads:
         message = (
             f"🆕 *{ad['title']}*\n"
@@ -216,31 +226,42 @@ async def notify_new_ads(new_ads, thread_id=None):
         )
         message2 = escape_markdown(ad['description'][:1021] + '...', version=2)
         images = ad.get("images") or []
-        if images:
-            media_group = [InputMediaPhoto(media=img) for img in images[:10]]
+
+        for attempt in range(retries):
             try:
-                await bot.send_media_group(
+                if images:
+                    media_group = [InputMediaPhoto(media=img) for img in images[:10]]
+                    await bot.send_media_group(
+                        chat_id=CHAT_ID,
+                        media=media_group,
+                        message_thread_id=thread_id
+                    )
+
+                await bot.send_message(
                     chat_id=CHAT_ID,
-                    media=media_group,
+                    text=message,
+                    parse_mode="Markdown",
+                    disable_web_page_preview=True,
                     message_thread_id=thread_id
                 )
-            except Exception as e:
-                logging.error(f"❌ Помилка надсилання фото: {e}")
-        
-        await bot.send_message(
-            chat_id=CHAT_ID,
-            text=message,
-            parse_mode="Markdown",
-            disable_web_page_preview=True,
-            message_thread_id=thread_id
-        )
-        await bot.send_message(
-            chat_id=CHAT_ID,
-            text=message2,
-            parse_mode="MarkdownV2",
-            disable_web_page_preview=True,
-            message_thread_id=thread_id
-        )
+                await bot.send_message(
+                    chat_id=CHAT_ID,
+                    text=message2,
+                    parse_mode="MarkdownV2",
+                    disable_web_page_preview=True,
+                    message_thread_id=thread_id
+                )
+                logging.info(f"Successfully sent message for ad: {ad['title']}")
+                break  # Успішно, виходимо з циклу повторів
+
+            except TelegramError as e:
+                logging.error(f"Attempt {attempt + 1}/{retries} failed for ad {ad['title']}: {e}")
+                if attempt < retries - 1:
+                    logging.info(f"Retrying in {retry_delay} seconds...")
+                    await asyncio.sleep(retry_delay)
+                else:
+                    logging.error(f"Failed to send message for ad {ad['title']} after {retries} attempts")
+                    # Продовжуємо з наступним оголошенням, не зупиняємо скрипт
 
 async def main():
     """Основна функція для обробки всіх URL-адрес."""
