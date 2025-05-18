@@ -215,7 +215,7 @@ async def parse_ad_details(ad):
     location_tag = soup.select_one("p[data-testid='location-date']")
     ad["location"] = location_tag.get_text(strip=True) if location_tag else ""
 
-async def notify_new_ads(new_ads, thread_id=None, retries=3, retry_delay=5):
+async def notify_new_ads(new_ads, thread_id=None, retries=3, retry_delay=32):
     """Надсилає повідомлення про нові оголошення в указану гілку з повторами."""
     for ad in new_ads:
         message = (
