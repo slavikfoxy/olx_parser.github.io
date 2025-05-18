@@ -13,13 +13,13 @@ import re
 
 # Конфігурація
 SEARCH_URLS = [
-    "https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1",
-    "https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-jbl-kolumny/?courier=1"
-    # Додайте інші URL-адреси за потреби
+    {"url": "https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1", "thread_id": "2"},
+    {"url": "https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1", "thread_id": "5"}
+    # Додайте інші URL та thread_id за потреби
 ]
 HEADERS = {"User-Agent": "Mozilla/5.0"}
 TOKEN = '7930055889:AAEG1rcIRftxKxzIRzqAxTj8TaWpd2c-fNQ'
-CHAT_ID = '376481898'
+CHAT_ID = '-1002655572721' #376481898 old bot ID
 bot = Bot(token=TOKEN)
 
 filter = set()
@@ -44,7 +44,7 @@ def get_json_filename(url):
     query = re.search(r'q-([^/?]+)', url)
     if query:
         return f"{query.group(1)}.json"
-    return "default.json"  # Запасне ім'я, якщо параметр не знайдено
+    return "default.json"
 
 async def load_old_ads(json_file):
     """Завантажує старі оголошення з JSON-файлу."""
@@ -204,8 +204,8 @@ async def parse_ad_details(ad):
     location_tag = soup.select_one("p[data-testid='location-date']")
     ad["location"] = location_tag.get_text(strip=True) if location_tag else ""
 
-async def notify_new_ads(new_ads):
-    """Надсилає повідомлення про нові оголошення."""
+async def notify_new_ads(new_ads, thread_id=None):
+    """Надсилає повідомлення про нові оголошення в указану гілку."""
     await asyncio.sleep(1)
     for ad in new_ads:
         message = (
@@ -219,18 +219,36 @@ async def notify_new_ads(new_ads):
         if images:
             media_group = [InputMediaPhoto(media=img) for img in images[:10]]
             try:
-                await bot.send_media_group(chat_id=CHAT_ID, media=media_group)
+                await bot.send_media_group(
+                    chat_id=CHAT_ID,
+                    media=media_group,
+                    message_thread_id=thread_id
+                )
             except Exception as e:
                 logging.error(f"❌ Помилка надсилання фото: {e}")
         
-        await bot.send_message(chat_id=CHAT_ID, text=message, parse_mode="Markdown", disable_web_page_preview=True)
-        await bot.send_message(chat_id=CHAT_ID, text=message2, parse_mode="MarkdownV2", disable_web_page_preview=True)
+        await bot.send_message(
+            chat_id=CHAT_ID,
+            text=message,
+            parse_mode="Markdown",
+            disable_web_page_preview=True,
+            message_thread_id=thread_id
+        )
+        await bot.send_message(
+            chat_id=CHAT_ID,
+            text=message2,
+            parse_mode="MarkdownV2",
+            disable_web_page_preview=True,
+            message_thread_id=thread_id
+        )
 
 async def main():
     """Основна функція для обробки всіх URL-адрес."""
-    for url in SEARCH_URLS:
+    for config in SEARCH_URLS:
+        url = config["url"]
+        thread_id = config.get("thread_id")
         json_file = get_json_filename(url)
-        logging.info(f"Обробка URL: {url}, JSON: {json_file}")
+        logging.info(f"Обробка URL: {url}, JSON: {json_file}, Thread ID: {thread_id or 'Default'}")
         
         old_ads = await load_old_ads(json_file)
         old_links = {ad["link"]: ad for ad in old_ads}
@@ -251,7 +269,7 @@ async def main():
                 ad["date_found"] = today
                 ad["status"] = "active"
                 ad["date_removed"] = None
-                #await notify_new_ads([ad])
+                await notify_new_ads([ad], thread_id)
                 updated_ads.append(ad)
             else:
                 existing = old_links[ad["link"]]
