@@ -43,3 +43,25 @@
 2025-05-19 09:29:46 - INFO - Знайдено старих оголошень: 181
 2025-05-19 09:30:01 - INFO - Знайдено актуальних оголошень: 0
 2025-05-19 09:30:01 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-05-19 10:29:13 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-05-19 10:29:13 - INFO - Знайдено старих оголошень: 611
+2025-05-19 10:29:18 - INFO - NEW {'title': 'Glosniki megnat sprawne dobrze łupią', 'link': 'https://www.olx.pl/d/oferta/glosniki-megnat-sprawne-dobrze-lupia-CID99-ID15Tf9e.html', 'price': '400 zł', 'status': 'active', 'date_found': '2025-05-19 10:29', 'date_removed': None, 'description': 'Głośniki 100% sprawne magnat dobrze grają', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/i49awfc6d7hu2-PL/image;s=750x1000', 'https://ireland.apollo.olxcdn.com:443/v1/files/9ucp97x435ui1-PL/image;s=750x1000', 'https://ireland.apollo.olxcdn.com:443/v1/files/88urd2yn19c8-PL/image;s=750x1000', 'https://ireland.apollo.olxcdn.com:443/v1/files/2me6344feb5q-PL/image;s=750x1000', 'https://ireland.apollo.olxcdn.com:443/v1/files/5fijhpfil2et-PL/image;s=750x1000', 'https://ireland.apollo.olxcdn.com:443/v1/files/8tkrxymw9ar01-PL/image;s=750x1000', 'https://ireland.apollo.olxcdn.com:443/v1/files/wqsslan5dk0v-PL/image;s=750x1000', 'https://ireland.apollo.olxcdn.com:443/v1/files/jdyyt82iq3po3-PL/image;s=750x1000'], 'published_date': '2025-05-19 o 09:27', 'location': ''}
+2025-05-19 10:29:18 - INFO - Parsed page 1, found 1 new ads.
+2025-05-19 10:29:28 - INFO - Last page 4 is the same as this page. Stopping.
+2025-05-19 10:29:28 - INFO - Знайдено актуальних оголошень: 1
+2025-05-19 10:29:28 - INFO - Додаємо https://www.olx.pl/d/oferta/glosniki-megnat-sprawne-dobrze-lupia-CID99-ID15Tf9e.html.
+2025-05-19 10:29:41 - INFO - Successfully sent message for ad: Glosniki megnat sprawne dobrze łupią
+2025-05-19 10:29:41 - INFO - ✅ HTML файл збережено: magnat.html
+2025-05-19 10:29:41 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-05-19 10:29:41 - INFO - Знайдено старих оголошень: 181
+2025-05-19 10:29:47 - INFO - NEW {'title': 'Głośnik gitarowy Celestion G12 Heritage 12" 8 Ohm', 'link': 'https://www.olx.pl/d/oferta/glosnik-gitarowy-celestion-g12-heritage-12-8-ohm-CID99-ID12FpUp.html?reason=extended_search_extended_s2v', 'price': '650 zł', 'status': 'active', 'date_found': '2025-05-19 10:29', 'date_removed': None, 'description': 'Sprzedam Głośnik gitarowy Celestion G12-65 Heritage 12" 8 Ohm wyprodukowany dla firmy MarshallGłośnik w 100% sprawny', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/jo45bq1hkkam3-PL/image;s=8192x5464', 'https://ireland.apollo.olxcdn.com:443/v1/files/kq3e21ojble3-PL/image;s=8192x5464', 'https://ireland.apollo.olxcdn.com:443/v1/files/g0xeat26tcd33-PL/image;s=8192x5464'], 'published_date': '11 maja 2025', 'location': ''}
+2025-05-19 10:29:47 - INFO - Parsed page 2, found 1 new ads.
+2025-05-19 10:29:57 - INFO - Знайдено актуальних оголошень: 1
+2025-05-19 10:29:57 - INFO - Додаємо https://www.olx.pl/d/oferta/glosnik-gitarowy-celestion-g12-heritage-12-8-ohm-CID99-ID12FpUp.html?reason=extended_search_extended_s2v.
+2025-05-19 10:29:59 - ERROR - Attempt 1/3 failed for ad Głośnik gitarowy Celestion G12 Heritage 12" 8 Ohm: Failed to send message #2 with the error message "webpage_curl_failed"
+2025-05-19 10:29:59 - INFO - Retrying in 32 seconds...
+2025-05-19 10:30:31 - ERROR - Attempt 2/3 failed for ad Głośnik gitarowy Celestion G12 Heritage 12" 8 Ohm: Failed to send message #3 with the error message "webpage_media_empty"
+2025-05-19 10:30:31 - INFO - Retrying in 32 seconds...
+2025-05-19 10:31:03 - ERROR - Attempt 3/3 failed for ad Głośnik gitarowy Celestion G12 Heritage 12" 8 Ohm: Failed to send message #1 with the error message "webpage_media_empty"
+2025-05-19 10:31:03 - ERROR - Failed to send message for ad Głośnik gitarowy Celestion G12 Heritage 12" 8 Ohm after 3 attempts
+2025-05-19 10:31:03 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
