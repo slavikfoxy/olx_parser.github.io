@@ -118,3 +118,16 @@
 2025-05-19 15:28:44 - INFO - Знайдено старих оголошень: 183
 2025-05-19 15:29:02 - INFO - Знайдено актуальних оголошень: 0
 2025-05-19 15:29:02 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-05-19 16:32:45 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-05-19 16:32:45 - INFO - Знайдено старих оголошень: 613
+2025-05-19 16:32:59 - INFO - Last page 4 is the same as this page. Stopping.
+2025-05-19 16:32:59 - INFO - Знайдено актуальних оголошень: 0
+2025-05-19 16:32:59 - INFO - ✅ HTML файл збережено: magnat.html
+2025-05-19 16:32:59 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-05-19 16:32:59 - INFO - Знайдено старих оголошень: 183
+2025-05-19 16:33:08 - INFO - NEW {'title': 'Glosnik 30cm 12” 2 cewkowy niskotonowy', 'link': 'https://www.olx.pl/d/oferta/glosnik-30cm-12-2-cewkowy-niskotonowy-CID99-ID15pLL3.html?reason=extended_search_extended_s2v', 'price': '220 zł', 'status': 'active', 'date_found': '2025-05-19 16:33', 'date_removed': None, 'description': 'Sprzedam głośnik 2cewkowy moc nie znana lecz ma moc jak dobrze kojarzę 2x8ohm cewka na tą chwilę zmostkowana w 4ohm głośnik nadaje się jak i do domu jak i auta', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/w4j8i2abqq161-PL/image;s=750x1000', 'https://ireland.apollo.olxcdn.com:443/v1/files/7q6trt7v26601-PL/image;s=750x1000'], 'published_date': '11 maja 2025', 'location': ''}
+2025-05-19 16:33:08 - INFO - Parsed page 2, found 1 new ads.
+2025-05-19 16:33:20 - INFO - Знайдено актуальних оголошень: 1
+2025-05-19 16:33:20 - INFO - Додаємо https://www.olx.pl/d/oferta/glosnik-30cm-12-2-cewkowy-niskotonowy-CID99-ID15pLL3.html?reason=extended_search_extended_s2v.
+2025-05-19 16:33:26 - INFO - Successfully sent message for ad: Glosnik 30cm 12” 2 cewkowy niskotonowy
+2025-05-19 16:33:26 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
