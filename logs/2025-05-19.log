@@ -74,3 +74,16 @@
 2025-05-19 11:22:09 - INFO - Знайдено старих оголошень: 182
 2025-05-19 11:22:25 - INFO - Знайдено актуальних оголошень: 0
 2025-05-19 11:22:25 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-05-19 12:54:53 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-05-19 12:54:53 - INFO - Знайдено старих оголошень: 612
+2025-05-19 12:55:07 - INFO - Last page 4 is the same as this page. Stopping.
+2025-05-19 12:55:07 - INFO - Знайдено актуальних оголошень: 0
+2025-05-19 12:55:07 - INFO - ✅ HTML файл збережено: magnat.html
+2025-05-19 12:55:07 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-05-19 12:55:07 - INFO - Знайдено старих оголошень: 182
+2025-05-19 12:55:13 - INFO - NEW {'title': 'Głośnik basowy 30 cm 12 cały subwoofer', 'link': 'https://www.olx.pl/d/oferta/glosnik-basowy-30-cm-12-caly-subwoofer-CID99-ID14SfNv.html?reason=extended_search_extended_s2v', 'price': '160 zł', 'status': 'active', 'date_found': '2025-05-19 12:55', 'date_removed': None, 'description': 'Sprzedam głośnik basowy 30 cm sprawny na 100% możliwość wysyłkiModel: Blaster Series BL-1000', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/ejbswu7ky0g-PL/image;s=1500x2000', 'https://ireland.apollo.olxcdn.com:443/v1/files/w9q8fbms21qf2-PL/image;s=1500x2000', 'https://ireland.apollo.olxcdn.com:443/v1/files/9ktcw97d2n751-PL/image;s=1500x2000', 'https://ireland.apollo.olxcdn.com:443/v1/files/08aq4r3mkdba-PL/image;s=1500x2000'], 'published_date': '11 maja 2025', 'location': ''}
+2025-05-19 12:55:13 - INFO - Parsed page 2, found 1 new ads.
+2025-05-19 12:55:23 - INFO - Знайдено актуальних оголошень: 1
+2025-05-19 12:55:23 - INFO - Додаємо https://www.olx.pl/d/oferta/glosnik-basowy-30-cm-12-caly-subwoofer-CID99-ID14SfNv.html?reason=extended_search_extended_s2v.
+2025-05-19 12:55:29 - INFO - Successfully sent message for ad: Głośnik basowy 30 cm 12 cały subwoofer
+2025-05-19 12:55:29 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
