@@ -131,3 +131,12 @@
 2025-05-19 16:33:20 - INFO - Додаємо https://www.olx.pl/d/oferta/glosnik-30cm-12-2-cewkowy-niskotonowy-CID99-ID15pLL3.html?reason=extended_search_extended_s2v.
 2025-05-19 16:33:26 - INFO - Successfully sent message for ad: Glosnik 30cm 12” 2 cewkowy niskotonowy
 2025-05-19 16:33:26 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-05-19 17:23:11 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-05-19 17:23:11 - INFO - Знайдено старих оголошень: 613
+2025-05-19 17:23:26 - INFO - Last page 4 is the same as this page. Stopping.
+2025-05-19 17:23:26 - INFO - Знайдено актуальних оголошень: 0
+2025-05-19 17:23:26 - INFO - ✅ HTML файл збережено: magnat.html
+2025-05-19 17:23:26 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-05-19 17:23:26 - INFO - Знайдено старих оголошень: 184
+2025-05-19 17:23:45 - INFO - Знайдено актуальних оголошень: 0
+2025-05-19 17:23:45 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
