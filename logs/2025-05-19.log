@@ -158,3 +158,16 @@
 2025-05-19 19:20:50 - INFO - Знайдено старих оголошень: 184
 2025-05-19 19:21:05 - INFO - Знайдено актуальних оголошень: 0
 2025-05-19 19:21:05 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-05-19 20:28:06 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-05-19 20:28:06 - INFO - Знайдено старих оголошень: 613
+2025-05-19 20:28:19 - INFO - Last page 4 is the same as this page. Stopping.
+2025-05-19 20:28:19 - INFO - Знайдено актуальних оголошень: 0
+2025-05-19 20:28:19 - INFO - ✅ HTML файл збережено: magnat.html
+2025-05-19 20:28:19 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-05-19 20:28:19 - INFO - Знайдено старих оголошень: 184
+2025-05-19 20:28:27 - INFO - NEW {'title': 'Głośnik do subwoofera. Jl Audio 12TW3', 'link': 'https://www.olx.pl/d/oferta/glosnik-do-subwoofera-jl-audio-12tw3-CID99-ID15Mk84.html?reason=extended_search_extended_s2v', 'price': '1 700 zł', 'status': 'active', 'date_found': '2025-05-19 20:28', 'date_removed': None, 'description': 'Sprzedam nowy głośnik firmy Jl Audio 12TW3 .Głośnik jest w pełni sprawny, Zakupiony był przeze mnie kilka lat temu w firmie Audio -technik w Koszalinie.Oczywiście udzielam gwarancji rozruchowej. Posiadam oryginalne pudełko, choć jest trochę zniszczone. Oddam w okazyjnej cenie.', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/pbzslw32w3oe3-PL/image;s=1920x864', 'https://ireland.apollo.olxcdn.com:443/v1/files/sbrxvs9im5gj3-PL/image;s=864x1920', 'https://ireland.apollo.olxcdn.com:443/v1/files/ld0giy2yg9yj1-PL/image;s=1920x864'], 'published_date': '12 maja 2025', 'location': ''}
+2025-05-19 20:28:27 - INFO - Parsed page 2, found 1 new ads.
+2025-05-19 20:28:40 - INFO - Знайдено актуальних оголошень: 1
+2025-05-19 20:28:40 - INFO - Додаємо https://www.olx.pl/d/oferta/glosnik-do-subwoofera-jl-audio-12tw3-CID99-ID15Mk84.html?reason=extended_search_extended_s2v.
+2025-05-19 20:28:46 - INFO - Successfully sent message for ad: Głośnik do subwoofera. Jl Audio 12TW3
+2025-05-19 20:28:46 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
