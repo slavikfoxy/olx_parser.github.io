@@ -105,3 +105,16 @@
 2025-05-19 14:27:00 - INFO - Знайдено старих оголошень: 183
 2025-05-19 14:27:17 - INFO - Знайдено актуальних оголошень: 0
 2025-05-19 14:27:17 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-05-19 15:28:26 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-05-19 15:28:26 - INFO - Знайдено старих оголошень: 612
+2025-05-19 15:28:32 - INFO - NEW {'title': 'Subufer Magnat wraz ze wzmacniaczem bez okablowania, sprawny', 'link': 'https://www.olx.pl/d/oferta/subufer-magnat-wraz-ze-wzmacniaczem-bez-okablowania-sprawny-CID99-ID15TGau.html', 'price': '250 zł', 'status': 'active', 'date_found': '2025-05-19 15:28', 'date_removed': None, 'description': 'Sprzedam subufer Magnat ze wzmacniaczem. Zestaw sprawny, grał do końca. Leżał rok w garażu po sprzedaży samochodu. Nie posiadam kabli do zestawu', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/ct97ub1342e51-PL/image;s=2000x1500'], 'published_date': '2025-05-19 o 14:43', 'location': ''}
+2025-05-19 15:28:32 - INFO - Parsed page 1, found 1 new ads.
+2025-05-19 15:28:43 - INFO - Last page 4 is the same as this page. Stopping.
+2025-05-19 15:28:43 - INFO - Знайдено актуальних оголошень: 1
+2025-05-19 15:28:43 - INFO - Додаємо https://www.olx.pl/d/oferta/subufer-magnat-wraz-ze-wzmacniaczem-bez-okablowania-sprawny-CID99-ID15TGau.html.
+2025-05-19 15:28:44 - INFO - Successfully sent message for ad: Subufer Magnat wraz ze wzmacniaczem bez okablowania, sprawny
+2025-05-19 15:28:44 - INFO - ✅ HTML файл збережено: magnat.html
+2025-05-19 15:28:44 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-05-19 15:28:44 - INFO - Знайдено старих оголошень: 183
+2025-05-19 15:29:02 - INFO - Знайдено актуальних оголошень: 0
+2025-05-19 15:29:02 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
