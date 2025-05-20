@@ -61,3 +61,20 @@
 2025-05-20 11:22:09 - INFO - Знайдено старих оголошень: 187
 2025-05-20 11:22:24 - INFO - Знайдено актуальних оголошень: 0
 2025-05-20 11:22:24 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-05-20 12:54:45 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-05-20 12:54:45 - INFO - Знайдено старих оголошень: 614
+2025-05-20 12:54:56 - INFO - Last page 4 is the same as this page. Stopping.
+2025-05-20 12:54:56 - INFO - Знайдено актуальних оголошень: 0
+2025-05-20 12:54:56 - INFO - ✅ HTML файл збережено: magnat.html
+2025-05-20 12:54:56 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-05-20 12:54:56 - INFO - Знайдено старих оголошень: 187
+2025-05-20 12:54:59 - INFO - NEW {'title': 'Sprzedam kino domowe marki lg', 'link': 'https://www.olx.pl/d/oferta/sprzedam-kino-domowe-marki-lg-CID99-ID15UnyJ.html', 'price': '130 zł', 'status': 'active', 'date_found': '2025-05-20 12:54', 'date_removed': None, 'description': 'Sprzedam używane kino marki Ig bez Pilota głośnikowy itp - są na innych aukcjach stan taki jak na zdjęciach na wbudowane usb, aux, hdmi itp zapraszam do kontaktu [ wzmaczniacz jest tak dobry że nawet sąsiedzi go usłyszą] jest trochę porysowany ale wiadomo to nie jest nowa rzecz! Ma wbudowane dvd . Napewno dobrze się sprawdzi w domu, warsztacie, restauracji, i w salonach...#kino #kinodomowe#tanio #filmy #nagłośnienie#wzmaczniacz', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/lmyhww97ord82-PL/image;s=363x1924', 'https://ireland.apollo.olxcdn.com:443/v1/files/p1q69sgzb8ie3-PL/image;s=1024x768', 'https://ireland.apollo.olxcdn.com:443/v1/files/wqryci5yj8ra1-PL/image;s=1024x768', 'https://ireland.apollo.olxcdn.com:443/v1/files/8vh1i4jvwytw1-PL/image;s=1024x768', 'https://ireland.apollo.olxcdn.com:443/v1/files/roemstc5zsod-PL/image;s=648x1012', 'https://ireland.apollo.olxcdn.com:443/v1/files/shugwnanliru3-PL/image;s=1024x550', 'https://ireland.apollo.olxcdn.com:443/v1/files/erf85u3l8pj22-PL/image;s=1024x768', 'https://ireland.apollo.olxcdn.com:443/v1/files/0qytgd7ccp2l2-PL/image;s=1013x164'], 'published_date': '2025-05-20 o 12:46', 'location': ''}
+2025-05-20 12:54:59 - INFO - Parsed page 1, found 1 new ads.
+2025-05-20 12:55:03 - INFO - NEW {'title': 'Głośnik bluetooth Soundbox DOSS 12W Bass', 'link': 'https://www.olx.pl/d/oferta/glosnik-bluetooth-soundbox-doss-12w-bass-CID99-ID12VBPc.html?reason=extended_search_extended_s2v', 'price': '45 zł', 'status': 'active', 'date_found': '2025-05-20 12:55', 'date_removed': None, 'description': 'Witam - do sprzedania Głośnik bluetooth Soundbox DOSS 12W Bass czarny.Stan - używany, sprawny - stan jak na foto.Zapraszam.', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/40qpnq32vstt1-PL/image;s=3247x1750', 'https://ireland.apollo.olxcdn.com:443/v1/files/kf5yv40uvpls2-PL/image;s=3391x1697', 'https://ireland.apollo.olxcdn.com:443/v1/files/3ksq3amo9w7v3-PL/image;s=3201x1423', 'https://ireland.apollo.olxcdn.com:443/v1/files/v77w7kha8bbk3-PL/image;s=2380x983', 'https://ireland.apollo.olxcdn.com:443/v1/files/0qciqleaugdt1-PL/image;s=3247x1750'], 'published_date': '12 maja 2025', 'location': ''}
+2025-05-20 12:55:03 - INFO - Parsed page 2, found 1 new ads.
+2025-05-20 12:55:13 - INFO - Знайдено актуальних оголошень: 2
+2025-05-20 12:55:13 - INFO - Додаємо https://www.olx.pl/d/oferta/sprzedam-kino-domowe-marki-lg-CID99-ID15UnyJ.html.
+2025-05-20 12:55:25 - INFO - Successfully sent message for ad: Sprzedam kino domowe marki lg
+2025-05-20 12:55:25 - INFO - Додаємо https://www.olx.pl/d/oferta/glosnik-bluetooth-soundbox-doss-12w-bass-CID99-ID12VBPc.html?reason=extended_search_extended_s2v.
+2025-05-20 12:55:40 - INFO - Successfully sent message for ad: Głośnik bluetooth Soundbox DOSS 12W Bass
+2025-05-20 12:55:40 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
