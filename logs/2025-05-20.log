@@ -109,3 +109,16 @@
 2025-05-20 15:28:58 - INFO - Знайдено старих оголошень: 190
 2025-05-20 15:29:13 - INFO - Знайдено актуальних оголошень: 0
 2025-05-20 15:29:13 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-05-20 16:33:11 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-05-20 16:33:11 - INFO - Знайдено старих оголошень: 614
+2025-05-20 16:33:21 - INFO - Last page 4 is the same as this page. Stopping.
+2025-05-20 16:33:21 - INFO - Знайдено актуальних оголошень: 0
+2025-05-20 16:33:21 - INFO - ✅ HTML файл збережено: magnat.html
+2025-05-20 16:33:21 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-05-20 16:33:21 - INFO - Знайдено старих оголошень: 190
+2025-05-20 16:33:24 - INFO - NEW {'title': 'Sprzedam kino domowe marki lg cena do negocjacji', 'link': 'https://www.olx.pl/d/oferta/sprzedam-kino-domowe-marki-lg-cena-do-negocjacji-CID99-ID15UnyJ.html', 'price': '130 zł', 'status': 'active', 'date_found': '2025-05-20 16:33', 'date_removed': None, 'description': 'Sprzedam używane kino marki Ig bez Pilota głośnikowy itp - są na innych aukcjach stan taki jak na zdjęciach na wbudowane usb, aux, hdmi itp zapraszam do kontaktu [ wzmaczniacz jest tak dobry że nawet sąsiedzi go usłyszą] jest trochę porysowany ale wiadomo to nie jest nowa rzecz! Ma wbudowane dvd . Napewno dobrze się sprawdzi w domu, warsztacie, restauracji, i w salonach...#kino #kinodomowe#tanio #filmy #nagłośnienie#wzmaczniacz', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/lmyhww97ord82-PL/image;s=363x1924', 'https://ireland.apollo.olxcdn.com:443/v1/files/p1q69sgzb8ie3-PL/image;s=1024x768', 'https://ireland.apollo.olxcdn.com:443/v1/files/wqryci5yj8ra1-PL/image;s=1024x768', 'https://ireland.apollo.olxcdn.com:443/v1/files/8vh1i4jvwytw1-PL/image;s=1024x768', 'https://ireland.apollo.olxcdn.com:443/v1/files/roemstc5zsod-PL/image;s=648x1012', 'https://ireland.apollo.olxcdn.com:443/v1/files/shugwnanliru3-PL/image;s=1024x550', 'https://ireland.apollo.olxcdn.com:443/v1/files/erf85u3l8pj22-PL/image;s=1024x768', 'https://ireland.apollo.olxcdn.com:443/v1/files/0qytgd7ccp2l2-PL/image;s=1013x164'], 'published_date': '2025-05-20 o 12:46', 'location': ''}
+2025-05-20 16:33:24 - INFO - Parsed page 1, found 1 new ads.
+2025-05-20 16:33:38 - INFO - Знайдено актуальних оголошень: 1
+2025-05-20 16:33:38 - INFO - Додаємо https://www.olx.pl/d/oferta/sprzedam-kino-domowe-marki-lg-cena-do-negocjacji-CID99-ID15UnyJ.html.
+2025-05-20 16:33:43 - INFO - Successfully sent message for ad: Sprzedam kino domowe marki lg cena do negocjacji
+2025-05-20 16:33:43 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
