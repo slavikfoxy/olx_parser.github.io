@@ -7,3 +7,16 @@
 2025-05-21 03:45:38 - INFO - Знайдено старих оголошень: 194
 2025-05-21 03:46:05 - INFO - Знайдено актуальних оголошень: 0
 2025-05-21 03:46:05 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-05-21 06:36:59 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-05-21 06:36:59 - INFO - Знайдено старих оголошень: 615
+2025-05-21 06:37:13 - INFO - Last page 4 is the same as this page. Stopping.
+2025-05-21 06:37:13 - INFO - Знайдено актуальних оголошень: 0
+2025-05-21 06:37:13 - INFO - ✅ HTML файл збережено: magnat.html
+2025-05-21 06:37:13 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-05-21 06:37:13 - INFO - Знайдено старих оголошень: 194
+2025-05-21 06:37:20 - INFO - NEW {'title': 'Sprzedam zmacniacz samochodowy', 'link': 'https://www.olx.pl/d/oferta/sprzedam-zmacniacz-samochodowy-CID99-IDVZ8cD.html?reason=extended_search_extended_s2v', 'price': '450 zł', 'status': 'active', 'date_found': '2025-05-21 06:37', 'date_removed': None, 'description': 'Sprzedam zmacniacz samochodowy w bardzo dobrym stanie kupiłem go od brata  miał go w BMW', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/o0xnamvwkeol1-PL/image;s=2000x1500', 'https://ireland.apollo.olxcdn.com:443/v1/files/lv75l6kgxdrs1-PL/image;s=2000x1500', 'https://ireland.apollo.olxcdn.com:443/v1/files/tmo5eps2yqmj1-PL/image;s=2000x1500', 'https://ireland.apollo.olxcdn.com:443/v1/files/mkcr1kq0csfe3-PL/image;s=2000x1500'], 'published_date': '14 maja 2025', 'location': ''}
+2025-05-21 06:37:20 - INFO - Parsed page 2, found 1 new ads.
+2025-05-21 06:37:32 - INFO - Знайдено актуальних оголошень: 1
+2025-05-21 06:37:32 - INFO - Додаємо https://www.olx.pl/d/oferta/sprzedam-zmacniacz-samochodowy-CID99-IDVZ8cD.html?reason=extended_search_extended_s2v.
+2025-05-21 06:37:37 - INFO - Successfully sent message for ad: Sprzedam zmacniacz samochodowy
+2025-05-21 06:37:37 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
