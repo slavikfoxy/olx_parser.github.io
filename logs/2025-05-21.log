@@ -42,3 +42,16 @@
 2025-05-21 08:34:48 - INFO - Додаємо https://www.olx.pl/d/oferta/nowy-glosnik-bluetooth-marvel-helm-iron-man-skala-12-usb-c-CID99-ID14WLtp.html?reason=extended_search_extended_s2v.
 2025-05-21 08:34:55 - INFO - Successfully sent message for ad: NOWY głośnik bluetooth MARVEL hełm IRON MAN skala 1:2 USB C
 2025-05-21 08:34:55 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-05-21 09:28:38 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-05-21 09:28:38 - INFO - Знайдено старих оголошень: 615
+2025-05-21 09:28:48 - INFO - Last page 4 is the same as this page. Stopping.
+2025-05-21 09:28:48 - INFO - Знайдено актуальних оголошень: 0
+2025-05-21 09:28:48 - INFO - ✅ HTML файл збережено: magnat.html
+2025-05-21 09:28:48 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-05-21 09:28:48 - INFO - Знайдено старих оголошень: 196
+2025-05-21 09:28:54 - INFO - NEW {'title': 'Głośnik jl audio 12W1v2-4', 'link': 'https://www.olx.pl/d/oferta/glosnik-jl-audio-12w1v2-4-CID99-ID15PJMI.html?reason=extended_search_extended_s2v', 'price': '480 zł', 'status': 'active', 'date_found': '2025-05-21 09:28', 'date_removed': None, 'description': 'Witam, do sprzedania mam mało uzywany głośnik jl audio 12W1v2-4Rozmiar: 300 mmMoc RMS: 150 WImpedancja: 4 OhmMax wychylenie: 9,5 mmGłębokość montażowa: 130 mmSkrzynia zamknięta: 35,4 lSkrzynia bas-reflex: 49,5 l', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/3wkv84e4w4u03-PL/image;s=864x1152', 'https://ireland.apollo.olxcdn.com:443/v1/files/jetuwgbvzvps3-PL/image;s=864x1152'], 'published_date': '15 maja 2025', 'location': ''}
+2025-05-21 09:28:54 - INFO - Parsed page 2, found 1 new ads.
+2025-05-21 09:29:04 - INFO - Знайдено актуальних оголошень: 1
+2025-05-21 09:29:04 - INFO - Додаємо https://www.olx.pl/d/oferta/glosnik-jl-audio-12w1v2-4-CID99-ID15PJMI.html?reason=extended_search_extended_s2v.
+2025-05-21 09:29:09 - INFO - Successfully sent message for ad: Głośnik jl audio 12W1v2-4
+2025-05-21 09:29:09 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
