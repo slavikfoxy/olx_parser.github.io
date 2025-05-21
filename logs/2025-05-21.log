@@ -29,3 +29,16 @@
 2025-05-21 07:25:28 - INFO - Знайдено старих оголошень: 195
 2025-05-21 07:25:47 - INFO - Знайдено актуальних оголошень: 0
 2025-05-21 07:25:47 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-05-21 08:34:14 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-05-21 08:34:14 - INFO - Знайдено старих оголошень: 615
+2025-05-21 08:34:30 - INFO - Last page 4 is the same as this page. Stopping.
+2025-05-21 08:34:30 - INFO - Знайдено актуальних оголошень: 0
+2025-05-21 08:34:30 - INFO - ✅ HTML файл збережено: magnat.html
+2025-05-21 08:34:30 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-05-21 08:34:30 - INFO - Знайдено старих оголошень: 195
+2025-05-21 08:34:37 - INFO - NEW {'title': 'NOWY głośnik bluetooth MARVEL hełm IRON MAN skala 1:2 USB C', 'link': 'https://www.olx.pl/d/oferta/nowy-glosnik-bluetooth-marvel-helm-iron-man-skala-12-usb-c-CID99-ID14WLtp.html?reason=extended_search_extended_s2v', 'price': '110 zł', 'status': 'active', 'date_found': '2025-05-21 08:34', 'date_removed': None, 'description': 'Na sprzedaż,NOWY głośnik bluetooth MARVEL hełm IRON MANW skali 1:2Super gadżet i fajnie gra.Zasilanie na USB CZapraszam', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/rvtt94by4v292-PL/image;s=868x1160', 'https://ireland.apollo.olxcdn.com:443/v1/files/l31n73vr6djs2-PL/image;s=868x1160', 'https://ireland.apollo.olxcdn.com:443/v1/files/cgt83woihnoj3-PL/image;s=868x1160', 'https://ireland.apollo.olxcdn.com:443/v1/files/mt000rxg7m832-PL/image;s=868x1160'], 'published_date': '14 maja 2025', 'location': ''}
+2025-05-21 08:34:37 - INFO - Parsed page 2, found 1 new ads.
+2025-05-21 08:34:48 - INFO - Знайдено актуальних оголошень: 1
+2025-05-21 08:34:48 - INFO - Додаємо https://www.olx.pl/d/oferta/nowy-glosnik-bluetooth-marvel-helm-iron-man-skala-12-usb-c-CID99-ID14WLtp.html?reason=extended_search_extended_s2v.
+2025-05-21 08:34:55 - INFO - Successfully sent message for ad: NOWY głośnik bluetooth MARVEL hełm IRON MAN skala 1:2 USB C
+2025-05-21 08:34:55 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
