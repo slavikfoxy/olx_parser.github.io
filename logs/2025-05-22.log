@@ -37,3 +37,16 @@
 2025-05-22 07:25:42 - INFO - Додаємо https://www.olx.pl/d/oferta/glosnik-manta-spk12-go-CID99-ID15rzOp.html?reason=extended_search_extended_s2v.
 2025-05-22 07:25:56 - INFO - Successfully sent message for ad: Głośnik manta spk12 go
 2025-05-22 07:25:56 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-05-22 08:33:52 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-05-22 08:33:52 - INFO - Знайдено старих оголошень: 618
+2025-05-22 08:33:56 - INFO - NEW {'title': 'Subwoofer Magnat Cubus + 2 kolumny', 'link': 'https://www.olx.pl/d/oferta/subwoofer-magnat-cubus-2-kolumny-CID99-ID13vkRh.html', 'price': '149 zł', 'status': 'active', 'date_found': '2025-05-22 08:33', 'date_removed': None, 'description': 'Subwoofer Magnat Cubus + 2 kolumny, sprzęt sprawny gra bardzo ładnie.', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/rhjzn8stsfta2-PL/image;s=1920x1080', 'https://ireland.apollo.olxcdn.com:443/v1/files/9029ybta14y6-PL/image;s=1920x1080', 'https://ireland.apollo.olxcdn.com:443/v1/files/d4ivu452c0yh-PL/image;s=1920x1080', 'https://ireland.apollo.olxcdn.com:443/v1/files/rmpbcy13uj9n2-PL/image;s=1920x1080', 'https://ireland.apollo.olxcdn.com:443/v1/files/s6xvx6lqqzde3-PL/image;s=1920x1080', 'https://ireland.apollo.olxcdn.com:443/v1/files/sivgzag8b8oq-PL/image;s=1920x1080', 'https://ireland.apollo.olxcdn.com:443/v1/files/cfui16y9lv2w2-PL/image;s=1920x1080', 'https://ireland.apollo.olxcdn.com:443/v1/files/114toaj0oa4m1-PL/image;s=1920x1080'], 'published_date': '2025-05-22 o 07:25', 'location': ''}
+2025-05-22 08:33:56 - INFO - Parsed page 1, found 1 new ads.
+2025-05-22 08:34:07 - INFO - Last page 4 is the same as this page. Stopping.
+2025-05-22 08:34:07 - INFO - Знайдено актуальних оголошень: 1
+2025-05-22 08:34:07 - INFO - Додаємо https://www.olx.pl/d/oferta/subwoofer-magnat-cubus-2-kolumny-CID99-ID13vkRh.html.
+2025-05-22 08:34:21 - INFO - Successfully sent message for ad: Subwoofer Magnat Cubus + 2 kolumny
+2025-05-22 08:34:21 - INFO - ✅ HTML файл збережено: magnat.html
+2025-05-22 08:34:21 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-05-22 08:34:21 - INFO - Знайдено старих оголошень: 203
+2025-05-22 08:34:37 - INFO - Знайдено актуальних оголошень: 0
+2025-05-22 08:34:37 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
