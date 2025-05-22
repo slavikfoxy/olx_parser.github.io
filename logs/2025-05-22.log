@@ -103,3 +103,16 @@
 2025-05-22 12:54:35 - INFO - Знайдено старих оголошень: 204
 2025-05-22 12:54:51 - INFO - Знайдено актуальних оголошень: 0
 2025-05-22 12:54:51 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-05-22 13:36:34 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-05-22 13:36:34 - INFO - Знайдено старих оголошень: 621
+2025-05-22 13:36:45 - INFO - Last page 4 is the same as this page. Stopping.
+2025-05-22 13:36:45 - INFO - Знайдено актуальних оголошень: 0
+2025-05-22 13:36:45 - INFO - ✅ HTML файл збережено: magnat.html
+2025-05-22 13:36:45 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-05-22 13:36:45 - INFO - Знайдено старих оголошень: 204
+2025-05-22 13:36:48 - INFO - NEW {'title': 'Wzmaczniacz sygnału wifi', 'link': 'https://www.olx.pl/d/oferta/wzmaczniacz-sygnalu-wifi-CID99-ID15Vc2o.html', 'price': '10 zł', 'status': 'active', 'date_found': '2025-05-22 13:36', 'date_removed': None, 'description': 'wzmacniacz sygnału wifi. Poprawia jakość połączenia internetowego w domu lub biurze.Wtyczka UK, przejściówka europejska kosztuje grosze, ok. 5 zl…', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/td3vxo2wv1xp3-PL/image;s=3024x4032', 'https://ireland.apollo.olxcdn.com:443/v1/files/ll3bq8mr6l06-PL/image;s=3024x4032', 'https://ireland.apollo.olxcdn.com:443/v1/files/vxp6wuwfydq42-PL/image;s=3024x4032'], 'published_date': '2025-05-22 o 12:56', 'location': ''}
+2025-05-22 13:36:48 - INFO - Parsed page 1, found 1 new ads.
+2025-05-22 13:37:03 - INFO - Знайдено актуальних оголошень: 1
+2025-05-22 13:37:03 - INFO - Додаємо https://www.olx.pl/d/oferta/wzmaczniacz-sygnalu-wifi-CID99-ID15Vc2o.html.
+2025-05-22 13:37:11 - INFO - Successfully sent message for ad: Wzmaczniacz sygnału wifi
+2025-05-22 13:37:11 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
