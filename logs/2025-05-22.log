@@ -11,3 +11,16 @@
 2025-05-22 03:45:56 - INFO - Додаємо https://www.olx.pl/d/oferta/glosnik-sono-bluetooth-karaoke-usb-c-tws-fm-aux-in-tv-geyguy-gtsk12-2-CID99-ID14SLjk.html?reason=extended_search_extended_s2v.
 2025-05-22 03:46:07 - INFO - Successfully sent message for ad: Głośnik Sono Bluetooth KARAOKE USB-C/TWS/FM/AUX in/TV GEYGUY GTSK12-2
 2025-05-22 03:46:07 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-05-22 06:36:30 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-05-22 06:36:30 - INFO - Знайдено старих оголошень: 618
+2025-05-22 06:36:41 - INFO - Last page 4 is the same as this page. Stopping.
+2025-05-22 06:36:41 - INFO - Знайдено актуальних оголошень: 0
+2025-05-22 06:36:41 - INFO - ✅ HTML файл збережено: magnat.html
+2025-05-22 06:36:41 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-05-22 06:36:41 - INFO - Знайдено старих оголошень: 201
+2025-05-22 06:36:44 - INFO - NEW {'title': 'sprzedam wzmaczniacz ibiza amp 600', 'link': 'https://www.olx.pl/d/oferta/sprzedam-wzmaczniacz-ibiza-amp-600-CID99-ID15AGfo.html', 'price': '450 zł', 'status': 'active', 'date_found': '2025-05-22 06:36', 'date_removed': None, 'description': 'Witam sprzedam wzmaczniacz ibiza amp 600 mam', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/os090prthqgp3-PL/image;s=4000x1800', 'https://ireland.apollo.olxcdn.com:443/v1/files/0nrth593q8vb2-PL/image;s=4000x1800', 'https://ireland.apollo.olxcdn.com:443/v1/files/522q4yinsvhh-PL/image;s=1800x4000'], 'published_date': '27 kwietnia 2025', 'location': ''}
+2025-05-22 06:36:44 - INFO - Parsed page 1, found 1 new ads.
+2025-05-22 06:36:57 - INFO - Знайдено актуальних оголошень: 1
+2025-05-22 06:36:57 - INFO - Додаємо https://www.olx.pl/d/oferta/sprzedam-wzmaczniacz-ibiza-amp-600-CID99-ID15AGfo.html.
+2025-05-22 06:37:05 - INFO - Successfully sent message for ad: sprzedam wzmaczniacz ibiza amp 600
+2025-05-22 06:37:05 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
