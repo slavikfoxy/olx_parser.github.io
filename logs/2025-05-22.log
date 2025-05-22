@@ -134,3 +134,16 @@
 2025-05-22 15:28:13 - INFO - Знайдено старих оголошень: 205
 2025-05-22 15:28:30 - INFO - Знайдено актуальних оголошень: 0
 2025-05-22 15:28:30 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-05-22 16:32:52 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-05-22 16:32:52 - INFO - Знайдено старих оголошень: 621
+2025-05-22 16:33:02 - INFO - Last page 4 is the same as this page. Stopping.
+2025-05-22 16:33:02 - INFO - Знайдено актуальних оголошень: 0
+2025-05-22 16:33:02 - INFO - ✅ HTML файл збережено: magnat.html
+2025-05-22 16:33:02 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-05-22 16:33:02 - INFO - Знайдено старих оголошень: 205
+2025-05-22 16:33:11 - INFO - NEW {'title': 'Głośniki basowe 25cm i 16cm', 'link': 'https://www.olx.pl/d/oferta/glosniki-basowe-25cm-i-16cm-CID99-ID15Df72.html?reason=extended_search_extended_s2v', 'price': '49 zł', 'status': 'active', 'date_found': '2025-05-22 16:33', 'date_removed': None, 'description': 'Sprzedam 2 basowe głośniki 25cm i 16cm. Trochę wgniecione kopułki ale działają jak należy i fajnie grają Mają spory basik. Mocy nie ma opisanej ale ten duży pewnie z 50W. Odbiór osobisty lub niewielki dowóz.', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/yna5gvwfodiv2-PL/image;s=2000x1500', 'https://ireland.apollo.olxcdn.com:443/v1/files/q0x6g0mpaqpl-PL/image;s=2000x1500', 'https://ireland.apollo.olxcdn.com:443/v1/files/rbvlapjt4peb3-PL/image;s=2000x1500', 'https://ireland.apollo.olxcdn.com:443/v1/files/442jpl9364u8-PL/image;s=2000x1500', 'https://ireland.apollo.olxcdn.com:443/v1/files/wu6n8jxlzwag-PL/image;s=2000x1500', 'https://ireland.apollo.olxcdn.com:443/v1/files/vudvvtkqorq73-PL/image;s=2000x1500', 'https://ireland.apollo.olxcdn.com:443/v1/files/9w58sn7ndy263-PL/image;s=2000x1500'], 'published_date': '01 maja 2025', 'location': ''}
+2025-05-22 16:33:11 - INFO - Parsed page 3, found 1 new ads.
+2025-05-22 16:33:18 - INFO - Знайдено актуальних оголошень: 1
+2025-05-22 16:33:18 - INFO - Додаємо https://www.olx.pl/d/oferta/glosniki-basowe-25cm-i-16cm-CID99-ID15Df72.html?reason=extended_search_extended_s2v.
+2025-05-22 16:33:29 - INFO - Successfully sent message for ad: Głośniki basowe 25cm i 16cm
+2025-05-22 16:33:29 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
