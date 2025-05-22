@@ -59,3 +59,25 @@
 2025-05-22 09:28:36 - INFO - Знайдено старих оголошень: 203
 2025-05-22 09:28:53 - INFO - Знайдено актуальних оголошень: 0
 2025-05-22 09:28:53 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-05-22 10:28:21 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-05-22 10:28:21 - INFO - Знайдено старих оголошень: 619
+2025-05-22 10:28:24 - INFO - NEW {'title': 'Kino domowe denon avr x 500', 'link': 'https://www.olx.pl/d/oferta/kino-domowe-denon-avr-x-500-CID99-ID15V30B.html', 'price': '1 000 zł', 'status': 'active', 'date_found': '2025-05-22 10:28', 'date_removed': None, 'description': 'Sprzedam zestaw kina domowego denon avr x 500 skład kompletu wchodzi:-5 wysokiej jakości głośników Eltax,subwoofer magnat-amplituner Denon AVR-X500,-pilot zdalnego sterowania. Stan bardzo dobry.tylko odbiór osobisty', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/fmmtmt16bjnk1-PL/image;s=1500x2000', 'https://ireland.apollo.olxcdn.com:443/v1/files/mkqmabysey2x-PL/image;s=1500x2000', 'https://ireland.apollo.olxcdn.com:443/v1/files/8ktrt1lwjejs3-PL/image;s=1500x2000'], 'published_date': '2025-05-22 o 10:20', 'location': ''}
+2025-05-22 10:28:24 - INFO - Parsed page 1, found 1 new ads.
+2025-05-22 10:28:33 - INFO - Last page 4 is the same as this page. Stopping.
+2025-05-22 10:28:33 - INFO - Знайдено актуальних оголошень: 1
+2025-05-22 10:28:33 - INFO - Додаємо https://www.olx.pl/d/oferta/kino-domowe-denon-avr-x-500-CID99-ID15V30B.html.
+2025-05-22 10:28:33 - ERROR - Attempt 1/3 failed for ad Kino domowe denon avr x 500: Failed to send message #1 with the error message "webpage_media_empty"
+2025-05-22 10:28:33 - INFO - Retrying in 32 seconds...
+2025-05-22 10:29:05 - ERROR - Attempt 2/3 failed for ad Kino domowe denon avr x 500: Failed to send message #3 with the error message "webpage_media_empty"
+2025-05-22 10:29:05 - INFO - Retrying in 32 seconds...
+2025-05-22 10:29:38 - ERROR - Attempt 3/3 failed for ad Kino domowe denon avr x 500: Failed to send message #1 with the error message "webpage_media_empty"
+2025-05-22 10:29:38 - ERROR - Failed to send message for ad Kino domowe denon avr x 500 after 3 attempts
+2025-05-22 10:29:38 - INFO - ✅ HTML файл збережено: magnat.html
+2025-05-22 10:29:38 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-05-22 10:29:38 - INFO - Знайдено старих оголошень: 203
+2025-05-22 10:29:54 - INFO - NEW {'title': 'Głośnik niskośredniotonowy HK Audio Sica 5 Ohms 12"', 'link': 'https://www.olx.pl/d/oferta/glosnik-niskosredniotonowy-hk-audio-sica-5-ohms-12-CID99-ID15QOOA.html?reason=extended_search_extended_s2v', 'price': '350 zł', 'status': 'active', 'date_found': '2025-05-22 10:29', 'date_removed': None, 'description': '', 'images': [], 'location': ''}
+2025-05-22 10:29:54 - INFO - Parsed page 2, found 1 new ads.
+2025-05-22 10:30:04 - INFO - Знайдено актуальних оголошень: 1
+2025-05-22 10:30:04 - INFO - Додаємо https://www.olx.pl/d/oferta/glosnik-niskosredniotonowy-hk-audio-sica-5-ohms-12-CID99-ID15QOOA.html?reason=extended_search_extended_s2v.
+2025-05-22 10:30:04 - INFO - Successfully sent message for ad: Głośnik niskośredniotonowy HK Audio Sica 5 Ohms 12"
+2025-05-22 10:30:04 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
