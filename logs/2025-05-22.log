@@ -187,3 +187,16 @@
 2025-05-22 20:28:52 - INFO - Знайдено старих оголошень: 206
 2025-05-22 20:29:11 - INFO - Знайдено актуальних оголошень: 0
 2025-05-22 20:29:11 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-05-22 21:23:49 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-05-22 21:23:49 - INFO - Знайдено старих оголошень: 622
+2025-05-22 21:23:55 - INFO - NEW {'title': 'Subwoofer Magnat MWS 200 CP 4100', 'link': 'https://www.olx.pl/d/oferta/subwoofer-magnat-mws-200-cp-4100-CID99-ID15VzqU.html', 'price': '199 zł', 'status': 'active', 'date_found': '2025-05-22 21:23', 'date_removed': None, 'description': 'Witam mam do sprzedania Subwoofer Magnat MWS 200 CP 4100.Subwoofer sprawny lecz brakuje klapki tylnej.Wymiary wysokość 35 cm szerokość 31 cm głębokość wraz z maskownicą 32 cm bez maskownicy 31 cmZdjęcia lepszej jakości mogę Subwoofer na emalia jak coś to proszę pisać.Gorąco Polecam:)Szybka wysyłka max następnego dnia:)', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/2so204f4sjlk-PL/image;s=3472x4624', 'https://ireland.apollo.olxcdn.com:443/v1/files/p46488b3slaj2-PL/image;s=2000x2664', 'https://ireland.apollo.olxcdn.com:443/v1/files/utsfe4ybwfz22-PL/image;s=3472x4624', 'https://ireland.apollo.olxcdn.com:443/v1/files/wf3e4e5fdxy7-PL/image;s=3472x4624', 'https://ireland.apollo.olxcdn.com:443/v1/files/m8387htmy88i3-PL/image;s=3472x4624', 'https://ireland.apollo.olxcdn.com:443/v1/files/v1qdzrmcsam9-PL/image;s=3472x4624', 'https://ireland.apollo.olxcdn.com:443/v1/files/h6dmx7s8sqa83-PL/image;s=3472x4624', 'https://ireland.apollo.olxcdn.com:443/v1/files/n1yrjscjv9ki2-PL/image;s=3472x4624'], 'published_date': '2025-05-22 o 20:36', 'location': ''}
+2025-05-22 21:23:55 - INFO - Parsed page 1, found 1 new ads.
+2025-05-22 21:24:03 - INFO - Last page 4 is the same as this page. Stopping.
+2025-05-22 21:24:03 - INFO - Знайдено актуальних оголошень: 1
+2025-05-22 21:24:03 - INFO - Додаємо https://www.olx.pl/d/oferta/subwoofer-magnat-mws-200-cp-4100-CID99-ID15VzqU.html.
+2025-05-22 21:24:15 - INFO - Successfully sent message for ad: Subwoofer Magnat MWS 200 CP 4100
+2025-05-22 21:24:15 - INFO - ✅ HTML файл збережено: magnat.html
+2025-05-22 21:24:15 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-05-22 21:24:15 - INFO - Знайдено старих оголошень: 206
+2025-05-22 21:24:34 - INFO - Знайдено актуальних оголошень: 0
+2025-05-22 21:24:34 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
