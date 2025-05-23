@@ -150,3 +150,16 @@
 2025-05-23 18:34:22 - INFO - Знайдено старих оголошень: 210
 2025-05-23 18:34:40 - INFO - Знайдено актуальних оголошень: 0
 2025-05-23 18:34:40 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-05-23 19:19:47 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-05-23 19:19:47 - INFO - Знайдено старих оголошень: 626
+2025-05-23 19:19:57 - INFO - Last page 4 is the same as this page. Stopping.
+2025-05-23 19:19:57 - INFO - Знайдено актуальних оголошень: 0
+2025-05-23 19:19:57 - INFO - ✅ HTML файл збережено: magnat.html
+2025-05-23 19:19:57 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-05-23 19:19:57 - INFO - Знайдено старих оголошень: 210
+2025-05-23 19:20:03 - INFO - NEW {'title': 'Głośnik Bluetooth Purida 12+pakiet pojemności 8000mAh', 'link': 'https://www.olx.pl/d/oferta/glosnik-bluetooth-purida-12-pakiet-pojemnosci-8000mah-CID99-ID11QdF1.html?reason=extended_search_extended_s2v', 'price': '75 zł', 'status': 'active', 'date_found': '2025-05-23 19:20', 'date_removed': None, 'description': 'Witam. Posiadam na sprzedaż bardzo fajny głośnik PURIDEA. Super bezprzewodowy głośnik z Bluetooth,  wbudowany power bank 8000mAh, latarka. Głośnik wygląda jak nowy i super gra. Zainteresowanych zapraszam.', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/pyjbu00t53t-PL/image;s=1500x2000', 'https://ireland.apollo.olxcdn.com:443/v1/files/jxfwgawaajrv-PL/image;s=1500x2000', 'https://ireland.apollo.olxcdn.com:443/v1/files/1ai38b3x5ove3-PL/image;s=2000x1500', 'https://ireland.apollo.olxcdn.com:443/v1/files/ma8j4l26ucl42-PL/image;s=1500x2000', 'https://ireland.apollo.olxcdn.com:443/v1/files/rtaf7bo31bt63-PL/image;s=2000x1500', 'https://ireland.apollo.olxcdn.com:443/v1/files/1ne8p47ds39x2-PL/image;s=2000x1500', 'https://ireland.apollo.olxcdn.com:443/v1/files/y980tiid7bcn-PL/image;s=2000x1500'], 'published_date': '17 maja 2025', 'location': ''}
+2025-05-23 19:20:03 - INFO - Parsed page 2, found 1 new ads.
+2025-05-23 19:20:13 - INFO - Знайдено актуальних оголошень: 1
+2025-05-23 19:20:13 - INFO - Додаємо https://www.olx.pl/d/oferta/glosnik-bluetooth-purida-12-pakiet-pojemnosci-8000mah-CID99-ID11QdF1.html?reason=extended_search_extended_s2v.
+2025-05-23 19:20:24 - INFO - Successfully sent message for ad: Głośnik Bluetooth Purida 12+pakiet pojemności 8000mAh
+2025-05-23 19:20:24 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
