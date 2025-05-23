@@ -163,3 +163,16 @@
 2025-05-23 19:20:13 - INFO - Додаємо https://www.olx.pl/d/oferta/glosnik-bluetooth-purida-12-pakiet-pojemnosci-8000mah-CID99-ID11QdF1.html?reason=extended_search_extended_s2v.
 2025-05-23 19:20:24 - INFO - Successfully sent message for ad: Głośnik Bluetooth Purida 12+pakiet pojemności 8000mAh
 2025-05-23 19:20:24 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-05-23 20:27:36 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-05-23 20:27:36 - INFO - Знайдено старих оголошень: 626
+2025-05-23 20:27:48 - INFO - Last page 4 is the same as this page. Stopping.
+2025-05-23 20:27:48 - INFO - Знайдено актуальних оголошень: 0
+2025-05-23 20:27:48 - INFO - ✅ HTML файл збережено: magnat.html
+2025-05-23 20:27:48 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-05-23 20:27:48 - INFO - Знайдено старих оголошень: 211
+2025-05-23 20:27:55 - INFO - NEW {'title': 'Głośnik Tonsil GD 12/8 4 ohm unitra', 'link': 'https://www.olx.pl/d/oferta/glosnik-tonsil-gd-12-8-4-ohm-unitra-CID99-ID15RKeQ.html?reason=extended_search_extended_s2v', 'price': '20 zł', 'status': 'active', 'date_found': '2025-05-23 20:27', 'date_removed': None, 'description': 'Używany głośnik Tonsil GD 12/8 o impedancji 4 ohmGłośnik sprawnyJest możliwość wysyłki', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/vxjk4o5y6dvo3-PL/image;s=2000x1500', 'https://ireland.apollo.olxcdn.com:443/v1/files/zyvd1elc4oyy2-PL/image;s=2000x1500'], 'published_date': '17 maja 2025', 'location': ''}
+2025-05-23 20:27:55 - INFO - Parsed page 2, found 1 new ads.
+2025-05-23 20:28:04 - INFO - Знайдено актуальних оголошень: 1
+2025-05-23 20:28:04 - INFO - Додаємо https://www.olx.pl/d/oferta/glosnik-tonsil-gd-12-8-4-ohm-unitra-CID99-ID15RKeQ.html?reason=extended_search_extended_s2v.
+2025-05-23 20:28:10 - INFO - Successfully sent message for ad: Głośnik Tonsil GD 12/8 4 ohm unitra
+2025-05-23 20:28:10 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
