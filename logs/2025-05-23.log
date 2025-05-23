@@ -56,3 +56,16 @@
 2025-05-23 10:28:17 - INFO - Знайдено старих оголошень: 207
 2025-05-23 10:28:32 - INFO - Знайдено актуальних оголошень: 0
 2025-05-23 10:28:32 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-05-23 11:21:04 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-05-23 11:21:04 - INFO - Знайдено старих оголошень: 623
+2025-05-23 11:21:07 - INFO - NEW {'title': 'Subwoofer Magnat Supreme 202A', 'link': 'https://www.olx.pl/d/oferta/subwoofer-magnat-supreme-202a-CID99-ID15VUPQ.html', 'price': '400 zł', 'status': 'active', 'date_found': '2025-05-23 11:21', 'date_removed': None, 'description': 'Subwoofer Magnat Supreme 202A używany. Doskonałe rozszerzenie basu dla systemu audio. Wysoka jakość dźwięku i solidna konstrukcja. Idealny do uzupełnienia brzmienia w domu, do zestawu dołączam przewód melodika oraz podstawki wkręcane, całość w oryginalnym opakowaniu stan bardzo dobry.', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/ekwxswqhipgy-PL/image;s=867x1156', 'https://ireland.apollo.olxcdn.com:443/v1/files/wqvlqtkyuxf82-PL/image;s=867x1156', 'https://ireland.apollo.olxcdn.com:443/v1/files/sdts05jaceda3-PL/image;s=867x1156', 'https://ireland.apollo.olxcdn.com:443/v1/files/qyhiu33gstxw2-PL/image;s=867x1156', 'https://ireland.apollo.olxcdn.com:443/v1/files/sc59my2uqpzq3-PL/image;s=867x1156', 'https://ireland.apollo.olxcdn.com:443/v1/files/5i3zjqbl5k963-PL/image;s=867x1156', 'https://ireland.apollo.olxcdn.com:443/v1/files/h785p0vsz34q-PL/image;s=867x1156', 'https://ireland.apollo.olxcdn.com:443/v1/files/0jlucgogz1pv-PL/image;s=867x1156'], 'published_date': '2025-05-23 o 11:14', 'location': ''}
+2025-05-23 11:21:07 - INFO - Parsed page 1, found 1 new ads.
+2025-05-23 11:21:16 - INFO - Last page 4 is the same as this page. Stopping.
+2025-05-23 11:21:16 - INFO - Знайдено актуальних оголошень: 1
+2025-05-23 11:21:16 - INFO - Додаємо https://www.olx.pl/d/oferta/subwoofer-magnat-supreme-202a-CID99-ID15VUPQ.html.
+2025-05-23 11:21:30 - INFO - Successfully sent message for ad: Subwoofer Magnat Supreme 202A
+2025-05-23 11:21:30 - INFO - ✅ HTML файл збережено: magnat.html
+2025-05-23 11:21:30 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-05-23 11:21:30 - INFO - Знайдено старих оголошень: 207
+2025-05-23 11:21:46 - INFO - Знайдено актуальних оголошень: 0
+2025-05-23 11:21:46 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
