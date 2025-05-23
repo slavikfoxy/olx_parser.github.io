@@ -25,3 +25,16 @@
 2025-05-23 07:25:26 - INFO - Знайдено старих оголошень: 206
 2025-05-23 07:25:45 - INFO - Знайдено актуальних оголошень: 0
 2025-05-23 07:25:45 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-05-23 08:34:06 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-05-23 08:34:06 - INFO - Знайдено старих оголошень: 623
+2025-05-23 08:34:20 - INFO - Last page 4 is the same as this page. Stopping.
+2025-05-23 08:34:20 - INFO - Знайдено актуальних оголошень: 0
+2025-05-23 08:34:20 - INFO - ✅ HTML файл збережено: magnat.html
+2025-05-23 08:34:20 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-05-23 08:34:20 - INFO - Знайдено старих оголошень: 206
+2025-05-23 08:34:27 - INFO - NEW {'title': 'Głośnik niskotonowy HK Audio Sica 8 Ohms 12"', 'link': 'https://www.olx.pl/d/oferta/glosnik-niskotonowy-hk-audio-sica-8-ohms-12-CID99-ID15QOVs.html?reason=extended_search_extended_s2v', 'price': '350 zł', 'status': 'active', 'date_found': '2025-05-23 08:34', 'date_removed': None, 'description': 'Szanowni Państwo,Oferuję dwa głośniki niskotonowe do HK Audio Sica 12" 8 Ohms 9940315. Są w pełni sprawne. Odbiór osobisty Warszawa/Mokotów lub wysyłka na ternie Polski. Posiadam 2 sztuki, cena za 1 sztukę.Zapraszam,Marcin', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/u3vrq52tmrog2-PL/image;s=4096x2304', 'https://ireland.apollo.olxcdn.com:443/v1/files/nbms7sizm6xe-PL/image;s=4096x2304'], 'published_date': '16 maja 2025', 'location': ''}
+2025-05-23 08:34:27 - INFO - Parsed page 2, found 1 new ads.
+2025-05-23 08:34:40 - INFO - Знайдено актуальних оголошень: 1
+2025-05-23 08:34:40 - INFO - Додаємо https://www.olx.pl/d/oferta/glosnik-niskotonowy-hk-audio-sica-8-ohms-12-CID99-ID15QOVs.html?reason=extended_search_extended_s2v.
+2025-05-23 08:34:45 - INFO - Successfully sent message for ad: Głośnik niskotonowy HK Audio Sica 8 Ohms 12"
+2025-05-23 08:34:45 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
