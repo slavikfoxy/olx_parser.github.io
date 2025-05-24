@@ -16,3 +16,16 @@
 2025-05-24 06:33:13 - INFO - Знайдено старих оголошень: 213
 2025-05-24 06:33:29 - INFO - Знайдено актуальних оголошень: 0
 2025-05-24 06:33:30 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-05-24 07:22:21 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-05-24 07:22:21 - INFO - Знайдено старих оголошень: 626
+2025-05-24 07:22:32 - INFO - Last page 4 is the same as this page. Stopping.
+2025-05-24 07:22:32 - INFO - Знайдено актуальних оголошень: 0
+2025-05-24 07:22:33 - INFO - ✅ HTML файл збережено: magnat.html
+2025-05-24 07:22:33 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-05-24 07:22:33 - INFO - Знайдено старих оголошень: 213
+2025-05-24 07:22:38 - INFO - NEW {'title': 'Wzmacniacz boschman pch-2500fx 200W', 'link': 'https://www.olx.pl/d/oferta/wzmacniacz-boschman-pch-2500fx-200w-CID99-ID15RS16.html?reason=extended_search_extended_s2v', 'price': '115 zł', 'status': 'active', 'date_found': '2025-05-24 07:22', 'date_removed': None, 'description': 'Sprzedam wzmacniacz firmy boschman,stan bardzo dobry, wizualnie wygląda jak nowy , wszystko działa 2 kanałowy,sterowanie bezpośrednio ze wzmacniacza ,bass Control,trebble,central,bezpiecznik przeciazeniowyDwie diody power /protection300 W max150 W rmsSprzedaje z powodu rozbudowy systemu audio, polecam.', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/e3vc2cr7wjv32-PL/image;s=3456x4608', 'https://ireland.apollo.olxcdn.com:443/v1/files/5h9kext520uz-PL/image;s=2000x2667'], 'published_date': '17 maja 2025', 'location': ''}
+2025-05-24 07:22:38 - INFO - Parsed page 2, found 1 new ads.
+2025-05-24 07:22:47 - INFO - Знайдено актуальних оголошень: 1
+2025-05-24 07:22:47 - INFO - Додаємо https://www.olx.pl/d/oferta/wzmacniacz-boschman-pch-2500fx-200w-CID99-ID15RS16.html?reason=extended_search_extended_s2v.
+2025-05-24 07:22:53 - INFO - Successfully sent message for ad: Wzmacniacz boschman pch-2500fx 200W
+2025-05-24 07:22:53 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
