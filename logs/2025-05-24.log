@@ -99,3 +99,12 @@
 2025-05-24 13:31:35 - INFO - Додаємо https://www.olx.pl/d/oferta/glosnik-bluetooth-prime3-lumi-podswietlany-rgb-nowy-abt12bl-CID99-IDZOY8C.html?reason=extended_search_extended_s2v.
 2025-05-24 13:31:48 - INFO - Successfully sent message for ad: Głośnik bluetooth Prime3 Lumi podświetlany RGB - NOWY - ABT12BL
 2025-05-24 13:31:48 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-05-24 14:21:49 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-05-24 14:21:49 - INFO - Знайдено старих оголошень: 626
+2025-05-24 14:22:03 - INFO - Last page 4 is the same as this page. Stopping.
+2025-05-24 14:22:03 - INFO - Знайдено актуальних оголошень: 0
+2025-05-24 14:22:03 - INFO - ✅ HTML файл збережено: magnat.html
+2025-05-24 14:22:03 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-05-24 14:22:03 - INFO - Знайдено старих оголошень: 218
+2025-05-24 14:22:20 - INFO - Знайдено актуальних оголошень: 0
+2025-05-24 14:22:20 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
