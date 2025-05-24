@@ -60,3 +60,16 @@
 2025-05-24 10:25:57 - INFO - Знайдено старих оголошень: 215
 2025-05-24 10:26:16 - INFO - Знайдено актуальних оголошень: 0
 2025-05-24 10:26:16 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-05-24 11:18:47 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-05-24 11:18:47 - INFO - Знайдено старих оголошень: 626
+2025-05-24 11:19:00 - INFO - Last page 4 is the same as this page. Stopping.
+2025-05-24 11:19:00 - INFO - Знайдено актуальних оголошень: 0
+2025-05-24 11:19:00 - INFO - ✅ HTML файл збережено: magnat.html
+2025-05-24 11:19:00 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-05-24 11:19:00 - INFO - Знайдено старих оголошень: 215
+2025-05-24 11:19:08 - INFO - NEW {'title': 'Wzmacniacz mocy 200W mono Elektronika model W-200', 'link': 'https://www.olx.pl/d/oferta/wzmacniacz-mocy-200w-mono-elektronika-model-w-200-CID99-ID15Saug.html?reason=extended_search_extended_s2v', 'price': '250 zł', 'status': 'active', 'date_found': '2025-05-24 11:19', 'date_removed': None, 'description': 'Sprzedam sprawny wzmacniacz mocy, firmy Elektronika, model W-200. Jest to wzmacniacz monofoniczny o mocy 200W. Mozliwosc podlaczenia glosnikow w systemie 100V jak i zwyklego glosnika 4 Ohm. W zmacniaczu brakuje 2 plastikowych nakretek do podlaczenia glosnikow. Glosniki mozna podlaczyc stosujac wtyki bananowe.', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/1w4gb8zeqk35-PL/image;s=1020x471', 'https://ireland.apollo.olxcdn.com:443/v1/files/wzi7yxw5lbal3-PL/image;s=471x1020', 'https://ireland.apollo.olxcdn.com:443/v1/files/tlxi9ic1m7d73-PL/image;s=471x1020'], 'published_date': '17 maja 2025', 'location': ''}
+2025-05-24 11:19:08 - INFO - Parsed page 2, found 1 new ads.
+2025-05-24 11:19:18 - INFO - Знайдено актуальних оголошень: 1
+2025-05-24 11:19:18 - INFO - Додаємо https://www.olx.pl/d/oferta/wzmacniacz-mocy-200w-mono-elektronika-model-w-200-CID99-ID15Saug.html?reason=extended_search_extended_s2v.
+2025-05-24 11:19:27 - INFO - Successfully sent message for ad: Wzmacniacz mocy 200W mono Elektronika model W-200
+2025-05-24 11:19:27 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
