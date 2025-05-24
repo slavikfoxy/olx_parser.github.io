@@ -162,3 +162,16 @@
 2025-05-24 18:33:16 - INFO - Знайдено старих оголошень: 220
 2025-05-24 18:33:48 - INFO - Знайдено актуальних оголошень: 0
 2025-05-24 18:33:48 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-05-24 19:18:36 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-05-24 19:18:36 - INFO - Знайдено старих оголошень: 629
+2025-05-24 19:18:48 - INFO - Last page 4 is the same as this page. Stopping.
+2025-05-24 19:18:48 - INFO - Знайдено актуальних оголошень: 0
+2025-05-24 19:18:48 - INFO - ✅ HTML файл збережено: magnat.html
+2025-05-24 19:18:48 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-05-24 19:18:48 - INFO - Знайдено старих оголошень: 220
+2025-05-24 19:18:55 - INFO - NEW {'title': 'Głośniki Soundstream 25 cm', 'link': 'https://www.olx.pl/d/oferta/glosniki-soundstream-25-cm-CID99-IDIXoUO.html?reason=extended_search_extended_s2v', 'price': '299 zł', 'status': 'active', 'date_found': '2025-05-24 19:18', 'date_removed': None, 'description': 'WitamJak w temacie na sprzedaż dwa głośniki firmy Soundstream o mocy 200 w każdy.', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/kgnq70blazhc-PL/image;s=1008x756', 'https://ireland.apollo.olxcdn.com:443/v1/files/h873ok6nhh0z1-PL/image;s=1008x756'], 'published_date': '19 maja 2025', 'location': ''}
+2025-05-24 19:18:55 - INFO - Parsed page 2, found 1 new ads.
+2025-05-24 19:19:06 - INFO - Знайдено актуальних оголошень: 1
+2025-05-24 19:19:06 - INFO - Додаємо https://www.olx.pl/d/oferta/glosniki-soundstream-25-cm-CID99-IDIXoUO.html?reason=extended_search_extended_s2v.
+2025-05-24 19:19:14 - INFO - Successfully sent message for ad: Głośniki Soundstream 25 cm
+2025-05-24 19:19:14 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
