@@ -130,3 +130,19 @@
 2025-05-24 16:29:36 - INFO - Знайдено старих оголошень: 218
 2025-05-24 16:29:54 - INFO - Знайдено актуальних оголошень: 0
 2025-05-24 16:29:54 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-05-24 17:21:35 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-05-24 17:21:35 - INFO - Знайдено старих оголошень: 627
+2025-05-24 17:21:48 - INFO - Last page 4 is the same as this page. Stopping.
+2025-05-24 17:21:48 - INFO - Знайдено актуальних оголошень: 0
+2025-05-24 17:21:48 - INFO - ✅ HTML файл збережено: magnat.html
+2025-05-24 17:21:48 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-05-24 17:21:48 - INFO - Знайдено старих оголошень: 218
+2025-05-24 17:21:54 - INFO - NEW {'title': 'Głośnik bezprzewodowy 12 h', 'link': 'https://www.olx.pl/d/oferta/glosnik-bezprzewodowy-12-h-CID99-ID13vY5M.html?reason=extended_search_extended_s2v', 'price': '60 zł', 'status': 'active', 'date_found': '2025-05-24 17:21', 'date_removed': None, 'description': 'Głośnik bezprzewodowy bateria 6000 mAh pozwala na 12 godzin odtwarzania.Wejście USB, czytnik kart micro.Nowy oryginalnie zapakowany', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/50j3lrhe9juh2-PL/image;s=1428x920', 'https://ireland.apollo.olxcdn.com:443/v1/files/gnwdwj6ts73z-PL/image;s=1048x738', 'https://ireland.apollo.olxcdn.com:443/v1/files/ewsvjxvhui5r2-PL/image;s=1162x1089'], 'published_date': '18 maja 2025', 'location': ''}
+2025-05-24 17:21:56 - INFO - NEW {'title': 'Głośnik Subwoofer 10" 25cm', 'link': 'https://www.olx.pl/d/oferta/glosnik-subwoofer-10-25cm-CID99-ID15sI7c.html?reason=extended_search_extended_s2v', 'price': '220 zł', 'status': 'active', 'date_found': '2025-05-24 17:21', 'date_removed': None, 'description': 'Witam. Sprzedam używany w pełni sprawny głośnik niskotonowy firmy MRS model RV -1000.Głośnik używany przeze mnei orzeslz ostatnich 6 lat sporadycznie w weekendowym samochodzie w 30litrowej skrzyni BR. Membrana polipropylen, zawieszenie guma. Sprężynowe zaciski. Wentylowana 2.5" cewka 4ohm.', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/63fx25axmcdl3-PL/image;s=2000x1500', 'https://ireland.apollo.olxcdn.com:443/v1/files/ruq2yctt41y4-PL/image;s=2000x1500', 'https://ireland.apollo.olxcdn.com:443/v1/files/rit8wn3buvsh2-PL/image;s=2000x1500', 'https://ireland.apollo.olxcdn.com:443/v1/files/g2udh11kcl6l-PL/image;s=2000x1500', 'https://ireland.apollo.olxcdn.com:443/v1/files/5foe3pl2dmla1-PL/image;s=1500x2000'], 'published_date': '18 maja 2025', 'location': ''}
+2025-05-24 17:21:56 - INFO - Parsed page 2, found 2 new ads.
+2025-05-24 17:22:06 - INFO - Знайдено актуальних оголошень: 2
+2025-05-24 17:22:06 - INFO - Додаємо https://www.olx.pl/d/oferta/glosnik-bezprzewodowy-12-h-CID99-ID13vY5M.html?reason=extended_search_extended_s2v.
+2025-05-24 17:22:13 - INFO - Successfully sent message for ad: Głośnik bezprzewodowy 12 h
+2025-05-24 17:22:13 - INFO - Додаємо https://www.olx.pl/d/oferta/glosnik-subwoofer-10-25cm-CID99-ID15sI7c.html?reason=extended_search_extended_s2v.
+2025-05-24 17:22:28 - INFO - Successfully sent message for ad: Głośnik Subwoofer 10" 25cm
+2025-05-24 17:22:28 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
