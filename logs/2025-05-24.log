@@ -73,3 +73,16 @@
 2025-05-24 11:19:18 - INFO - Додаємо https://www.olx.pl/d/oferta/wzmacniacz-mocy-200w-mono-elektronika-model-w-200-CID99-ID15Saug.html?reason=extended_search_extended_s2v.
 2025-05-24 11:19:27 - INFO - Successfully sent message for ad: Wzmacniacz mocy 200W mono Elektronika model W-200
 2025-05-24 11:19:27 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-05-24 12:47:54 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-05-24 12:47:54 - INFO - Знайдено старих оголошень: 626
+2025-05-24 12:48:08 - INFO - Last page 4 is the same as this page. Stopping.
+2025-05-24 12:48:08 - INFO - Знайдено актуальних оголошень: 0
+2025-05-24 12:48:08 - INFO - ✅ HTML файл збережено: magnat.html
+2025-05-24 12:48:08 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-05-24 12:48:08 - INFO - Знайдено старих оголошень: 216
+2025-05-24 12:48:16 - INFO - NEW {'title': 'Głośnik iTT LPT 300 12’’ 8 Ohm HiFi bass woofer vintage niskotonowy', 'link': 'https://www.olx.pl/d/oferta/glosnik-itt-lpt-300-12-8-ohm-hifi-bass-woofer-vintage-niskotonowy-CID99-ID15nBq8.html?reason=extended_search_extended_s2v', 'price': '180 zł', 'status': 'active', 'date_found': '2025-05-24 12:48', 'date_removed': None, 'description': 'Świetny stan, pasmo przenoszenia i brzmienie, nienaprawiany.Model 49131Firma montowana u najlepszych producentów kolumn, np w Loewe, Bang&Olufsen itd.Pancerna wysyłka w opakowaniu zastępczym po innym głośniku (styropian, gruba folia, folia bąbelkowa, pianka, papiery)   pozdrawiam.', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/rha5gu6mv35j2-PL/image;s=563x1000', 'https://ireland.apollo.olxcdn.com:443/v1/files/jkywq6aqhtd73-PL/image;s=1000x563', 'https://ireland.apollo.olxcdn.com:443/v1/files/c9cvb37o5gap3-PL/image;s=1000x563', 'https://ireland.apollo.olxcdn.com:443/v1/files/to7yiv9kbepg1-PL/image;s=1000x563', 'https://ireland.apollo.olxcdn.com:443/v1/files/0qwgam4p5278-PL/image;s=1000x563', 'https://ireland.apollo.olxcdn.com:443/v1/files/3lmk9gzn68rj2-PL/image;s=1000x563', 'https://ireland.apollo.olxcdn.com:443/v1/files/loc9mujoxdt7-PL/image;s=1000x563', 'https://ireland.apollo.olxcdn.com:443/v1/files/8oszdn3p4oeq2-PL/image;s=563x1000'], 'published_date': '17 maja 2025', 'location': ''}
+2025-05-24 12:48:16 - INFO - Parsed page 2, found 1 new ads.
+2025-05-24 12:48:29 - INFO - Знайдено актуальних оголошень: 1
+2025-05-24 12:48:29 - INFO - Додаємо https://www.olx.pl/d/oferta/glosnik-itt-lpt-300-12-8-ohm-hifi-bass-woofer-vintage-niskotonowy-CID99-ID15nBq8.html?reason=extended_search_extended_s2v.
+2025-05-24 12:48:43 - INFO - Successfully sent message for ad: Głośnik iTT LPT 300 12’’ 8 Ohm HiFi bass woofer vintage niskotonowy
+2025-05-24 12:48:43 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
