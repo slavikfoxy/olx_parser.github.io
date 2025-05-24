@@ -108,3 +108,16 @@
 2025-05-24 14:22:03 - INFO - Знайдено старих оголошень: 218
 2025-05-24 14:22:20 - INFO - Знайдено актуальних оголошень: 0
 2025-05-24 14:22:20 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-05-24 15:23:50 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-05-24 15:23:50 - INFO - Знайдено старих оголошень: 626
+2025-05-24 15:23:54 - INFO - NEW {'title': 'Głośnik centralny Magnat 150W', 'link': 'https://www.olx.pl/d/oferta/glosnik-centralny-magnat-150w-CID99-ID15XRPL.html', 'price': '222 zł', 'status': 'active', 'date_found': '2025-05-24 15:23', 'date_removed': None, 'description': 'Głośnik centralny Magnat o mocy 150W, używany. Doskonałe rozwiązanie do ulepszenia jakości dźwięku w systemie audio domowym. Zapewnia klarowne brzmienie i głębokie basy, idealny do oglądania filmów i słuchania muzyki.', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/ddgfd92s9gj13-PL/image;s=1152x864', 'https://ireland.apollo.olxcdn.com:443/v1/files/9sr81u3mfe3j1-PL/image;s=1152x864', 'https://ireland.apollo.olxcdn.com:443/v1/files/8euqfuje94a71-PL/image;s=864x1152', 'https://ireland.apollo.olxcdn.com:443/v1/files/sozixrzdxf622-PL/image;s=864x1152'], 'published_date': '2025-05-24 o 14:36', 'location': ''}
+2025-05-24 15:23:54 - INFO - Parsed page 1, found 1 new ads.
+2025-05-24 15:24:03 - INFO - Last page 4 is the same as this page. Stopping.
+2025-05-24 15:24:03 - INFO - Знайдено актуальних оголошень: 1
+2025-05-24 15:24:03 - INFO - Додаємо https://www.olx.pl/d/oferta/glosnik-centralny-magnat-150w-CID99-ID15XRPL.html.
+2025-05-24 15:24:11 - INFO - Successfully sent message for ad: Głośnik centralny Magnat 150W
+2025-05-24 15:24:11 - INFO - ✅ HTML файл збережено: magnat.html
+2025-05-24 15:24:11 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-05-24 15:24:11 - INFO - Знайдено старих оголошень: 218
+2025-05-24 15:24:28 - INFO - Знайдено актуальних оголошень: 0
+2025-05-24 15:24:28 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
