@@ -25,3 +25,16 @@
 2025-05-25 07:23:00 - INFO - Знайдено старих оголошень: 222
 2025-05-25 07:23:17 - INFO - Знайдено актуальних оголошень: 0
 2025-05-25 07:23:17 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-05-25 08:30:23 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-05-25 08:30:23 - INFO - Знайдено старих оголошень: 629
+2025-05-25 08:30:27 - INFO - NEW {'title': 'Kolumna głośnik Magnat Monitor Supreme 1002', 'link': 'https://www.olx.pl/d/oferta/kolumna-glosnik-magnat-monitor-supreme-1002-CID99-ID15Ye06.html', 'price': '400 zł', 'status': 'active', 'date_found': '2025-05-25 08:30', 'date_removed': None, 'description': 'Sprzedam jedną kolumnę Magnat Monitor Supreme 1002Stan jak nowa w pełni sprawna, w komplecie wszystko co daje producent.Specyfikacja kolumny na zdjęciu.', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/pkkiby1ieinx2-PL/image;s=1500x2000', 'https://ireland.apollo.olxcdn.com:443/v1/files/py8mkmp4yct51-PL/image;s=1500x2000', 'https://ireland.apollo.olxcdn.com:443/v1/files/2zpd5y94orha1-PL/image;s=1500x2000', 'https://ireland.apollo.olxcdn.com:443/v1/files/7m0bjxxighk53-PL/image;s=1500x2000', 'https://ireland.apollo.olxcdn.com:443/v1/files/frlpaeva8wrl3-PL/image;s=1500x2000', 'https://ireland.apollo.olxcdn.com:443/v1/files/i58if45ia7yy1-PL/image;s=1500x2000', 'https://ireland.apollo.olxcdn.com:443/v1/files/7mc0iyognbrg3-PL/image;s=1500x2000', 'https://ireland.apollo.olxcdn.com:443/v1/files/1tvwaa84qdve-PL/image;s=1500x2000'], 'published_date': '2025-05-25 o 07:30', 'location': ''}
+2025-05-25 08:30:27 - INFO - Parsed page 1, found 1 new ads.
+2025-05-25 08:30:35 - INFO - Last page 4 is the same as this page. Stopping.
+2025-05-25 08:30:35 - INFO - Знайдено актуальних оголошень: 1
+2025-05-25 08:30:35 - INFO - Додаємо https://www.olx.pl/d/oferta/kolumna-glosnik-magnat-monitor-supreme-1002-CID99-ID15Ye06.html.
+2025-05-25 08:30:49 - INFO - Successfully sent message for ad: Kolumna głośnik Magnat Monitor Supreme 1002
+2025-05-25 08:30:49 - INFO - ✅ HTML файл збережено: magnat.html
+2025-05-25 08:30:49 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-05-25 08:30:49 - INFO - Знайдено старих оголошень: 222
+2025-05-25 08:31:05 - INFO - Знайдено актуальних оголошень: 0
+2025-05-25 08:31:05 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
