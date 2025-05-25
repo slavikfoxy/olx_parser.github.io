@@ -38,3 +38,16 @@
 2025-05-25 08:30:49 - INFO - Знайдено старих оголошень: 222
 2025-05-25 08:31:05 - INFO - Знайдено актуальних оголошень: 0
 2025-05-25 08:31:05 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-05-25 09:24:09 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-05-25 09:24:09 - INFO - Знайдено старих оголошень: 630
+2025-05-25 09:24:14 - INFO - NEW {'title': 'Subwoofer Magnat 20 cm', 'link': 'https://www.olx.pl/d/oferta/subwoofer-magnat-20-cm-CID99-ID15Yi4P.html', 'price': '250 zł', 'status': 'active', 'date_found': '2025-05-25 09:24', 'date_removed': None, 'description': 'w pełni sprawny, gra pięknie, bas rozchodzi się po podłodze a następnie wznosi się do góry, brzmi inaczej pod różnymi kątami, średnica dyfuzora 20 cm.', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/10aq1xu59ktg-PL/image;s=1000x750', 'https://ireland.apollo.olxcdn.com:443/v1/files/opct0m0tv11t2-PL/image;s=1000x750', 'https://ireland.apollo.olxcdn.com:443/v1/files/m1vdefgfxb4w-PL/image;s=1000x750'], 'published_date': '2025-05-25 o 09:10', 'location': ''}
+2025-05-25 09:24:14 - INFO - Parsed page 1, found 1 new ads.
+2025-05-25 09:24:24 - INFO - Last page 4 is the same as this page. Stopping.
+2025-05-25 09:24:24 - INFO - Знайдено актуальних оголошень: 1
+2025-05-25 09:24:24 - INFO - Додаємо https://www.olx.pl/d/oferta/subwoofer-magnat-20-cm-CID99-ID15Yi4P.html.
+2025-05-25 09:24:30 - INFO - Successfully sent message for ad: Subwoofer Magnat 20 cm
+2025-05-25 09:24:30 - INFO - ✅ HTML файл збережено: magnat.html
+2025-05-25 09:24:30 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-05-25 09:24:30 - INFO - Знайдено старих оголошень: 222
+2025-05-25 09:24:45 - INFO - Знайдено актуальних оголошень: 0
+2025-05-25 09:24:45 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
