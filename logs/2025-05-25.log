@@ -60,3 +60,16 @@
 2025-05-25 10:25:35 - INFO - Знайдено старих оголошень: 222
 2025-05-25 10:25:49 - INFO - Знайдено актуальних оголошень: 0
 2025-05-25 10:25:49 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-05-25 11:18:50 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-05-25 11:18:50 - INFO - Знайдено старих оголошень: 631
+2025-05-25 11:18:53 - INFO - NEW {'title': 'Kolumny Magnat monitor 110', 'link': 'https://www.olx.pl/d/oferta/kolumny-magnat-monitor-110-CID99-ID15YmRj.html', 'price': '300 zł', 'status': 'active', 'date_found': '2025-05-25 11:18', 'date_removed': None, 'description': 'Na sprzedaż kolumny Magnat Monitor 110.Stan bardzo dobry.Film z działania na życzenie.2x3 metry kabla że zdjęć do zestawu gratis.Paczki wysyłam w soboty i niedziele.', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/22lpwol3ltqa-PL/image;s=1024x576', 'https://ireland.apollo.olxcdn.com:443/v1/files/odmc1qr4op8y-PL/image;s=576x1024', 'https://ireland.apollo.olxcdn.com:443/v1/files/p57wjtowzhn12-PL/image;s=576x1024'], 'published_date': '2025-05-25 o 10:41', 'location': ''}
+2025-05-25 11:18:53 - INFO - Parsed page 1, found 1 new ads.
+2025-05-25 11:19:01 - INFO - Last page 4 is the same as this page. Stopping.
+2025-05-25 11:19:01 - INFO - Знайдено актуальних оголошень: 1
+2025-05-25 11:19:01 - INFO - Додаємо https://www.olx.pl/d/oferta/kolumny-magnat-monitor-110-CID99-ID15YmRj.html.
+2025-05-25 11:19:10 - INFO - Successfully sent message for ad: Kolumny Magnat monitor 110
+2025-05-25 11:19:10 - INFO - ✅ HTML файл збережено: magnat.html
+2025-05-25 11:19:10 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-05-25 11:19:10 - INFO - Знайдено старих оголошень: 222
+2025-05-25 11:19:26 - INFO - Знайдено актуальних оголошень: 0
+2025-05-25 11:19:26 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
