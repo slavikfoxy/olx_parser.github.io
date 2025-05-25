@@ -153,3 +153,12 @@
 2025-05-25 19:19:03 - INFO - Додаємо https://www.olx.pl/d/oferta/subwoofer-glosnik-nisko-tonowy-headshot-12cali-30cm-2-2-CID99-ID15fUzY.html?reason=extended_search_extended_s2v.
 2025-05-25 19:19:11 - INFO - Successfully sent message for ad: Subwoofer Głośnik nisko tonowy HEADSHOT 12cali (30cm) 2+2
 2025-05-25 19:19:11 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-05-25 20:26:05 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-05-25 20:26:05 - INFO - Знайдено старих оголошень: 632
+2025-05-25 20:26:16 - INFO - Last page 4 is the same as this page. Stopping.
+2025-05-25 20:26:16 - INFO - Знайдено актуальних оголошень: 0
+2025-05-25 20:26:16 - INFO - ✅ HTML файл збережено: magnat.html
+2025-05-25 20:26:16 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-05-25 20:26:16 - INFO - Знайдено старих оголошень: 224
+2025-05-25 20:26:37 - INFO - Знайдено актуальних оголошень: 0
+2025-05-25 20:26:37 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
