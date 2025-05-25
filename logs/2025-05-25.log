@@ -113,3 +113,12 @@
 2025-05-25 15:24:33 - INFO - Додаємо https://www.olx.pl/d/oferta/glosnik-novox-nv12-CID99-ID15OhkJ.html?reason=extended_search_extended_s2v.
 2025-05-25 15:24:39 - INFO - Successfully sent message for ad: Głośnik Novox NV12
 2025-05-25 15:24:39 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-05-25 16:30:19 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-05-25 16:30:19 - INFO - Знайдено старих оголошень: 632
+2025-05-25 16:30:30 - INFO - Last page 4 is the same as this page. Stopping.
+2025-05-25 16:30:30 - INFO - Знайдено актуальних оголошень: 0
+2025-05-25 16:30:30 - INFO - ✅ HTML файл збережено: magnat.html
+2025-05-25 16:30:30 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-05-25 16:30:30 - INFO - Знайдено старих оголошень: 223
+2025-05-25 16:30:45 - INFO - Знайдено актуальних оголошень: 0
+2025-05-25 16:30:45 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
