@@ -100,3 +100,16 @@
 2025-05-25 14:22:56 - INFO - Знайдено старих оголошень: 222
 2025-05-25 14:23:13 - INFO - Знайдено актуальних оголошень: 0
 2025-05-25 14:23:13 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-05-25 15:24:04 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-05-25 15:24:04 - INFO - Знайдено старих оголошень: 632
+2025-05-25 15:24:17 - INFO - Last page 4 is the same as this page. Stopping.
+2025-05-25 15:24:17 - INFO - Знайдено актуальних оголошень: 0
+2025-05-25 15:24:17 - INFO - ✅ HTML файл збережено: magnat.html
+2025-05-25 15:24:17 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-05-25 15:24:17 - INFO - Знайдено старих оголошень: 222
+2025-05-25 15:24:23 - INFO - NEW {'title': 'Głośnik Novox NV12', 'link': 'https://www.olx.pl/d/oferta/glosnik-novox-nv12-CID99-ID15OhkJ.html?reason=extended_search_extended_s2v', 'price': '450 zł', 'status': 'active', 'date_found': '2025-05-25 15:24', 'date_removed': None, 'description': 'Witam. Sprzedam kolumnę aktywną Novox NV12. Kolumna posiada wejście USB, Bluetooth, 2 wejścia na mikrofony itd. Posiada też wbudowany mikser. Kolumna kupiona w lutym nowa, użyta tylko 2 razy. Kupiona za 900 zł, sprzedam za 450. Wszystko działa jak należy, kolumna w idealnym stanie. Sprzedaję, bo już nie potrzebuję.', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/u7cjbkglncfg1-PL/image;s=750x1000', 'https://ireland.apollo.olxcdn.com:443/v1/files/rueh67v3x49d-PL/image;s=750x1000'], 'published_date': '13 maja 2025', 'location': ''}
+2025-05-25 15:24:23 - INFO - Parsed page 2, found 1 new ads.
+2025-05-25 15:24:33 - INFO - Знайдено актуальних оголошень: 1
+2025-05-25 15:24:33 - INFO - Додаємо https://www.olx.pl/d/oferta/glosnik-novox-nv12-CID99-ID15OhkJ.html?reason=extended_search_extended_s2v.
+2025-05-25 15:24:39 - INFO - Successfully sent message for ad: Głośnik Novox NV12
+2025-05-25 15:24:39 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
