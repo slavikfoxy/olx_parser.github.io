@@ -29,3 +29,20 @@
 2025-05-26 07:36:56 - INFO - Додаємо https://www.olx.pl/d/oferta/glosnik-tonsil-gd-12-4-4w-8-ohm-CID99-ID15TXOl.html?reason=extended_search_extended_s2v.
 2025-05-26 07:37:04 - INFO - Successfully sent message for ad: Głośnik TONSIL GD 12/4  4W   8 OHM
 2025-05-26 07:37:04 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-05-26 09:51:29 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-05-26 09:51:29 - INFO - Знайдено старих оголошень: 632
+2025-05-26 09:51:43 - INFO - NEW {'title': 'Magnat 4 głośniki w obudowie -', 'link': 'https://www.olx.pl/d/oferta/magnat-4-glosniki-w-obudowie-CID99-IDSQ6ax.html', 'price': '80 zł', 'status': 'active', 'date_found': '2025-05-26 09:51', 'date_removed': None, 'description': 'Posiadam na sprzedaż 4 głośniki / kolumienki od firmy Magnat. Głośniki 8 Ohm. 3 głośniki sprawne, grające ok.  Czwarty ma chyba przypaloną cewkę bo przy niskich tonach zaczyna harczeć. Ale przy klasycznym ustawieniu bez podkręcania niskich tonów gra ok.U mnie zestaw grał w piwnicy żeby umilić pracę.Cena za komplet.', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/uent7pdr3iel1-PL/image;s=1926x1469', 'https://ireland.apollo.olxcdn.com:443/v1/files/9ktu7sbtobee1-PL/image;s=2000x1500', 'https://ireland.apollo.olxcdn.com:443/v1/files/0u4s0nnhqbl23-PL/image;s=2000x1500', 'https://ireland.apollo.olxcdn.com:443/v1/files/b9gk1d32x6s92-PL/image;s=2000x1500'], 'published_date': '2025-05-26 o 08:55', 'location': ''}
+2025-05-26 09:51:43 - INFO - Parsed page 1, found 1 new ads.
+2025-05-26 09:52:23 - INFO - Last page 4 is the same as this page. Stopping.
+2025-05-26 09:52:23 - INFO - Знайдено актуальних оголошень: 1
+2025-05-26 09:52:23 - INFO - Додаємо https://www.olx.pl/d/oferta/magnat-4-glosniki-w-obudowie-CID99-IDSQ6ax.html.
+2025-05-26 09:52:32 - INFO - Successfully sent message for ad: Magnat 4 głośniki w obudowie -
+2025-05-26 09:52:32 - INFO - ✅ HTML файл збережено: magnat.html
+2025-05-26 09:52:32 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-05-26 09:52:32 - INFO - Знайдено старих оголошень: 225
+2025-05-26 09:52:59 - INFO - NEW {'title': 'Głośnik estradowy 12 Beyma 12G40 8 Ohm stan jak nowy (RCF Faital )', 'link': 'https://www.olx.pl/d/oferta/glosnik-estradowy-12-beyma-12g40-8-ohm-stan-jak-nowy-rcf-faital-CID99-ID15cPpt.html?reason=extended_search_extended_s2v', 'price': '450 zł', 'status': 'active', 'date_found': '2025-05-26 09:52', 'date_removed': None, 'description': 'Na sprzedaż 1 szt Beyma 12G40 8 Ohm, używany w warunkach domowych , stan perfekcyjny, żadnych napraw żadnych ingerencji serwisowych, nigdy nie pracował powyżej 150W.Na życzenie więcej zdjęć ( jest zamontowany w 70 l BR)Polecam i zapewniam że super bezpiecznie zapakuję .', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/80iwl0xlen7n2-PL/image;s=1275x732'], 'published_date': '19 maja 2025', 'location': ''}
+2025-05-26 09:52:59 - INFO - Parsed page 2, found 1 new ads.
+2025-05-26 09:53:12 - INFO - Знайдено актуальних оголошень: 1
+2025-05-26 09:53:12 - INFO - Додаємо https://www.olx.pl/d/oferta/glosnik-estradowy-12-beyma-12g40-8-ohm-stan-jak-nowy-rcf-faital-CID99-ID15cPpt.html?reason=extended_search_extended_s2v.
+2025-05-26 09:53:13 - INFO - Successfully sent message for ad: Głośnik estradowy 12 Beyma 12G40 8 Ohm stan jak nowy (RCF Faital )
+2025-05-26 09:53:13 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
