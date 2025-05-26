@@ -93,3 +93,16 @@
 2025-05-26 13:34:15 - INFO - Додаємо https://www.olx.pl/d/oferta/electrovoice-zlx-12p-monitor-glosnik-kolumna-aktywna-CID99-ID14GW8y.html?reason=extended_search_extended_s2v.
 2025-05-26 13:34:29 - INFO - Successfully sent message for ad: Electrovoice ZLX 12p, monitor głośnik kolumna aktywna
 2025-05-26 13:34:29 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-05-26 14:25:59 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-05-26 14:25:59 - INFO - Знайдено старих оголошень: 633
+2025-05-26 14:26:12 - INFO - Last page 4 is the same as this page. Stopping.
+2025-05-26 14:26:12 - INFO - Знайдено актуальних оголошень: 0
+2025-05-26 14:26:12 - INFO - ✅ HTML файл збережено: magnat.html
+2025-05-26 14:26:12 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-05-26 14:26:12 - INFO - Знайдено старих оголошень: 229
+2025-05-26 14:26:16 - INFO - NEW {'title': 'Wzmacniacz DLS XM40 4-kanałowy', 'link': 'https://www.olx.pl/d/oferta/wzmacniacz-dls-xm40-4-kanalowy-CID99-ID15Zhiw.html', 'price': '370 zł', 'status': 'active', 'date_found': '2025-05-26 14:26', 'date_removed': None, 'description': 'Witamdo sprzedania wzmacniacz klasy AB Szwedzkiego producenta DLS XM40.Wzmaczniacz 4 kanałowy z możliwością mostkowania.Wszystko sprawne i działa, podczas mojego użytkowania nie naprawione i zawsze działało bez problemówDane techniczne na zdjęciu.Poprzedni właściciel miał źle zaciśnięty kabel "+" i dlatego terminal się rozgrzał, ale w środku wszystko działa poprawnie i nie ma żadnych problemów.Dodatkowo sprzedaję dwie sztuki kabla 2xRCA o długości 2,1 metra (własnej roboty, wysokiej jakości i dobry ekran miedziany i 2 przewody zewnętrzne, kable kierunkowe) - kable nie są wliczone w cenę wzmacniacza', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/xgl7vdqtwu4n3-PL/image;s=4032x3024', 'https://ireland.apollo.olxcdn.com:443/v1/files/xpnhokng74uy-PL/image;s=4032x3024', 'https://ireland.apollo.olxcdn.com:443/v1/files/pobb44ekd0jc-PL/image;s=4032x3024', 'https://ireland.apollo.olxcdn.com:443/v1/files/t9k617oer6ru2-PL/image;s=4032x3024', 'https://ireland.apollo.olxcdn.com:443/v1/files/evvf2paokq7j-PL/image;s=1086x745', 'https://ireland.apollo.olxcdn.com:443/v1/files/16lplhp22t8w1-PL/image;s=4032x3024', 'https://ireland.apollo.olxcdn.com:443/v1/files/4h3dairmdnlh1-PL/image;s=4032x3024'], 'published_date': '2025-05-26 o 13:37', 'location': ''}
+2025-05-26 14:26:16 - INFO - Parsed page 1, found 1 new ads.
+2025-05-26 14:26:30 - INFO - Знайдено актуальних оголошень: 1
+2025-05-26 14:26:30 - INFO - Додаємо https://www.olx.pl/d/oferta/wzmacniacz-dls-xm40-4-kanalowy-CID99-ID15Zhiw.html.
+2025-05-26 14:26:43 - INFO - Successfully sent message for ad: Wzmacniacz DLS XM40 4-kanałowy
+2025-05-26 14:26:43 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
