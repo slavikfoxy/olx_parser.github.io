@@ -16,3 +16,16 @@
 2025-05-26 06:38:31 - INFO - Знайдено старих оголошень: 224
 2025-05-26 06:38:52 - INFO - Знайдено актуальних оголошень: 0
 2025-05-26 06:38:52 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-05-26 07:36:24 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-05-26 07:36:24 - INFO - Знайдено старих оголошень: 632
+2025-05-26 07:36:39 - INFO - Last page 4 is the same as this page. Stopping.
+2025-05-26 07:36:39 - INFO - Знайдено актуальних оголошень: 0
+2025-05-26 07:36:39 - INFO - ✅ HTML файл збережено: magnat.html
+2025-05-26 07:36:39 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-05-26 07:36:39 - INFO - Знайдено старих оголошень: 224
+2025-05-26 07:36:46 - INFO - NEW {'title': 'Głośnik TONSIL GD 12/4  4W   8 OHM', 'link': 'https://www.olx.pl/d/oferta/glosnik-tonsil-gd-12-4-4w-8-ohm-CID99-ID15TXOl.html?reason=extended_search_extended_s2v', 'price': '30 zł', 'status': 'active', 'date_found': '2025-05-26 07:36', 'date_removed': None, 'description': 'Głośnik TONSIL GD 12/4 o mocy 4 W   rezystancji 8 OHM o wymiarach 12 cmx12 cm (głębokie 5,5 cm). Nowy, nie używany. Stan magazynowy.', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/gytgm1cjfhfx2-PL/image;s=864x1152', 'https://ireland.apollo.olxcdn.com:443/v1/files/oyv6mof392g6-PL/image;s=1152x864'], 'published_date': '19 maja 2025', 'location': ''}
+2025-05-26 07:36:46 - INFO - Parsed page 2, found 1 new ads.
+2025-05-26 07:36:56 - INFO - Знайдено актуальних оголошень: 1
+2025-05-26 07:36:56 - INFO - Додаємо https://www.olx.pl/d/oferta/glosnik-tonsil-gd-12-4-4w-8-ohm-CID99-ID15TXOl.html?reason=extended_search_extended_s2v.
+2025-05-26 07:37:04 - INFO - Successfully sent message for ad: Głośnik TONSIL GD 12/4  4W   8 OHM
+2025-05-26 07:37:04 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
