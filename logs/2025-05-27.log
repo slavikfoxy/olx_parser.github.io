@@ -85,3 +85,16 @@
 2025-05-27 12:54:54 - INFO - Знайдено старих оголошень: 234
 2025-05-27 12:55:09 - INFO - Знайдено актуальних оголошень: 0
 2025-05-27 12:55:09 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-05-27 13:37:06 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-05-27 13:37:06 - INFO - Знайдено старих оголошень: 634
+2025-05-27 13:37:11 - INFO - NEW {'title': 'Subwoofer Magnat Pro Charger', 'link': 'https://www.olx.pl/d/oferta/subwoofer-magnat-pro-charger-CID99-ID160aa0.html', 'price': '550 zł', 'status': 'active', 'date_found': '2025-05-27 13:37', 'date_removed': None, 'description': 'Sprzęt całkowicie sprawny w bardzo dobrym stanie technicznym oraz wizualnym , pracuje bez zastrzeżeńPosiadamy sporo sprzętu audio z różnych lat, zapraszamy do sklepu w Chorzowie przy ulicy 3 Maja 4 oraz na pozostałe ogłoszeniaPrzy wysyłce cena nie podlega negocjacji.Kontakt telefoniczny tylko w godzinach pracy sklepuZapraszamy.Przed wizytą w sklepie prosimy o potwierdzenie telefoniczne że produkt jest nadal dostępnyDANE TECHNICZNE:Rodzaj: subwoofer pasywnyŚrednica głośnika: 300 mmMoc RMS: 400 WMoc Max: 1200 WPasmo przenoszenia: 20 - 500 HzSkuteczność: 91 dBImpedancja: 4 OhmWymiary: 435 x 405 x 340/400 mm (szer / wys / gł)Waga: 15 kgSubwoofer w obudowie pasmoprzepustowej z oknem z mocnego pleksiglasuPrzyłącza z diodowym wskaźnikiem zasilaniaStylowy pierścień podświetlany niebieskimi diodamiKanał bass-reflex z optymalnym przepływem powietrzaDwunastocalowy przetwornik wysokiej mocy z wentylacjąrdzenia bieguna głównego i długoskokowym zawieszeniem górnym40-uncjowy, silny magnes2-calowa cewka 4-warstwowaWzmocniony kosz stalowy z dodatkową wentylacją cewkiOkładzina przeciwpoślizgowa z wyszywanym logo', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/z3i7pgyf68jv-PL/image;s=2048x1536', 'https://ireland.apollo.olxcdn.com:443/v1/files/nt53fgnhjfrm-PL/image;s=2048x1536', 'https://ireland.apollo.olxcdn.com:443/v1/files/b0lahslj0muy2-PL/image;s=2048x1536', 'https://ireland.apollo.olxcdn.com:443/v1/files/h9duf5itd3r9-PL/image;s=2048x1536', 'https://ireland.apollo.olxcdn.com:443/v1/files/36g1jhst79gg1-PL/image;s=2048x1536'], 'published_date': '2025-05-27 o 12:58', 'location': ''}
+2025-05-27 13:37:11 - INFO - Parsed page 1, found 1 new ads.
+2025-05-27 13:37:20 - INFO - Last page 4 is the same as this page. Stopping.
+2025-05-27 13:37:20 - INFO - Знайдено актуальних оголошень: 1
+2025-05-27 13:37:20 - INFO - Додаємо https://www.olx.pl/d/oferta/subwoofer-magnat-pro-charger-CID99-ID160aa0.html.
+2025-05-27 13:37:35 - INFO - Successfully sent message for ad: Subwoofer Magnat Pro Charger
+2025-05-27 13:37:35 - INFO - ✅ HTML файл збережено: magnat.html
+2025-05-27 13:37:35 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-05-27 13:37:35 - INFO - Знайдено старих оголошень: 234
+2025-05-27 13:37:54 - INFO - Знайдено актуальних оголошень: 0
+2025-05-27 13:37:54 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
