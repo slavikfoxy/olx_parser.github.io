@@ -47,3 +47,16 @@
 2025-05-27 09:27:45 - INFO - Знайдено старих оголошень: 231
 2025-05-27 09:27:59 - INFO - Знайдено актуальних оголошень: 0
 2025-05-27 09:28:00 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-05-27 10:29:11 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-05-27 10:29:11 - INFO - Знайдено старих оголошень: 634
+2025-05-27 10:29:25 - INFO - Last page 4 is the same as this page. Stopping.
+2025-05-27 10:29:25 - INFO - Знайдено актуальних оголошень: 0
+2025-05-27 10:29:25 - INFO - ✅ HTML файл збережено: magnat.html
+2025-05-27 10:29:25 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-05-27 10:29:25 - INFO - Знайдено старих оголошень: 231
+2025-05-27 10:29:29 - INFO - NEW {'title': 'Zestaw wzmacniacz, CD i tuner NAD', 'link': 'https://www.olx.pl/d/oferta/zestaw-wzmacniacz-cd-i-tuner-nad-CID99-ID147QxT.html', 'price': '1 500 zł', 'status': 'active', 'date_found': '2025-05-27 10:29', 'date_removed': None, 'description': 'Sprzedam zestaw stereo:- wzmacniacz NAD C320- odtwarzacz CD NAD C521i- tuner NAD 412Wszystko kupione przeze mnie w 2002 roku w salonie Hi-Fi w Szczecinie. Oprócz tunera, który dokupiłem jako używany później. NAD to znana i ceniona marka wśród znawców sprzętu audio.W komplecie dobrej jakości kable cinch do połączenia wzmacniacza z CD.Dorzucę do tego mały nadajnik/odbiornik Bluetooth RT-B6, działa w obie strony czyli np. smartfon->wzmacniacz albo wzmaczniacz->słuchawki BT.Widoczne na zdjęciu niebieskie kable głośnikowe już nie są dostępne, sprzedane razem z głośnikami.Wszystko w stanie bardzo dobrym i zadbanym.Wskazany raczej odbiór osobisty w Szczecinie Płoni.', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/g0t13f33yei1-PL/image;s=3264x2448'], 'published_date': '25 maja 2025', 'location': ''}
+2025-05-27 10:29:29 - INFO - Parsed page 1, found 1 new ads.
+2025-05-27 10:29:43 - INFO - Знайдено актуальних оголошень: 1
+2025-05-27 10:29:43 - INFO - Додаємо https://www.olx.pl/d/oferta/zestaw-wzmacniacz-cd-i-tuner-nad-CID99-ID147QxT.html.
+2025-05-27 10:29:45 - INFO - Successfully sent message for ad: Zestaw wzmacniacz, CD i tuner NAD
+2025-05-27 10:29:45 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
