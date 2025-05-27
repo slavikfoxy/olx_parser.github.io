@@ -107,3 +107,16 @@
 2025-05-27 14:26:22 - INFO - Знайдено старих оголошень: 234
 2025-05-27 14:26:38 - INFO - Знайдено актуальних оголошень: 0
 2025-05-27 14:26:38 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-05-27 15:28:29 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-05-27 15:28:29 - INFO - Знайдено старих оголошень: 635
+2025-05-27 15:28:39 - INFO - Last page 4 is the same as this page. Stopping.
+2025-05-27 15:28:39 - INFO - Знайдено актуальних оголошень: 0
+2025-05-27 15:28:39 - INFO - ✅ HTML файл збережено: magnat.html
+2025-05-27 15:28:39 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-05-27 15:28:39 - INFO - Знайдено старих оголошень: 234
+2025-05-27 15:28:45 - INFO - NEW {'title': 'głośnik 12volt 400 watt Bluetooth lcd Ibiza Sound – Kolumna mobilna', 'link': 'https://www.olx.pl/d/oferta/glosnik-12volt-400-watt-bluetooth-lcd-ibiza-sound-kolumna-mobilna-CID99-ID15WxsC.html?reason=extended_search_extended_s2v', 'price': '1 000 zł', 'status': 'active', 'date_found': '2025-05-27 15:28', 'date_removed': None, 'description': 'sprzedam glosnik zasilany 12volt lub sieciowy 230v moze posluzyc jako glosnik w samochodzie. Moc RMS: 100W . moc 400 watt mobilny 100% sprawny kilka razy użyty w celu sprawdzenia jak sie sprawuje robi wrażenie bardzo głośny sprzęt godny polecen na impreze lcd monitor 2 mikrofon karaoke   Zasilanie sieciowe 230v 2 mikrofony pilot wyswietlacz karaokeGłośnik Bluetooth wireless Ibiza Sound to przenośna kolumna mobilna PORT9CD-VHF. Idealna do imprez, pikników czy spotkań ze znajomymi. Dzięki technologii Bluetooth możesz łatwo połączyć się ze swoim urządzeniem i cieszyć się ulubioną muzyką wszędzie, gdzie tylko chcesz.odbiór osobistylub wysyłka kurierska', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/q08zr4p332e8-PL/image;s=720x1410', 'https://ireland.apollo.olxcdn.com:443/v1/files/ndqhbi32iusv2-PL/image;s=720x1410', 'https://ireland.apollo.olxcdn.com:443/v1/files/pyv8qo3dyxzg1-PL/image;s=934x2000'], 'published_date': '21 maja 2025', 'location': ''}
+2025-05-27 15:28:45 - INFO - Parsed page 2, found 1 new ads.
+2025-05-27 15:28:56 - INFO - Знайдено актуальних оголошень: 1
+2025-05-27 15:28:56 - INFO - Додаємо https://www.olx.pl/d/oferta/glosnik-12volt-400-watt-bluetooth-lcd-ibiza-sound-kolumna-mobilna-CID99-ID15WxsC.html?reason=extended_search_extended_s2v.
+2025-05-27 15:29:04 - INFO - Successfully sent message for ad: głośnik 12volt 400 watt Bluetooth lcd Ibiza Sound – Kolumna mobilna
+2025-05-27 15:29:04 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
