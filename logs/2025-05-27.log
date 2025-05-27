@@ -1,0 +1,13 @@
+2025-05-27 03:48:12 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-05-27 03:48:12 - INFO - Знайдено старих оголошень: 634
+2025-05-27 03:48:27 - INFO - Last page 4 is the same as this page. Stopping.
+2025-05-27 03:48:27 - INFO - Знайдено актуальних оголошень: 0
+2025-05-27 03:48:27 - INFO - ✅ HTML файл збережено: magnat.html
+2025-05-27 03:48:27 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-05-27 03:48:27 - INFO - Знайдено старих оголошень: 230
+2025-05-27 03:48:33 - INFO - NEW {'title': 'Głośnik PA Eminence Delta 12', 'link': 'https://www.olx.pl/d/oferta/glosnik-pa-eminence-delta-12-CID99-ID15UKYv.html?reason=extended_search_extended_s2v', 'price': '300 zł', 'status': 'active', 'date_found': '2025-05-27 03:48', 'date_removed': None, 'description': 'Delta 12 w doskonałym stanie.Głośniki 400 wat rms 8 om. 98 dBObsługiwały spędy partyjne.Nie są wypompowane.Dla mnie za ciężkie do noszenia.Jest kilka sztuk.15 sprzedane.', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/m8f95q6ze6au2-PL/image;s=2592x4608', 'https://ireland.apollo.olxcdn.com:443/v1/files/43mgscdnxvw13-PL/image;s=4608x2592', 'https://ireland.apollo.olxcdn.com:443/v1/files/9quhuluitaks3-PL/image;s=4608x2592', 'https://ireland.apollo.olxcdn.com:443/v1/files/z84i905fjj522-PL/image;s=4608x2592'], 'published_date': '20 maja 2025', 'location': ''}
+2025-05-27 03:48:33 - INFO - Parsed page 2, found 1 new ads.
+2025-05-27 03:48:45 - INFO - Знайдено актуальних оголошень: 1
+2025-05-27 03:48:45 - INFO - Додаємо https://www.olx.pl/d/oferta/glosnik-pa-eminence-delta-12-CID99-ID15UKYv.html?reason=extended_search_extended_s2v.
+2025-05-27 03:48:51 - INFO - Successfully sent message for ad: Głośnik PA Eminence Delta 12
+2025-05-27 03:48:51 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
