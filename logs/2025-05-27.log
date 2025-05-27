@@ -120,3 +120,12 @@
 2025-05-27 15:28:56 - INFO - Додаємо https://www.olx.pl/d/oferta/glosnik-12volt-400-watt-bluetooth-lcd-ibiza-sound-kolumna-mobilna-CID99-ID15WxsC.html?reason=extended_search_extended_s2v.
 2025-05-27 15:29:04 - INFO - Successfully sent message for ad: głośnik 12volt 400 watt Bluetooth lcd Ibiza Sound – Kolumna mobilna
 2025-05-27 15:29:04 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-05-27 16:33:14 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-05-27 16:33:14 - INFO - Знайдено старих оголошень: 635
+2025-05-27 16:33:26 - INFO - Last page 4 is the same as this page. Stopping.
+2025-05-27 16:33:26 - INFO - Знайдено актуальних оголошень: 0
+2025-05-27 16:33:26 - INFO - ✅ HTML файл збережено: magnat.html
+2025-05-27 16:33:26 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-05-27 16:33:26 - INFO - Знайдено старих оголошень: 235
+2025-05-27 16:33:40 - INFO - Знайдено актуальних оголошень: 0
+2025-05-27 16:33:40 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
