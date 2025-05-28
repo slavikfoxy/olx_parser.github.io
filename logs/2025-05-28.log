@@ -96,3 +96,16 @@
 2025-05-28 14:28:18 - INFO - Додаємо https://www.olx.pl/d/oferta/ekstraktor-audio-hdmi-4k-vedindust-z-wyjsciem-optycznym-i-l-r-CID99-ID15X1gV.html?reason=extended_search_extended_s2v.
 2025-05-28 14:28:31 - INFO - Successfully sent message for ad: Ekstraktor audio HDMI 4K VEDINDUST z wyjściem optycznym i L/R
 2025-05-28 14:28:31 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-05-28 15:27:34 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-05-28 15:27:34 - INFO - Знайдено старих оголошень: 637
+2025-05-28 15:27:37 - INFO - NEW {'title': 'Subwoofer tuba magnat bull power tube 30', 'link': 'https://www.olx.pl/d/oferta/subwoofer-tuba-magnat-bull-power-tube-30-CID99-ID1619Zv.html', 'price': '85 zł', 'status': 'active', 'date_found': '2025-05-28 15:27', 'date_removed': None, 'description': 'Do sprzedania subwoofer magnat. Sprawny użytkowałem go u siebie w samochodzie.', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/0aqc5uh2ms53-PL/image;s=1500x2000', 'https://ireland.apollo.olxcdn.com:443/v1/files/08jt79jhlpiq1-PL/image;s=1500x2000', 'https://ireland.apollo.olxcdn.com:443/v1/files/yxunze5tuei61-PL/image;s=2000x1500'], 'published_date': '2025-05-28 o 14:37', 'location': ''}
+2025-05-28 15:27:37 - INFO - Parsed page 1, found 1 new ads.
+2025-05-28 15:27:45 - INFO - Last page 4 is the same as this page. Stopping.
+2025-05-28 15:27:45 - INFO - Знайдено актуальних оголошень: 1
+2025-05-28 15:27:45 - INFO - Додаємо https://www.olx.pl/d/oferta/subwoofer-tuba-magnat-bull-power-tube-30-CID99-ID1619Zv.html.
+2025-05-28 15:27:50 - INFO - Successfully sent message for ad: Subwoofer tuba magnat bull power tube 30
+2025-05-28 15:27:50 - INFO - ✅ HTML файл збережено: magnat.html
+2025-05-28 15:27:50 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-05-28 15:27:50 - INFO - Знайдено старих оголошень: 239
+2025-05-28 15:28:08 - INFO - Знайдено актуальних оголошень: 0
+2025-05-28 15:28:08 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
