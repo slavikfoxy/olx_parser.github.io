@@ -34,3 +34,16 @@
 2025-05-28 08:34:45 - INFO - Знайдено старих оголошень: 237
 2025-05-28 08:35:03 - INFO - Знайдено актуальних оголошень: 0
 2025-05-28 08:35:03 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-05-28 09:28:30 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-05-28 09:28:30 - INFO - Знайдено старих оголошень: 637
+2025-05-28 09:28:50 - INFO - Last page 4 is the same as this page. Stopping.
+2025-05-28 09:28:50 - INFO - Знайдено актуальних оголошень: 0
+2025-05-28 09:28:50 - INFO - ✅ HTML файл збережено: magnat.html
+2025-05-28 09:28:50 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-05-28 09:28:50 - INFO - Знайдено старих оголошень: 237
+2025-05-28 09:28:57 - INFO - NEW {'title': 'Zmacniacz wi-fi .', 'link': 'https://www.olx.pl/d/oferta/zmacniacz-wi-fi-CID99-ID15VpIY.html?reason=extended_search_extended_s2v', 'price': '60 zł', 'status': 'active', 'date_found': '2025-05-28 09:28', 'date_removed': None, 'description': 'Wysoka prędkość】Ekstender WiFi rozszerzy istniejącą sieć na trudno dostępne obszary, przyspieszy do 300 Mb/s, stworzy szybką, zdalną i stabilną sieć oraz dobrą wydajność. Kompaktowa konstrukcja, nie zajmuje dużo miejsca 【Tryb Repeatera/Ap/Routera】Tryb Repeatera służy do rozszerzenia zasięgu Wi-Fi istniejących sieci bezprzewodowych, podczas gdy tryb Ap służy do przekształcania sieci przewodowych w sieci bezprzewodowe. Dwa porty Ethernet i 3,3-stopowy kabel Ethernet mogą łączyć się z dowolnym przewodowym urządzeniem Ethernet, takim jak Smart TV, komputer stacjonarny itp., jednocześnie zwiększając zasięg istniejącego Wi-Fi 【Bezpieczne środowisko internetowe】Ten ekstender WiFi może zmaksymalizować bezpieczeństwo sieci, zapewnić bezpieczeństwo sieci. Odgrywa skuteczną rolę w zapobieganiu kradzieży sieci przez innych, chroniąc ważne dane i unikając zakłóceń Wi-Fi i problemów z prywatnością. Obsługuje zabezpieczenia: WPA/WPA2. Idealny do użytku domowego, firmowego i w podróży 【Rozszerz zasięg Wi-Fi】Cztery regulowane anteny zewnętrzne zapewniają doskonały zasięg w całym domu. Zwiększ zasięg Wi-Fi do 2640 stóp kwadratowych, co może pomieścić do 25 urządzeń. Dzięki silniejszej penetracji i braku utraty sygnału przez ścianę możesz ulepszyć swoją sieć Wi-Fi i cieszyć się Wi-Fi w domu 【Łatwy w konfiguracji】Możesz użyć komputera PC/smartfona/laptopa do konfiguracji. Połącz się z Wi-Fi, wprowadź hasło, aby zakończyć ustawienia. Przejrzysty i bezproblemowy proces instalacji, w pudełku znajduje się instrukcja, łatwe w konfiguracji wzmacniacze sygnału Wi-Fi', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/gzkl6mpdraqf2-PL/image;s=1224x1632', 'https://ireland.apollo.olxcdn.com:443/v1/files/x696s7s7e82h-PL/image;s=1632x1224'], 'published_date': '22 maja 2025', 'location': ''}
+2025-05-28 09:28:57 - INFO - Parsed page 2, found 1 new ads.
+2025-05-28 09:29:09 - INFO - Знайдено актуальних оголошень: 1
+2025-05-28 09:29:09 - INFO - Додаємо https://www.olx.pl/d/oferta/zmacniacz-wi-fi-CID99-ID15VpIY.html?reason=extended_search_extended_s2v.
+2025-05-28 09:29:15 - INFO - Successfully sent message for ad: Zmacniacz wi-fi .
+2025-05-28 09:29:15 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
