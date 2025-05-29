@@ -147,3 +147,15 @@
 2025-05-29 18:36:41 - INFO - Знайдено старих оголошень: 243
 2025-05-29 18:36:42 - INFO - Знайдено актуальних оголошень: 0
 2025-05-29 18:36:42 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-05-29 19:18:41 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-05-29 19:18:41 - INFO - Знайдено старих оголошень: 642
+2025-05-29 19:18:54 - INFO - Знайдено актуальних оголошень: 0
+2025-05-29 19:18:54 - INFO - ✅ HTML файл збережено: magnat.html
+2025-05-29 19:18:54 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-05-29 19:18:54 - INFO - Знайдено старих оголошень: 243
+2025-05-29 19:19:02 - INFO - NEW {'title': 'Soundbar Philips HTL2160/12 głośnik subwoofer', 'link': 'https://www.olx.pl/d/oferta/soundbar-philips-htl2160-12-glosnik-subwoofer-CID99-ID15XRCq.html?reason=extended_search_extended_s2v', 'price': '250 zł', 'status': 'active', 'date_found': '2025-05-29 19:19', 'date_removed': None, 'description': 'Witam, sprzedam soundbar taki jak w opisie, przywiozłem go gdy mieszkałem w Anglii stąd angielska wtyczka. Sprzedaje pełny zestaw (bez kartonu).Wszystko sprawne (w pilocie coś lata ale tak było od zakupu)Mogę wysłać kurierem po wcześniejszej wpłacie lub odbiór osobisty w Białymstoku.', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/12g6owqq34yi-PL/image;s=1000x750'], 'published_date': '24 maja 2025', 'location': ''}
+2025-05-29 19:19:02 - INFO - Parsed page 2, found 1 new ads.
+2025-05-29 19:19:14 - INFO - Знайдено актуальних оголошень: 1
+2025-05-29 19:19:14 - INFO - Додаємо https://www.olx.pl/d/oferta/soundbar-philips-htl2160-12-glosnik-subwoofer-CID99-ID15XRCq.html?reason=extended_search_extended_s2v.
+2025-05-29 19:19:15 - INFO - Successfully sent message for ad: Soundbar Philips HTL2160/12 głośnik subwoofer
+2025-05-29 19:19:15 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
