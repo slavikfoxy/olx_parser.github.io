@@ -82,3 +82,16 @@
 2025-05-29 12:53:38 - INFO - Додаємо https://www.olx.pl/d/oferta/glosnik-przenosny-doss-ds1681-czarny-12-w-CID99-IDZXDUM.html?reason=extended_search_extended_s2v.
 2025-05-29 12:53:40 - INFO - Successfully sent message for ad: Głośnik przenośny Doss DS1681 czarny 12 W,
 2025-05-29 12:53:40 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-05-29 13:35:27 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-05-29 13:35:27 - INFO - Знайдено старих оголошень: 639
+2025-05-29 13:35:30 - INFO - NEW {'title': 'Subwoofer pasywny Magnat Pro Charger 130 Audio Room', 'link': 'https://www.olx.pl/d/oferta/subwoofer-pasywny-magnat-pro-charger-130-audio-room-CID99-ID161R2z.html', 'price': '380 zł', 'status': 'active', 'date_found': '2025-05-29 13:35', 'date_removed': None, 'description': 'Mam na sprzedaż mocny i porządny subwoofer firmy Magnat. Sprzęt działa, wszystko jest sprawne. Głośnik gra prawidłowo, nic nie trzeszczy. Podświetlenie zasilane na 12V. Stan i kompletność przedstawione na zdjęciach.Sprzęt można obejrzeć w salonie Audio Room przy ulicy Kościuszki 29 w Olsztynie. Przed przyjazdem proszę o kontakt w celu ustalenia dostępności.Więcej informacji pod numerem telefonu lub przez OLX.', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/1odims43zc523-PL/image;s=4032x3024', 'https://ireland.apollo.olxcdn.com:443/v1/files/utl2oq6lv02u-PL/image;s=4032x3024', 'https://ireland.apollo.olxcdn.com:443/v1/files/xubrt0cy5bdc2-PL/image;s=4032x3024', 'https://ireland.apollo.olxcdn.com:443/v1/files/1jcmirtli4cc2-PL/image;s=4032x3024', 'https://ireland.apollo.olxcdn.com:443/v1/files/8c02xp2it5ki2-PL/image;s=4032x3024', 'https://ireland.apollo.olxcdn.com:443/v1/files/r6edgcko9zco-PL/image;s=4032x3024', 'https://ireland.apollo.olxcdn.com:443/v1/files/8gv4jlb1bneb1-PL/image;s=4032x3024'], 'published_date': '2025-05-29 o 12:50', 'location': ''}
+2025-05-29 13:35:30 - INFO - Parsed page 1, found 1 new ads.
+2025-05-29 13:35:38 - INFO - Last page 4 is the same as this page. Stopping.
+2025-05-29 13:35:38 - INFO - Знайдено актуальних оголошень: 1
+2025-05-29 13:35:38 - INFO - Додаємо https://www.olx.pl/d/oferta/subwoofer-pasywny-magnat-pro-charger-130-audio-room-CID99-ID161R2z.html.
+2025-05-29 13:35:51 - INFO - Successfully sent message for ad: Subwoofer pasywny Magnat Pro Charger 130 Audio Room
+2025-05-29 13:35:51 - INFO - ✅ HTML файл збережено: magnat.html
+2025-05-29 13:35:51 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-05-29 13:35:51 - INFO - Знайдено старих оголошень: 243
+2025-05-29 13:36:10 - INFO - Знайдено актуальних оголошень: 0
+2025-05-29 13:36:10 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
