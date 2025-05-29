@@ -34,3 +34,20 @@
 2025-05-29 08:34:28 - INFO - Знайдено старих оголошень: 241
 2025-05-29 08:34:44 - INFO - Знайдено актуальних оголошень: 0
 2025-05-29 08:34:44 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-05-29 09:28:09 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-05-29 09:28:09 - INFO - Знайдено старих оголошень: 638
+2025-05-29 09:28:12 - INFO - NEW {'title': 'Subwoofer Magnat Supreme Sub 202A', 'link': 'https://www.olx.pl/d/oferta/subwoofer-magnat-supreme-sub-202a-CID99-ID161DS1.html', 'price': '370 zł', 'status': 'active', 'date_found': '2025-05-29 09:28', 'date_removed': None, 'description': 'Sprzedam subwoofer w bardzo dobrym stanie', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/7svmbzuocegy1-PL/image;s=867x1156', 'https://ireland.apollo.olxcdn.com:443/v1/files/ig9jzhz0yusk2-PL/image;s=867x1156', 'https://ireland.apollo.olxcdn.com:443/v1/files/q688rozz2ixj1-PL/image;s=867x1156', 'https://ireland.apollo.olxcdn.com:443/v1/files/kyc9qy7wou9u-PL/image;s=867x1156', 'https://ireland.apollo.olxcdn.com:443/v1/files/inqm0jy18k6q3-PL/image;s=867x1156', 'https://ireland.apollo.olxcdn.com:443/v1/files/s1k3hbe0g03o2-PL/image;s=867x1156', 'https://ireland.apollo.olxcdn.com:443/v1/files/c9ifssslhmgx2-PL/image;s=867x1156', 'https://ireland.apollo.olxcdn.com:443/v1/files/o7s4o090ttdf2-PL/image;s=867x1156'], 'published_date': '2025-05-29 o 09:20', 'location': ''}
+2025-05-29 09:28:12 - INFO - Parsed page 1, found 1 new ads.
+2025-05-29 09:28:21 - INFO - Last page 4 is the same as this page. Stopping.
+2025-05-29 09:28:21 - INFO - Знайдено актуальних оголошень: 1
+2025-05-29 09:28:21 - INFO - Додаємо https://www.olx.pl/d/oferta/subwoofer-magnat-supreme-sub-202a-CID99-ID161DS1.html.
+2025-05-29 09:28:34 - INFO - Successfully sent message for ad: Subwoofer Magnat Supreme Sub 202A
+2025-05-29 09:28:34 - INFO - ✅ HTML файл збережено: magnat.html
+2025-05-29 09:28:34 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-05-29 09:28:34 - INFO - Знайдено старих оголошень: 241
+2025-05-29 09:28:40 - INFO - NEW {'title': 'Głośnik Dark blue 12 z wzmacniaczem', 'link': 'https://www.olx.pl/d/oferta/glosnik-dark-blue-12-z-wzmacniaczem-CID99-ID12kjuI.html?reason=extended_search_extended_s2v', 'price': '600 zł', 'status': 'active', 'date_found': '2025-05-29 09:28', 'date_removed': None, 'description': 'Witam sprzedam głośnik Dark blue 12 z wzmacniaczem z wzmocnionymi końcówkami w bardzo dobrym stanieNumer telefonu60*****64', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/lurelpgmrbek3-PL/image;s=4096x2304', 'https://ireland.apollo.olxcdn.com:443/v1/files/zyzb72izpamf-PL/image;s=4096x2304', 'https://ireland.apollo.olxcdn.com:443/v1/files/555bs1930i9s1-PL/image;s=4096x2304', 'https://ireland.apollo.olxcdn.com:443/v1/files/t1tubj67ceis2-PL/image;s=2304x4096'], 'published_date': '24 maja 2025', 'location': ''}
+2025-05-29 09:28:40 - INFO - Parsed page 2, found 1 new ads.
+2025-05-29 09:28:50 - INFO - Знайдено актуальних оголошень: 1
+2025-05-29 09:28:50 - INFO - Додаємо https://www.olx.pl/d/oferta/glosnik-dark-blue-12-z-wzmacniaczem-CID99-ID12kjuI.html?reason=extended_search_extended_s2v.
+2025-05-29 09:28:56 - INFO - Successfully sent message for ad: Głośnik Dark blue 12 z wzmacniaczem
+2025-05-29 09:28:56 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
