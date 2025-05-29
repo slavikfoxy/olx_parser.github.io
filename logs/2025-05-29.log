@@ -69,3 +69,16 @@
 2025-05-29 11:22:07 - INFO - Знайдено старих оголошень: 242
 2025-05-29 11:22:24 - INFO - Знайдено актуальних оголошень: 0
 2025-05-29 11:22:24 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-05-29 12:53:12 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-05-29 12:53:12 - INFO - Знайдено старих оголошень: 639
+2025-05-29 12:53:22 - INFO - Last page 4 is the same as this page. Stopping.
+2025-05-29 12:53:22 - INFO - Знайдено актуальних оголошень: 0
+2025-05-29 12:53:22 - INFO - ✅ HTML файл збережено: magnat.html
+2025-05-29 12:53:22 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-05-29 12:53:22 - INFO - Знайдено старих оголошень: 242
+2025-05-29 12:53:28 - INFO - NEW {'title': 'Głośnik przenośny Doss DS1681 czarny 12 W,', 'link': 'https://www.olx.pl/d/oferta/glosnik-przenosny-doss-ds1681-czarny-12-w-CID99-IDZXDUM.html?reason=extended_search_extended_s2v', 'price': '70 zł', 'status': 'active', 'date_found': '2025-05-29 12:53', 'date_removed': None, 'description': 'Głośnik przenośny Doss DS1681 czarny 12 W, ma jeszcze folię lecz bez pudełka, cena 70zl.', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/l4jk5nptbf9m1-PL/image;s=462x1000'], 'published_date': '24 maja 2025', 'location': ''}
+2025-05-29 12:53:28 - INFO - Parsed page 2, found 1 new ads.
+2025-05-29 12:53:38 - INFO - Знайдено актуальних оголошень: 1
+2025-05-29 12:53:38 - INFO - Додаємо https://www.olx.pl/d/oferta/glosnik-przenosny-doss-ds1681-czarny-12-w-CID99-IDZXDUM.html?reason=extended_search_extended_s2v.
+2025-05-29 12:53:40 - INFO - Successfully sent message for ad: Głośnik przenośny Doss DS1681 czarny 12 W,
+2025-05-29 12:53:40 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
