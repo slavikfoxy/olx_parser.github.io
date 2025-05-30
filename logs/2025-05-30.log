@@ -136,3 +136,16 @@
 2025-05-30 17:22:51 - INFO - Знайдено старих оголошень: 247
 2025-05-30 17:23:06 - INFO - Знайдено актуальних оголошень: 0
 2025-05-30 17:23:06 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-05-30 18:35:46 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-05-30 18:35:46 - INFO - Знайдено старих оголошень: 644
+2025-05-30 18:36:02 - INFO - Last page 4 is the same as this page. Stopping.
+2025-05-30 18:36:02 - INFO - Знайдено актуальних оголошень: 0
+2025-05-30 18:36:02 - INFO - ✅ HTML файл збережено: magnat.html
+2025-05-30 18:36:02 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-05-30 18:36:02 - INFO - Знайдено старих оголошень: 247
+2025-05-30 18:36:10 - INFO - NEW {'title': 'skrzynia basowa,subwoofer 25cm Focal 27V z orginalną maskownicą 2x4ohm', 'link': 'https://www.olx.pl/d/oferta/skrzynia-basowa-subwoofer-25cm-focal-27v-z-orginalna-maskownica-2x4ohm-CID99-ID15Zli4.html?reason=extended_search_extended_s2v', 'price': '700 zł', 'status': 'active', 'date_found': '2025-05-30 18:36', 'date_removed': None, 'description': 'witam. mam na sprzedaż w 100% sprawny głośnik Focal 27 V, cewki 2 x 4 ohm, made in France z orginalną maskownicą Focal. sprzedaje głośnik wraz z obudową closed.Pozdrawiam', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/uncw6rlye1rq3-PL/image;s=2048x1536', 'https://ireland.apollo.olxcdn.com:443/v1/files/1nn4vnkfiafp3-PL/image;s=1536x2048', 'https://ireland.apollo.olxcdn.com:443/v1/files/1b2xmr42pas7-PL/image;s=1536x2048', 'https://ireland.apollo.olxcdn.com:443/v1/files/ttcezoqhqtpt1-PL/image;s=2048x1536', 'https://ireland.apollo.olxcdn.com:443/v1/files/68okninsg2ci2-PL/image;s=2048x1536', 'https://ireland.apollo.olxcdn.com:443/v1/files/eku8c4f35ows2-PL/image;s=621x692', 'https://ireland.apollo.olxcdn.com:443/v1/files/bfoq0htjezqx1-PL/image;s=622x727', 'https://ireland.apollo.olxcdn.com:443/v1/files/cvjgh9ki9i2c1-PL/image;s=624x720'], 'published_date': '26 maja 2025', 'location': ''}
+2025-05-30 18:36:10 - INFO - Parsed page 2, found 1 new ads.
+2025-05-30 18:36:23 - INFO - Знайдено актуальних оголошень: 1
+2025-05-30 18:36:23 - INFO - Додаємо https://www.olx.pl/d/oferta/skrzynia-basowa-subwoofer-25cm-focal-27v-z-orginalna-maskownica-2x4ohm-CID99-ID15Zli4.html?reason=extended_search_extended_s2v.
+2025-05-30 18:36:36 - INFO - Successfully sent message for ad: skrzynia basowa,subwoofer 25cm Focal 27V z orginalną maskownicą 2x4ohm
+2025-05-30 18:36:36 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
