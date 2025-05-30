@@ -52,3 +52,16 @@
 2025-05-30 10:28:02 - INFO - Знайдено старих оголошень: 244
 2025-05-30 10:28:17 - INFO - Знайдено актуальних оголошень: 0
 2025-05-30 10:28:17 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-05-30 11:20:58 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-05-30 11:20:58 - INFO - Знайдено старих оголошень: 642
+2025-05-30 11:21:23 - INFO - Last page 4 is the same as this page. Stopping.
+2025-05-30 11:21:23 - INFO - Знайдено актуальних оголошень: 0
+2025-05-30 11:21:23 - INFO - ✅ HTML файл збережено: magnat.html
+2025-05-30 11:21:23 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-05-30 11:21:23 - INFO - Знайдено старих оголошень: 244
+2025-05-30 11:21:31 - INFO - NEW {'title': 'Blaupunkt BT12 głośnik bluetooth', 'link': 'https://www.olx.pl/d/oferta/blaupunkt-bt12-glosnik-bluetooth-CID99-ID14SWxK.html?reason=extended_search_extended_s2v', 'price': '39 zł', 'status': 'active', 'date_found': '2025-05-30 11:21', 'date_removed': None, 'description': 'Witam. Na sprzedaż głośnik bluetooth Blaupunkt BT 12. Głośnik działa włącza się gra. Nic nie harczy bateria trzyma w miarę dobrze. Spr,edaję jako uszkodzony ponieważ ma często problem z połączeniem bluetooth. Rozparowuje się. Jak się połączy to działa. (real foto) Po wyłączeniu może ale nie musi mieć problemu z parowaniem. Wielokrotne próby zparowania dają czasami efekt pozytywny. Z przeznaczeniem na części lub do naprawy. Nie przyjmuję zwrotów.Zapraszam na inne moje ogłoszenia.', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/omdoniwtt3a3-PL/image;s=2000x924', 'https://ireland.apollo.olxcdn.com:443/v1/files/ij0uzqabibaw2-PL/image;s=2000x924', 'https://ireland.apollo.olxcdn.com:443/v1/files/oeesfv3o893e2-PL/image;s=2000x924', 'https://ireland.apollo.olxcdn.com:443/v1/files/jbravdn7me3z1-PL/image;s=2000x924', 'https://ireland.apollo.olxcdn.com:443/v1/files/4qaeunimztle3-PL/image;s=924x2000', 'https://ireland.apollo.olxcdn.com:443/v1/files/5pbz5lydpk7k3-PL/image;s=924x2000'], 'published_date': '25 maja 2025', 'location': ''}
+2025-05-30 11:21:31 - INFO - Parsed page 2, found 1 new ads.
+2025-05-30 11:21:46 - INFO - Знайдено актуальних оголошень: 1
+2025-05-30 11:21:46 - INFO - Додаємо https://www.olx.pl/d/oferta/blaupunkt-bt12-glosnik-bluetooth-CID99-ID14SWxK.html?reason=extended_search_extended_s2v.
+2025-05-30 11:22:00 - INFO - Successfully sent message for ad: Blaupunkt BT12 głośnik bluetooth
+2025-05-30 11:22:00 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
