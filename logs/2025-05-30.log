@@ -78,3 +78,12 @@
 2025-05-30 12:55:33 - INFO - Додаємо https://www.olx.pl/d/oferta/subwoofer-glosnik-kenwood-12-30cm-600w-CID99-ID15YVHo.html?reason=extended_search_extended_s2v.
 2025-05-30 12:55:46 - INFO - Successfully sent message for ad: Subwoofer głośnik kenwood 12" 30cm 600w
 2025-05-30 12:55:46 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-05-30 13:35:13 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-05-30 13:35:13 - INFO - Знайдено старих оголошень: 642
+2025-05-30 13:35:24 - INFO - Last page 4 is the same as this page. Stopping.
+2025-05-30 13:35:24 - INFO - Знайдено актуальних оголошень: 0
+2025-05-30 13:35:24 - INFO - ✅ HTML файл збережено: magnat.html
+2025-05-30 13:35:24 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-05-30 13:35:24 - INFO - Знайдено старих оголошень: 246
+2025-05-30 13:35:39 - INFO - Знайдено актуальних оголошень: 0
+2025-05-30 13:35:39 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
