@@ -92,3 +92,16 @@
 2025-05-31 14:22:22 - INFO - Знайдено старих оголошень: 248
 2025-05-31 14:22:39 - INFO - Знайдено актуальних оголошень: 0
 2025-05-31 14:22:39 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-05-31 15:24:12 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-05-31 15:24:12 - INFO - Знайдено старих оголошень: 646
+2025-05-31 15:24:24 - INFO - Last page 4 is the same as this page. Stopping.
+2025-05-31 15:24:24 - INFO - Знайдено актуальних оголошень: 0
+2025-05-31 15:24:24 - INFO - ✅ HTML файл збережено: magnat.html
+2025-05-31 15:24:24 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-05-31 15:24:24 - INFO - Знайдено старих оголошень: 248
+2025-05-31 15:24:27 - INFO - NEW {'title': 'Wzmaczniacz Djora', 'link': 'https://www.olx.pl/d/oferta/wzmaczniacz-djora-CID99-ID163vAg.html', 'price': '150 zł', 'status': 'active', 'date_found': '2025-05-31 15:24', 'date_removed': None, 'description': 'Używany wzmacniacz Djora do sprzedaży. Idealny dla miłośników muzyki. Doskonała jakość dźwięku i solidna konstrukcja. Model ws4421 dziala uszkodzony potencjometr od glosu pszerywa zezi brak pszycisku od wlanczania sprzedaje jako uszkodzony bez mozliwosci zwrotu prosba o pszemyslany zakup', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/8ej5b28sho1w3-PL/image;s=1020x765', 'https://ireland.apollo.olxcdn.com:443/v1/files/viq1qkoeio0s3-PL/image;s=1020x765', 'https://ireland.apollo.olxcdn.com:443/v1/files/x1ff3rc6idm13-PL/image;s=1020x765', 'https://ireland.apollo.olxcdn.com:443/v1/files/b1cw5ktf8vmf3-PL/image;s=1020x765'], 'published_date': '2025-05-31 o 15:01', 'location': ''}
+2025-05-31 15:24:27 - INFO - Parsed page 1, found 1 new ads.
+2025-05-31 15:24:40 - INFO - Знайдено актуальних оголошень: 1
+2025-05-31 15:24:40 - INFO - Додаємо https://www.olx.pl/d/oferta/wzmaczniacz-djora-CID99-ID163vAg.html.
+2025-05-31 15:24:47 - INFO - Successfully sent message for ad: Wzmaczniacz Djora
+2025-05-31 15:24:47 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
