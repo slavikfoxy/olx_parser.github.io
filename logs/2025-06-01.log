@@ -43,3 +43,16 @@
 2025-06-01 09:25:57 - INFO - Знайдено старих оголошень: 249
 2025-06-01 09:26:16 - INFO - Знайдено актуальних оголошень: 0
 2025-06-01 09:26:16 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-06-01 10:26:38 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-01 10:26:38 - INFO - Знайдено старих оголошень: 646
+2025-06-01 10:26:51 - INFO - Last page 4 is the same as this page. Stopping.
+2025-06-01 10:26:51 - INFO - Знайдено актуальних оголошень: 0
+2025-06-01 10:26:51 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-01 10:26:51 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-01 10:26:51 - INFO - Знайдено старих оголошень: 249
+2025-06-01 10:27:00 - INFO - NEW {'title': 'Głośnik Beyma 12"GU uszkodzony', 'link': 'https://www.olx.pl/d/oferta/glosnik-beyma-12-gu-uszkodzony-CID99-ID160myD.html?reason=extended_search_extended_s2v', 'price': '100 zł', 'status': 'active', 'date_found': '2025-06-01 10:26', 'date_removed': None, 'description': 'Do sprzedania uszkodzony głośnik Beyma 12"GU', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/b9wy3m30hgc93-PL/image;s=4160x3120', 'https://ireland.apollo.olxcdn.com:443/v1/files/7hmj1raw55lf1-PL/image;s=4160x3120;r=90'], 'published_date': '27 maja 2025', 'location': ''}
+2025-06-01 10:27:00 - INFO - Parsed page 2, found 1 new ads.
+2025-06-01 10:27:14 - INFO - Знайдено актуальних оголошень: 1
+2025-06-01 10:27:14 - INFO - Додаємо https://www.olx.pl/d/oferta/glosnik-beyma-12-gu-uszkodzony-CID99-ID160myD.html?reason=extended_search_extended_s2v.
+2025-06-01 10:27:23 - INFO - Successfully sent message for ad: Głośnik Beyma 12"GU uszkodzony
+2025-06-01 10:27:23 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
