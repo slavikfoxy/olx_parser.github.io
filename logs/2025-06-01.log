@@ -65,3 +65,16 @@
 2025-06-01 11:20:07 - INFO - Знайдено старих оголошень: 250
 2025-06-01 11:20:21 - INFO - Знайдено актуальних оголошень: 0
 2025-06-01 11:20:21 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-06-01 12:50:14 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-01 12:50:14 - INFO - Знайдено старих оголошень: 646
+2025-06-01 12:50:17 - INFO - NEW {'title': 'Sprzedam Kolumny Magnat.', 'link': 'https://www.olx.pl/d/oferta/sprzedam-kolumny-magnat-CID99-ID163VfN.html', 'price': '1 000 zł', 'status': 'active', 'date_found': '2025-06-01 12:50', 'date_removed': None, 'description': 'Sprzedam mocne głośniki Magnat. Oba sprawne', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/zxz8ht0ghg5d3-PL/image;s=868x1156', 'https://ireland.apollo.olxcdn.com:443/v1/files/rf51l0i6h0gq2-PL/image;s=868x1156', 'https://ireland.apollo.olxcdn.com:443/v1/files/9gl8txhspmp63-PL/image;s=868x1156', 'https://ireland.apollo.olxcdn.com:443/v1/files/urdgmzidgsul-PL/image;s=1736x1767', 'https://ireland.apollo.olxcdn.com:443/v1/files/pbbi7fxusug12-PL/image;s=1736x1033', 'https://ireland.apollo.olxcdn.com:443/v1/files/21krajvhhs4u-PL/image;s=868x1156'], 'published_date': '2025-06-01 o 11:33', 'location': ''}
+2025-06-01 12:50:17 - INFO - Parsed page 1, found 1 new ads.
+2025-06-01 12:50:26 - INFO - Last page 4 is the same as this page. Stopping.
+2025-06-01 12:50:26 - INFO - Знайдено актуальних оголошень: 1
+2025-06-01 12:50:26 - INFO - Додаємо https://www.olx.pl/d/oferta/sprzedam-kolumny-magnat-CID99-ID163VfN.html.
+2025-06-01 12:50:40 - INFO - Successfully sent message for ad: Sprzedam Kolumny Magnat.
+2025-06-01 12:50:40 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-01 12:50:40 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-01 12:50:40 - INFO - Знайдено старих оголошень: 250
+2025-06-01 12:50:55 - INFO - Знайдено актуальних оголошень: 0
+2025-06-01 12:50:55 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
