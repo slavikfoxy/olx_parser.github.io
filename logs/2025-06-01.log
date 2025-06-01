@@ -171,3 +171,16 @@
 2025-06-01 21:23:11 - INFO - Додаємо https://www.olx.pl/d/oferta/glosnik-subwoofer-samochodowy-10-25cm-niskotonowy-skrzynia-basowa-CID99-ID161p9s.html?reason=extended_search_extended_s2v.
 2025-06-01 21:23:17 - INFO - Successfully sent message for ad: Głośnik subwoofer samochodowy 10" (25cm) niskotonowy skrzynia basowa
 2025-06-01 21:23:17 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-06-01 22:24:48 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-01 22:24:48 - INFO - Знайдено старих оголошень: 647
+2025-06-01 22:24:59 - INFO - Last page 4 is the same as this page. Stopping.
+2025-06-01 22:24:59 - INFO - Знайдено актуальних оголошень: 0
+2025-06-01 22:24:59 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-01 22:24:59 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-01 22:24:59 - INFO - Знайдено старих оголошень: 253
+2025-06-01 22:25:04 - INFO - NEW {'title': 'Wzmacniacz, końcówka mocy Elmuz 200W', 'link': 'https://www.olx.pl/d/oferta/wzmacniacz-koncowka-mocy-elmuz-200w-CID99-ID14vbrI.html?reason=extended_search_extended_s2v', 'price': '400 zł', 'status': 'active', 'date_found': '2025-06-01 22:25', 'date_removed': None, 'description': 'Sprawna końcówka mocy. Trzeszczą trochę potencjometry - do przeczyszczenia. Któreś gniazdo czasem niełączy.', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/kvmbki7pmw113-PL/image;s=1156x651', 'https://ireland.apollo.olxcdn.com:443/v1/files/mzvj8c7c5hsp1-PL/image;s=1156x651', 'https://ireland.apollo.olxcdn.com:443/v1/files/dsncpjecntaa2-PL/image;s=1156x651', 'https://ireland.apollo.olxcdn.com:443/v1/files/new7v63352wd2-PL/image;s=1156x651', 'https://ireland.apollo.olxcdn.com:443/v1/files/zt30jptxpftm2-PL/image;s=1156x651'], 'published_date': '28 maja 2025', 'location': ''}
+2025-06-01 22:25:04 - INFO - Parsed page 2, found 1 new ads.
+2025-06-01 22:25:14 - INFO - Знайдено актуальних оголошень: 1
+2025-06-01 22:25:14 - INFO - Додаємо https://www.olx.pl/d/oferta/wzmacniacz-koncowka-mocy-elmuz-200w-CID99-ID14vbrI.html?reason=extended_search_extended_s2v.
+2025-06-01 22:25:27 - INFO - Successfully sent message for ad: Wzmacniacz, końcówka mocy Elmuz 200W
+2025-06-01 22:25:27 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
