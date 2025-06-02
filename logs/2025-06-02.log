@@ -105,3 +105,16 @@
 2025-06-02 15:29:17 - INFO - Знайдено старих оголошень: 256
 2025-06-02 15:29:31 - INFO - Знайдено актуальних оголошень: 0
 2025-06-02 15:29:31 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-06-02 16:34:29 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-02 16:34:29 - INFO - Знайдено старих оголошень: 647
+2025-06-02 16:34:32 - INFO - NEW {'title': 'Subwoofer Magnat Betasub 20A', 'link': 'https://www.olx.pl/d/oferta/subwoofer-magnat-betasub-20a-CID99-ID164TX7.html', 'price': '450 zł', 'status': 'active', 'date_found': '2025-06-02 16:34', 'date_removed': None, 'description': 'Sprzedam subwoofer w bardzo dobrym stanie. Mało używany do kina domowego .Komplet z kablami.Muszę niestety sprzedać po remoncie mieszkania.Zapraszam najchętniej odbiór osobisty', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/kbzc6qjqxdz23-PL/image;s=756x1008', 'https://ireland.apollo.olxcdn.com:443/v1/files/w902kb7uutt01-PL/image;s=1008x756', 'https://ireland.apollo.olxcdn.com:443/v1/files/qift3htasyzs-PL/image;s=756x1008', 'https://ireland.apollo.olxcdn.com:443/v1/files/li4r7oxwgsoe1-PL/image;s=1008x756'], 'published_date': '2025-06-02 o 15:52', 'location': ''}
+2025-06-02 16:34:32 - INFO - Parsed page 1, found 1 new ads.
+2025-06-02 16:34:41 - INFO - Last page 4 is the same as this page. Stopping.
+2025-06-02 16:34:41 - INFO - Знайдено актуальних оголошень: 1
+2025-06-02 16:34:41 - INFO - Додаємо https://www.olx.pl/d/oferta/subwoofer-magnat-betasub-20a-CID99-ID164TX7.html.
+2025-06-02 16:34:48 - INFO - Successfully sent message for ad: Subwoofer Magnat Betasub 20A
+2025-06-02 16:34:48 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-02 16:34:48 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-02 16:34:48 - INFO - Знайдено старих оголошень: 256
+2025-06-02 16:35:05 - INFO - Знайдено актуальних оголошень: 0
+2025-06-02 16:35:05 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
