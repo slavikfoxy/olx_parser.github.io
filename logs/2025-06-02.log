@@ -29,3 +29,16 @@
 2025-06-02 07:26:23 - INFO - Знайдено старих оголошень: 255
 2025-06-02 07:26:41 - INFO - Знайдено актуальних оголошень: 0
 2025-06-02 07:26:41 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-06-02 08:35:48 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-02 08:35:48 - INFO - Знайдено старих оголошень: 647
+2025-06-02 08:36:00 - INFO - Last page 4 is the same as this page. Stopping.
+2025-06-02 08:36:00 - INFO - Знайдено актуальних оголошень: 0
+2025-06-02 08:36:00 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-02 08:36:00 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-02 08:36:00 - INFO - Знайдено старих оголошень: 255
+2025-06-02 08:36:11 - INFO - NEW {'title': 'Głośnik 12" koaksialny B&C 12cxt 8 coax', 'link': 'https://www.olx.pl/d/oferta/glosnik-12-koaksialny-b-c-12cxt-8-coax-CID99-ID13hXlJ.html?reason=extended_search_extended_s2v', 'price': '510 zł', 'status': 'active', 'date_found': '2025-06-02 08:36', 'date_removed': None, 'description': 'Sprzedam głośnik estradowy B&C 12CXT 8Praktycznie nieużywany,Możliwa zamiana na dwa drivery BMS 4550 16rZa 50 zł mogę dorzucić zwrotnicę do niego.', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/ag2jzdbq02q43-PL/image;s=1008x756', 'https://ireland.apollo.olxcdn.com:443/v1/files/8nmsipj8rew21-PL/image;s=1008x756', 'https://ireland.apollo.olxcdn.com:443/v1/files/dodlf4ymk7g-PL/image;s=540x1200', 'https://ireland.apollo.olxcdn.com:443/v1/files/g4lt62ijl0os-PL/image;s=540x1200', 'https://ireland.apollo.olxcdn.com:443/v1/files/eoaodte908ei2-PL/image;s=756x1008', 'https://ireland.apollo.olxcdn.com:443/v1/files/wpipyd7htwat2-PL/image;s=540x1200'], 'published_date': '20 maja 2025', 'location': ''}
+2025-06-02 08:36:11 - INFO - Parsed page 3, found 1 new ads.
+2025-06-02 08:36:19 - INFO - Знайдено актуальних оголошень: 1
+2025-06-02 08:36:19 - INFO - Додаємо https://www.olx.pl/d/oferta/glosnik-12-koaksialny-b-c-12cxt-8-coax-CID99-ID13hXlJ.html?reason=extended_search_extended_s2v.
+2025-06-02 08:36:32 - INFO - Successfully sent message for ad: Głośnik 12" koaksialny B&C 12cxt 8 coax
+2025-06-02 08:36:32 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
