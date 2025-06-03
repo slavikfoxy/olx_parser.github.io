@@ -110,3 +110,16 @@
 2025-06-03 16:35:09 - INFO - Знайдено старих оголошень: 258
 2025-06-03 16:35:25 - INFO - Знайдено актуальних оголошень: 0
 2025-06-03 16:35:25 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-06-03 17:24:51 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-03 17:24:51 - INFO - Знайдено старих оголошень: 648
+2025-06-03 17:25:01 - INFO - Last page 4 is the same as this page. Stopping.
+2025-06-03 17:25:01 - INFO - Знайдено актуальних оголошень: 0
+2025-06-03 17:25:01 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-03 17:25:01 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-03 17:25:01 - INFO - Знайдено старих оголошень: 258
+2025-06-03 17:25:07 - INFO - NEW {'title': 'Głośniki niskotonowe SpeaKa TT 150/180 8 Ohm 25 cm.', 'link': 'https://www.olx.pl/d/oferta/glosniki-niskotonowe-speaka-tt-150-180-8-ohm-25-cm-CID99-ID162r8S.html?reason=extended_search_extended_s2v', 'price': '195 zł', 'status': 'active', 'date_found': '2025-06-03 17:25', 'date_removed': None, 'description': 'Głośniki niskotonowe SpeaKa TT 150/180 8 Ohm 25 cm.Jak nowe.Odbiór osobisty lub wysyłka olx.', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/u2d6tn3uexxy2-PL/image;s=756x1008', 'https://ireland.apollo.olxcdn.com:443/v1/files/lre8z1yqfs6e3-PL/image;s=756x1008', 'https://ireland.apollo.olxcdn.com:443/v1/files/hltwvn41kxh43-PL/image;s=756x1008', 'https://ireland.apollo.olxcdn.com:443/v1/files/chi0khcwq82k2-PL/image;s=756x1008'], 'published_date': '30 maja 2025', 'location': ''}
+2025-06-03 17:25:07 - INFO - Parsed page 2, found 1 new ads.
+2025-06-03 17:25:17 - INFO - Знайдено актуальних оголошень: 1
+2025-06-03 17:25:17 - INFO - Додаємо https://www.olx.pl/d/oferta/glosniki-niskotonowe-speaka-tt-150-180-8-ohm-25-cm-CID99-ID162r8S.html?reason=extended_search_extended_s2v.
+2025-06-03 17:25:26 - INFO - Successfully sent message for ad: Głośniki niskotonowe SpeaKa TT 150/180 8 Ohm 25 cm.
+2025-06-03 17:25:26 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
