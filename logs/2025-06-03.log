@@ -61,3 +61,16 @@
 2025-06-03 11:22:58 - INFO - Знайдено старих оголошень: 257
 2025-06-03 11:23:14 - INFO - Знайдено актуальних оголошень: 0
 2025-06-03 11:23:14 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-06-03 12:55:30 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-03 12:55:30 - INFO - Знайдено старих оголошень: 648
+2025-06-03 12:55:42 - INFO - Last page 4 is the same as this page. Stopping.
+2025-06-03 12:55:42 - INFO - Знайдено актуальних оголошень: 0
+2025-06-03 12:55:42 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-03 12:55:42 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-03 12:55:42 - INFO - Знайдено старих оголошень: 257
+2025-06-03 12:55:49 - INFO - NEW {'title': 'Amplituner wzmacniacz Pioneer 5.1 HDMI ARC', 'link': 'https://www.olx.pl/d/oferta/amplituner-wzmacniacz-pioneer-5-1-hdmi-arc-CID99-ID162dm3.html?reason=extended_search_extended_s2v', 'price': '520 zł', 'status': 'active', 'date_found': '2025-06-03 12:55', 'date_removed': None, 'description': 'Sprzedam amplituner 5.1 Pioneer  VSX-322-KWszystko sprawne, ładny dźwięk. pilot w zestawie.', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/uaturwf0wxai-PL/image;s=1020x768', 'https://ireland.apollo.olxcdn.com:443/v1/files/d3rozzjuhxbs-PL/image;s=1020x768', 'https://ireland.apollo.olxcdn.com:443/v1/files/al2dd526x5rl3-PL/image;s=1020x768', 'https://ireland.apollo.olxcdn.com:443/v1/files/xb3qzueokp471-PL/image;s=1020x768', 'https://ireland.apollo.olxcdn.com:443/v1/files/3cvwal4uw8542-PL/image;s=1020x768', 'https://ireland.apollo.olxcdn.com:443/v1/files/r4c27oeudyav2-PL/image;s=1020x768', 'https://ireland.apollo.olxcdn.com:443/v1/files/wglf76yp0u8k3-PL/image;s=1020x768', 'https://ireland.apollo.olxcdn.com:443/v1/files/18tel7d03uyf3-PL/image;s=1020x768'], 'published_date': '29 maja 2025', 'location': ''}
+2025-06-03 12:55:49 - INFO - Parsed page 2, found 1 new ads.
+2025-06-03 12:55:59 - INFO - Знайдено актуальних оголошень: 1
+2025-06-03 12:55:59 - INFO - Додаємо https://www.olx.pl/d/oferta/amplituner-wzmacniacz-pioneer-5-1-hdmi-arc-CID99-ID162dm3.html?reason=extended_search_extended_s2v.
+2025-06-03 12:56:10 - INFO - Successfully sent message for ad: Amplituner wzmacniacz Pioneer 5.1 HDMI ARC
+2025-06-03 12:56:10 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
