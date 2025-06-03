@@ -123,3 +123,12 @@
 2025-06-03 17:25:17 - INFO - Додаємо https://www.olx.pl/d/oferta/glosniki-niskotonowe-speaka-tt-150-180-8-ohm-25-cm-CID99-ID162r8S.html?reason=extended_search_extended_s2v.
 2025-06-03 17:25:26 - INFO - Successfully sent message for ad: Głośniki niskotonowe SpeaKa TT 150/180 8 Ohm 25 cm.
 2025-06-03 17:25:26 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-06-03 18:37:03 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-03 18:37:03 - INFO - Знайдено старих оголошень: 648
+2025-06-03 18:37:14 - INFO - Last page 4 is the same as this page. Stopping.
+2025-06-03 18:37:14 - INFO - Знайдено актуальних оголошень: 0
+2025-06-03 18:37:14 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-03 18:37:14 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-03 18:37:14 - INFO - Знайдено старих оголошень: 259
+2025-06-03 18:37:31 - INFO - Знайдено актуальних оголошень: 0
+2025-06-03 18:37:31 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
