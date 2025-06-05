@@ -101,3 +101,19 @@
 2025-06-05 15:28:28 - INFO - Знайдено старих оголошень: 260
 2025-06-05 15:28:45 - INFO - Знайдено актуальних оголошень: 0
 2025-06-05 15:28:45 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-06-05 16:33:21 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-05 16:33:21 - INFO - Знайдено старих оголошень: 649
+2025-06-05 16:33:33 - INFO - Last page 4 is the same as this page. Stopping.
+2025-06-05 16:33:33 - INFO - Знайдено актуальних оголошень: 0
+2025-06-05 16:33:33 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-05 16:33:33 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-05 16:33:33 - INFO - Знайдено старих оголошень: 260
+2025-06-05 16:33:37 - INFO - NEW {'title': 'Wzmacniacz uniwersum z korektorem graficznym 2x80watt', 'link': 'https://www.olx.pl/d/oferta/wzmacniacz-uniwersum-z-korektorem-graficznym-2x80watt-CID99-ID13Zpzc.html', 'price': '140 zł', 'status': 'active', 'date_found': '2025-06-05 16:33', 'date_removed': None, 'description': 'Sprzedam wzmaczniacz uniwersum z korektorem graficznym 2x80watt w pelni sprawny czysty dzwiek loades podbicie. Dizaner diody rytmie muzyki był podloczony pod altony 70 wiecej informacje na temat olx', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/eza85t7p82ei3-PL/image;s=1152x864', 'https://ireland.apollo.olxcdn.com:443/v1/files/cx79ad9pa4ns3-PL/image;s=1152x864', 'https://ireland.apollo.olxcdn.com:443/v1/files/ubprebkqocke1-PL/image;s=1152x864'], 'published_date': '2025-06-05 o 15:53', 'location': ''}
+2025-06-05 16:33:37 - INFO - NEW {'title': 'Ampilifer proson rv2040', 'link': 'https://www.olx.pl/d/oferta/ampilifer-proson-rv2040-CID99-ID147SRg.html', 'price': '250 zł', 'status': 'active', 'date_found': '2025-06-05 16:33', 'date_removed': None, 'description': 'Sprzedam wzmaczniacz proson rv 2040 .2x120watt w pelni sprawny dodam pilot tylko trzeba sparować go jest nowy wiecej informacje na temat olx mozliwa wysyłka', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/ppkiemdrw1tz2-PL/image;s=259x194', 'https://ireland.apollo.olxcdn.com:443/v1/files/il681r6fxelf3-PL/image;s=259x194', 'https://ireland.apollo.olxcdn.com:443/v1/files/u4cfbati6wcj3-PL/image;s=1024x768', 'https://ireland.apollo.olxcdn.com:443/v1/files/vpk27q6ns5vp1-PL/image;s=1000x750', 'https://ireland.apollo.olxcdn.com:443/v1/files/jkmux6gh0q8h2-PL/image;s=259x194', 'https://ireland.apollo.olxcdn.com:443/v1/files/ilgymmbe3cyt2-PL/image;s=1024x768', 'https://ireland.apollo.olxcdn.com:443/v1/files/491ykgmh0oct1-PL/image;s=1488x1984'], 'published_date': '2025-06-05 o 15:46', 'location': ''}
+2025-06-05 16:33:37 - INFO - Parsed page 1, found 2 new ads.
+2025-06-05 16:33:51 - INFO - Знайдено актуальних оголошень: 2
+2025-06-05 16:33:51 - INFO - Додаємо https://www.olx.pl/d/oferta/wzmacniacz-uniwersum-z-korektorem-graficznym-2x80watt-CID99-ID13Zpzc.html.
+2025-06-05 16:33:57 - INFO - Successfully sent message for ad: Wzmacniacz uniwersum z korektorem graficznym 2x80watt
+2025-06-05 16:33:57 - INFO - Додаємо https://www.olx.pl/d/oferta/ampilifer-proson-rv2040-CID99-ID147SRg.html.
+2025-06-05 16:34:12 - INFO - Successfully sent message for ad: Ampilifer proson rv2040
+2025-06-05 16:34:12 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
