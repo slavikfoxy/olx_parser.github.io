@@ -29,3 +29,16 @@
 2025-06-06 07:24:55 - INFO - Знайдено старих оголошень: 266
 2025-06-06 07:25:12 - INFO - Знайдено актуальних оголошень: 0
 2025-06-06 07:25:12 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-06-06 08:33:47 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-06 08:33:47 - INFO - Знайдено старих оголошень: 649
+2025-06-06 08:33:57 - INFO - Last page 4 is the same as this page. Stopping.
+2025-06-06 08:33:57 - INFO - Знайдено актуальних оголошень: 0
+2025-06-06 08:33:57 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-06 08:33:57 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-06 08:33:57 - INFO - Знайдено старих оголошень: 266
+2025-06-06 08:34:03 - INFO - NEW {'title': 'Głośnik 12" 8 ohm 100W.', 'link': 'https://www.olx.pl/d/oferta/glosnik-12-8-ohm-100w-CID99-ID163KFn.html?reason=extended_search_extended_s2v', 'price': '80 zł', 'status': 'active', 'date_found': '2025-06-06 08:34', 'date_removed': None, 'description': 'Głośnik dynamiczny,12" (30 cm) , 8 ohm,100 W, sprawny, praktycznie nie używany, z półki. Głośnik o charakterystyce nisko/szeroko pasmowej. Wysyłka.', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/6e19bztz0hp41-PL/image;s=525x700', 'https://ireland.apollo.olxcdn.com:443/v1/files/py0yxbuk5pde-PL/image;s=525x700'], 'published_date': '01 czerwca 2025', 'location': ''}
+2025-06-06 08:34:03 - INFO - Parsed page 2, found 1 new ads.
+2025-06-06 08:34:14 - INFO - Знайдено актуальних оголошень: 1
+2025-06-06 08:34:14 - INFO - Додаємо https://www.olx.pl/d/oferta/glosnik-12-8-ohm-100w-CID99-ID163KFn.html?reason=extended_search_extended_s2v.
+2025-06-06 08:34:21 - INFO - Successfully sent message for ad: Głośnik 12" 8 ohm 100W.
+2025-06-06 08:34:21 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
