@@ -42,3 +42,16 @@
 2025-06-06 08:34:14 - INFO - Додаємо https://www.olx.pl/d/oferta/glosnik-12-8-ohm-100w-CID99-ID163KFn.html?reason=extended_search_extended_s2v.
 2025-06-06 08:34:21 - INFO - Successfully sent message for ad: Głośnik 12" 8 ohm 100W.
 2025-06-06 08:34:21 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-06-06 09:28:12 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-06 09:28:12 - INFO - Знайдено старих оголошень: 649
+2025-06-06 09:28:16 - INFO - NEW {'title': 'Magnat Monitor Supreme Sub 201A', 'link': 'https://www.olx.pl/d/oferta/magnat-monitor-supreme-sub-201a-CID99-ID167SkK.html', 'price': '350 zł', 'status': 'active', 'date_found': '2025-06-06 09:28', 'date_removed': None, 'description': 'Sprzęt zachowany w stanie niemalże idealnym ( na zdjeciu widać znikome naruszenie narożnika), 100% sprawny. Dorzucam przewód zasilający oraz przewod rca -> rca pojedynczy do podłączenia sygnału. Poniżej opis od producenta.Magnat Monitor Supreme Sub 201A to aktywny subwoofer o konstrukcji bass-reflex, przeznaczony do użytku domowego.  Dzięki solidnej obudowie z MDF i 8-calowemu przetwornikowi niskotonowemu, oferuje głębokie i dynamiczne basy, które wzbogacają doświadczenia podczas słuchania muzyki czy oglądania filmów.Specyfikacja techniczna:Typ: Aktywny subwoofer z bass-reflexMoc RMS: 75 WMoc maksymalna: 160 WPasmo przenoszenia: 20 – 200 HzŚrednica głośnika: 200 mm (8")Regulacja: Głośności, częstotliwości odcięcia (50–150 Hz), fazy (normalna/odwrócona)Złącza: Wejścia RCA (liniowe), wejścia/wyjścia wysokopoziomowe (klemowe)Wymiary (SxWxG): 265 x 365 x 345 mmWaga: 9,5 kgKolorystyka: Czarny, mocca, wiśniaZasilanie: 115/230 VDodatkowe funkcje: Automatyczne włączanie/wyłączanie, zdejmowana maskownica', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/qopeu06428xn3-PL/image;s=2000x1126', 'https://ireland.apollo.olxcdn.com:443/v1/files/pbbada3dvpij3-PL/image;s=2000x1126', 'https://ireland.apollo.olxcdn.com:443/v1/files/xznmfu0klvbx1-PL/image;s=2000x1126', 'https://ireland.apollo.olxcdn.com:443/v1/files/v28jajt3o5m5-PL/image;s=2000x1126', 'https://ireland.apollo.olxcdn.com:443/v1/files/64ps09oq486k3-PL/image;s=2000x1126'], 'published_date': '2025-06-06 o 08:51', 'location': ''}
+2025-06-06 09:28:17 - INFO - Parsed page 1, found 1 new ads.
+2025-06-06 09:28:24 - INFO - Last page 4 is the same as this page. Stopping.
+2025-06-06 09:28:24 - INFO - Знайдено актуальних оголошень: 1
+2025-06-06 09:28:24 - INFO - Додаємо https://www.olx.pl/d/oferta/magnat-monitor-supreme-sub-201a-CID99-ID167SkK.html.
+2025-06-06 09:28:38 - INFO - Successfully sent message for ad: Magnat Monitor Supreme Sub 201A
+2025-06-06 09:28:38 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-06 09:28:38 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-06 09:28:38 - INFO - Знайдено старих оголошень: 267
+2025-06-06 09:28:53 - INFO - Знайдено актуальних оголошень: 0
+2025-06-06 09:28:53 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
