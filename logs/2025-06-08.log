@@ -99,3 +99,12 @@
 2025-06-08 14:22:34 - INFO - Знайдено старих оголошень: 272
 2025-06-08 14:22:49 - INFO - Знайдено актуальних оголошень: 0
 2025-06-08 14:22:49 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-06-08 15:27:38 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-08 15:27:38 - INFO - Знайдено старих оголошень: 652
+2025-06-08 15:27:50 - INFO - Last page 4 is the same as this page. Stopping.
+2025-06-08 15:27:50 - INFO - Знайдено актуальних оголошень: 0
+2025-06-08 15:27:50 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-08 15:27:50 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-08 15:27:50 - INFO - Знайдено старих оголошень: 272
+2025-06-08 15:28:05 - INFO - Знайдено актуальних оголошень: 0
+2025-06-08 15:28:05 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
