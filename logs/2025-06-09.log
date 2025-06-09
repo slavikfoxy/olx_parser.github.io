@@ -69,3 +69,16 @@
 2025-06-09 11:23:10 - INFO - Знайдено старих оголошень: 274
 2025-06-09 11:23:25 - INFO - Знайдено актуальних оголошень: 0
 2025-06-09 11:23:25 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-06-09 12:54:49 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-09 12:54:49 - INFO - Знайдено старих оголошень: 652
+2025-06-09 12:54:53 - INFO - NEW {'title': 'Głośniki Magnat Bull Power 1620', 'link': 'https://www.olx.pl/d/oferta/glosniki-magnat-bull-power-1620-CID99-ID16afFS.html', 'price': '110 zł', 'status': 'active', 'date_found': '2025-06-09 12:54', 'date_removed': None, 'description': 'Sprzedam nowe głośniki.Magnat Bull Power 1620 to 2-drożny system koaksjalny o mocy maksymalnej 110 watów. Posiada uniwersalne możliwości montażu, wysoką elastyczność zawieszenia, hartowany stalowy kosz, cewkę o dużej mocy i chromowany kołnierz głośnika wysokotonowego.', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/7i8hzk3wu1em2-PL/image;s=3468x3468', 'https://ireland.apollo.olxcdn.com:443/v1/files/hutwlox7tr5u3-PL/image;s=3468x3468', 'https://ireland.apollo.olxcdn.com:443/v1/files/gczil7aci24g-PL/image;s=3468x3468', 'https://ireland.apollo.olxcdn.com:443/v1/files/mm4gp0n9mn2m2-PL/image;s=3468x3468', 'https://ireland.apollo.olxcdn.com:443/v1/files/jsf9ok03eebo2-PL/image;s=2080x4624'], 'published_date': '2025-06-09 o 11:47', 'location': ''}
+2025-06-09 12:54:53 - INFO - Parsed page 1, found 1 new ads.
+2025-06-09 12:55:03 - INFO - Last page 4 is the same as this page. Stopping.
+2025-06-09 12:55:03 - INFO - Знайдено актуальних оголошень: 1
+2025-06-09 12:55:03 - INFO - Додаємо https://www.olx.pl/d/oferta/glosniki-magnat-bull-power-1620-CID99-ID16afFS.html.
+2025-06-09 12:55:16 - INFO - Successfully sent message for ad: Głośniki Magnat Bull Power 1620
+2025-06-09 12:55:16 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-09 12:55:16 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-09 12:55:16 - INFO - Знайдено старих оголошень: 274
+2025-06-09 12:55:39 - INFO - Знайдено актуальних оголошень: 0
+2025-06-09 12:55:39 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
