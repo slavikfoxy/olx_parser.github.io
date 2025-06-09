@@ -25,3 +25,16 @@
 2025-06-09 07:26:42 - INFO - Знайдено старих оголошень: 272
 2025-06-09 07:26:57 - INFO - Знайдено актуальних оголошень: 0
 2025-06-09 07:26:57 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-06-09 08:36:19 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-09 08:36:19 - INFO - Знайдено старих оголошень: 652
+2025-06-09 08:36:29 - INFO - Last page 4 is the same as this page. Stopping.
+2025-06-09 08:36:29 - INFO - Знайдено актуальних оголошень: 0
+2025-06-09 08:36:29 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-09 08:36:29 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-09 08:36:29 - INFO - Знайдено старих оголошень: 272
+2025-06-09 08:36:35 - INFO - NEW {'title': 'Głośnik wiszący kula WHD KL 1900 T12', 'link': 'https://www.olx.pl/d/oferta/glosnik-wiszacy-kula-whd-kl-1900-t12-CID99-ID10V102.html?reason=extended_search_extended_s2v', 'price': '500 zł', 'status': 'active', 'date_found': '2025-06-09 08:36', 'date_removed': None, 'description': 'KL 1900-T12 - 2-drożny głośnik sferyczny Hi-Fi o wysokiej wydajności, idealny do odtwarzania muzyki w foyer, sklepach, ... (wysokość montażu 3 - 5 m). Jest on wyposażony w 170 mm głośnik niskotonowy i 4 stożkowe głośniki wysokotonowe. Skutkuje to bardzo szeroką charakterystyką promieniowania. Technologia bass reflex zapewnia lepsze odtwarzanie basów. Głośnik jest zawieszany na suficie za pomocą odciążnika przymocowanego do kabla za pomocą liny stalowej. Zaślepka w formie daszka zakrywa zawieszenie i zapewnia harmonijny wygląd.moc: 12Wodczepy: 12/6/3/1.5WSPL 1W/1m: 88dBpasmo przenoszenia (-3dB): 63-16000Hzcharakterystyka kierunkowa 1/2/4/8 kHz (-6dB): 200/-/140/200°materiał: obudowa plastikowa, metalowy grillwaga 5 kgkolor: biały (RAL 9016)Dostępne 3 sztukiPrzy zakupie 5 sztuk, cena za całość 2200zl.', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/3v5ze8qn9n143-PL/image;s=900x910', 'https://ireland.apollo.olxcdn.com:443/v1/files/s3i38z37u0i22-PL/image;s=900x915', 'https://ireland.apollo.olxcdn.com:443/v1/files/2ng1a29diyso1-PL/image;s=1008x756', 'https://ireland.apollo.olxcdn.com:443/v1/files/mnpnatlm8ep03-PL/image;s=1008x756', 'https://ireland.apollo.olxcdn.com:443/v1/files/qjz7uin390gh2-PL/image;s=1008x756', 'https://ireland.apollo.olxcdn.com:443/v1/files/or70vfd06pks1-PL/image;s=1008x756'], 'published_date': '04 czerwca 2025', 'location': ''}
+2025-06-09 08:36:35 - INFO - Parsed page 2, found 1 new ads.
+2025-06-09 08:36:45 - INFO - Знайдено актуальних оголошень: 1
+2025-06-09 08:36:45 - INFO - Додаємо https://www.olx.pl/d/oferta/glosnik-wiszacy-kula-whd-kl-1900-t12-CID99-ID10V102.html?reason=extended_search_extended_s2v.
+2025-06-09 08:36:57 - INFO - Successfully sent message for ad: Głośnik wiszący kula WHD KL 1900 T12
+2025-06-09 08:36:57 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
