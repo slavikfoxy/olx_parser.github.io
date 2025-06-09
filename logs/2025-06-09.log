@@ -38,3 +38,16 @@
 2025-06-09 08:36:45 - INFO - Додаємо https://www.olx.pl/d/oferta/glosnik-wiszacy-kula-whd-kl-1900-t12-CID99-ID10V102.html?reason=extended_search_extended_s2v.
 2025-06-09 08:36:57 - INFO - Successfully sent message for ad: Głośnik wiszący kula WHD KL 1900 T12
 2025-06-09 08:36:57 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-06-09 09:29:12 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-09 09:29:12 - INFO - Знайдено старих оголошень: 652
+2025-06-09 09:29:23 - INFO - Last page 4 is the same as this page. Stopping.
+2025-06-09 09:29:23 - INFO - Знайдено актуальних оголошень: 0
+2025-06-09 09:29:23 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-09 09:29:23 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-09 09:29:23 - INFO - Знайдено старих оголошень: 273
+2025-06-09 09:29:29 - INFO - NEW {'title': 'Bluesound Powernode 2i HDMI streamer wzmacniacz', 'link': 'https://www.olx.pl/d/oferta/bluesound-powernode-2i-hdmi-streamer-wzmacniacz-CID99-ID1662vb.html?reason=extended_search_extended_s2v', 'price': '2 200 zł', 'status': 'active', 'date_found': '2025-06-09 09:29', 'date_removed': None, 'description': 'Sprzedam  kompaktowy wzmacniacz stereo Bluesouns Powernode 2i z wbudowanym streamerem i złaczem HDMI. Sprawny w 100%. Wizualnie bez żadnych uszkodzeń.Preferuję odbiór osobisty, wtedy można sprawdzić. Wysyłka w opakowaniu zastępczym, nie mam oryginalnego pudełka.Poniżej opis sprzętu:www.hi-fi.com.pl/testy/systemy/bluesound-powernode-2i/', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/rzbqhas1myi43-PL/image;s=1008x756', 'https://ireland.apollo.olxcdn.com:443/v1/files/rxolvsfnel1c1-PL/image;s=1008x756', 'https://ireland.apollo.olxcdn.com:443/v1/files/doby7v1yv1wd-PL/image;s=1008x756', 'https://ireland.apollo.olxcdn.com:443/v1/files/87ri121j4d292-PL/image;s=1008x756'], 'published_date': '04 czerwca 2025', 'location': ''}
+2025-06-09 09:29:29 - INFO - Parsed page 2, found 1 new ads.
+2025-06-09 09:29:38 - INFO - Знайдено актуальних оголошень: 1
+2025-06-09 09:29:38 - INFO - Додаємо https://www.olx.pl/d/oferta/bluesound-powernode-2i-hdmi-streamer-wzmacniacz-CID99-ID1662vb.html?reason=extended_search_extended_s2v.
+2025-06-09 09:29:44 - INFO - Successfully sent message for ad: Bluesound Powernode 2i HDMI streamer wzmacniacz
+2025-06-09 09:29:44 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
