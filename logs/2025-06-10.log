@@ -109,3 +109,16 @@
 2025-06-10 15:28:13 - INFO - Знайдено старих оголошень: 275
 2025-06-10 15:28:33 - INFO - Знайдено актуальних оголошень: 0
 2025-06-10 15:28:33 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-06-10 16:34:05 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-10 16:34:05 - INFO - Знайдено старих оголошень: 656
+2025-06-10 16:34:09 - INFO - NEW {'title': 'Subwoofer magnat 2120', 'link': 'https://www.olx.pl/d/oferta/subwoofer-magnat-2120-CID99-ID16btCO.html', 'price': '570 zł', 'status': 'active', 'date_found': '2025-06-10 16:34', 'date_removed': None, 'description': 'Sprzedam subwoofer firmy magnat w pełni sprawny. Preferowany odbiór osobisty.', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/ngjt7l6cwk6v1-PL/image;s=4000x3000'], 'published_date': '2025-06-10 o 15:43', 'location': ''}
+2025-06-10 16:34:09 - INFO - Parsed page 1, found 1 new ads.
+2025-06-10 16:34:17 - INFO - Last page 4 is the same as this page. Stopping.
+2025-06-10 16:34:17 - INFO - Знайдено актуальних оголошень: 1
+2025-06-10 16:34:17 - INFO - Додаємо https://www.olx.pl/d/oferta/subwoofer-magnat-2120-CID99-ID16btCO.html.
+2025-06-10 16:34:19 - INFO - Successfully sent message for ad: Subwoofer magnat 2120
+2025-06-10 16:34:19 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-10 16:34:19 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-10 16:34:19 - INFO - Знайдено старих оголошень: 275
+2025-06-10 16:34:37 - INFO - Знайдено актуальних оголошень: 0
+2025-06-10 16:34:37 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
