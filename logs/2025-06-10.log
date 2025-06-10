@@ -83,3 +83,16 @@
 2025-06-10 13:38:47 - INFO - Знайдено старих оголошень: 275
 2025-06-10 13:39:03 - INFO - Знайдено актуальних оголошень: 0
 2025-06-10 13:39:03 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-06-10 14:26:50 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-10 14:26:50 - INFO - Знайдено старих оголошень: 654
+2025-06-10 14:26:53 - INFO - NEW {'title': 'Potężne Magnat monitor supreme 2002 1szt.', 'link': 'https://www.olx.pl/d/oferta/potezne-magnat-monitor-supreme-2002-1szt-CID99-ID15XWj2.html', 'price': '650 zł', 'status': 'active', 'date_found': '2025-06-10 14:26', 'date_removed': None, 'description': 'Dzień dobry,Na sprzedaż posiadam Magnat Monitor Supreme 2002 ogłoszenie dotyczy 1 sztuki, jestem ich pierwszym wlascicielem. Kolumny 100% sprawne, żadnych uszkodzeń. Posiadam je 4 lata. Sa to kolumny nadające się do systemu stereo czy kina domowego, potężny dźwięk, konstrukcja bass refleks. Kolor mocca. Kolumny spakowane w oryginalnych kartonach. Opis i specyfikacja w internecie. Zachęcam do zakupu - bardzo dobry stan, nie katowane. Preferowany odbiór osobisty', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/4fxb1yk77sv61-PL/image;s=1500x2000', 'https://ireland.apollo.olxcdn.com:443/v1/files/vhxd9jvio08v2-PL/image;s=1500x2000', 'https://ireland.apollo.olxcdn.com:443/v1/files/6foez27gsv6d1-PL/image;s=1500x2000', 'https://ireland.apollo.olxcdn.com:443/v1/files/pg9xo0tg3ol81-PL/image;s=1500x2000'], 'published_date': '24 maja 2025', 'location': ''}
+2025-06-10 14:26:53 - INFO - Parsed page 1, found 1 new ads.
+2025-06-10 14:27:01 - INFO - Last page 4 is the same as this page. Stopping.
+2025-06-10 14:27:01 - INFO - Знайдено актуальних оголошень: 1
+2025-06-10 14:27:01 - INFO - Додаємо https://www.olx.pl/d/oferta/potezne-magnat-monitor-supreme-2002-1szt-CID99-ID15XWj2.html.
+2025-06-10 14:27:09 - INFO - Successfully sent message for ad: Potężne Magnat monitor supreme 2002 1szt.
+2025-06-10 14:27:09 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-10 14:27:09 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-10 14:27:09 - INFO - Знайдено старих оголошень: 275
+2025-06-10 14:27:25 - INFO - Знайдено актуальних оголошень: 0
+2025-06-10 14:27:25 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
