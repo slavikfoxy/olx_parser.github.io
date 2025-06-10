@@ -61,3 +61,16 @@
 2025-06-10 11:22:32 - INFO - Знайдено старих оголошень: 275
 2025-06-10 11:22:47 - INFO - Знайдено актуальних оголошень: 0
 2025-06-10 11:22:47 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-06-10 12:55:27 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-10 12:55:27 - INFO - Знайдено старих оголошень: 653
+2025-06-10 12:55:32 - INFO - NEW {'title': 'Subwoofer Magnat BS30', 'link': 'https://www.olx.pl/d/oferta/subwoofer-magnat-bs30-CID99-ID161kDy.html', 'price': '100 zł', 'status': 'active', 'date_found': '2025-06-10 12:55', 'date_removed': None, 'description': 'Witam, do zaoferowania subwoofer jak w temacie ,  sprawny .', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/plxuqe2gybrj-PL/image;s=1024x768', 'https://ireland.apollo.olxcdn.com:443/v1/files/ykpo6ia2rmbp3-PL/image;s=1024x768', 'https://ireland.apollo.olxcdn.com:443/v1/files/g3cnptlz67k22-PL/image;s=1024x768', 'https://ireland.apollo.olxcdn.com:443/v1/files/qe1z5ak67s5k3-PL/image;s=768x1024'], 'published_date': '28 maja 2025', 'location': ''}
+2025-06-10 12:55:32 - INFO - Parsed page 1, found 1 new ads.
+2025-06-10 12:55:41 - INFO - Last page 4 is the same as this page. Stopping.
+2025-06-10 12:55:41 - INFO - Знайдено актуальних оголошень: 1
+2025-06-10 12:55:41 - INFO - Додаємо https://www.olx.pl/d/oferta/subwoofer-magnat-bs30-CID99-ID161kDy.html.
+2025-06-10 12:55:47 - INFO - Successfully sent message for ad: Subwoofer Magnat BS30
+2025-06-10 12:55:47 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-10 12:55:47 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-10 12:55:47 - INFO - Знайдено старих оголошень: 275
+2025-06-10 12:56:04 - INFO - Знайдено актуальних оголошень: 0
+2025-06-10 12:56:04 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
