@@ -166,3 +166,16 @@
 2025-06-10 20:29:22 - INFO - Знайдено старих оголошень: 276
 2025-06-10 20:29:43 - INFO - Знайдено актуальних оголошень: 0
 2025-06-10 20:29:43 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-06-10 21:24:48 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-10 21:24:48 - INFO - Знайдено старих оголошень: 658
+2025-06-10 21:24:59 - INFO - Last page 4 is the same as this page. Stopping.
+2025-06-10 21:24:59 - INFO - Знайдено актуальних оголошень: 0
+2025-06-10 21:24:59 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-10 21:24:59 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-10 21:24:59 - INFO - Знайдено старих оголошень: 276
+2025-06-10 21:25:02 - INFO - NEW {'title': 'Wzmacniacz sygnału WI-FI Tp-link AC750', 'link': 'https://www.olx.pl/d/oferta/wzmacniacz-sygnalu-wi-fi-tp-link-ac750-CID99-ID16bIjC.html', 'price': '60 zł', 'status': 'active', 'date_found': '2025-06-10 21:25', 'date_removed': None, 'description': 'Dzień dobry,na sprzedaż posiadam wzmaczniacz sygnału Wi-Fi Tp-link Mesh Wi-Fi Extender AC750Uniwersalny wzmacniacz sieci bezprzewodowej AC750 TP-Link poszerza zasięg sieci bezprzewodowej dzięki zastosowaniu technologii Wi-Fi 11AC. Wzmacniacz sygnału WiFi firmy TP-Link jest kompatybilny ze wszystkimi routerami Wi-Fi. Umożliwia stworzenie dwupasmowej sieci, która obejmuje swym zasięgiem całą powierzchnię domu lub biura.Wzmacniacz sygnału Wi-Fi TP-Link sprawia, że pozbędziesz się "martwych stref" i będziesz mógł korzystać z doskonałego połączenia bezprzewodowego w całym domu lub biurze. Dwa pasma Wi-Fi o łącznej przepustowości dochodzącej do 750 Mb/s obejmują powierzchnię 185 m2 i umożliwiają korzystanie z szybkich połączeń, co oznacza transmisję filmów w jakości HD bez zakłóceń i granie online bez problemów.Uniwersalny wzmacniacz AC750 TP-Link może również pełnić funkcję adaptera karty sieciowej do odtwarzaczy multimedialnych, takich jak telewizory, konsole czy odtwarzacze blue-ray z dostępem do internetu, umożliwiając łączenie się z siecią bezprzewodową za pomocą kabla Ethernet. WiFI Repeater TP-Link RE200 AC750 udostępnia wtedy jednocześnie sieć urządzeniom połączonym przez kabel i urządzeniom bezprzewodowym w obrębie sygnału sieci.Możliwość wysyłki jak i odbioru osobistego.Pozdrawiam i zapraszam na inne aukcje!', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/s9wytmip4gvm-PL/image;s=1536x2048', 'https://ireland.apollo.olxcdn.com:443/v1/files/m292j0clvy522-PL/image;s=1536x2048', 'https://ireland.apollo.olxcdn.com:443/v1/files/wq3frumv1bvt3-PL/image;s=1536x2048', 'https://ireland.apollo.olxcdn.com:443/v1/files/720g8391opv02-PL/image;s=1536x2048', 'https://ireland.apollo.olxcdn.com:443/v1/files/elxuegmc7t4t1-PL/image;s=1536x2048'], 'published_date': '2025-06-10 o 21:15', 'location': ''}
+2025-06-10 21:25:02 - INFO - Parsed page 1, found 1 new ads.
+2025-06-10 21:25:15 - INFO - Знайдено актуальних оголошень: 1
+2025-06-10 21:25:15 - INFO - Додаємо https://www.olx.pl/d/oferta/wzmacniacz-sygnalu-wi-fi-tp-link-ac750-CID99-ID16bIjC.html.
+2025-06-10 21:25:28 - INFO - Successfully sent message for ad: Wzmacniacz sygnału WI-FI Tp-link AC750
+2025-06-10 21:25:28 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
