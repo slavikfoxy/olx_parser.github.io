@@ -148,3 +148,12 @@
 2025-06-10 18:37:07 - INFO - Додаємо https://www.olx.pl/d/oferta/glosnik-bluetooth-przenosny-enacfire-czerwony-12w-ipx7-wodoodporny-25h-CID99-ID167aiq.html?reason=extended_search_extended_s2v.
 2025-06-10 18:37:16 - INFO - Successfully sent message for ad: Głośnik Bluetooth Przenośny Enacfire Czerwony 12W Ipx7 Wodoodporny 25H
 2025-06-10 18:37:16 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-06-10 19:20:26 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-10 19:20:26 - INFO - Знайдено старих оголошень: 658
+2025-06-10 19:20:36 - INFO - Last page 4 is the same as this page. Stopping.
+2025-06-10 19:20:36 - INFO - Знайдено актуальних оголошень: 0
+2025-06-10 19:20:36 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-10 19:20:36 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-10 19:20:36 - INFO - Знайдено старих оголошень: 276
+2025-06-10 19:20:50 - INFO - Знайдено актуальних оголошень: 0
+2025-06-10 19:20:50 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
