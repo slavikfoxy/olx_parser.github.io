@@ -125,3 +125,12 @@
 2025-06-11 17:24:11 - INFO - Додаємо https://www.olx.pl/d/oferta/wzmaczniacz-sygnalu-wi-fi-CID99-ID16coBf.html.
 2025-06-11 17:24:12 - INFO - Successfully sent message for ad: Wzmaczniacz sygnału wi-fi
 2025-06-11 17:24:12 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-06-11 18:37:08 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-11 18:37:08 - INFO - Знайдено старих оголошень: 658
+2025-06-11 18:37:22 - INFO - Last page 4 is the same as this page. Stopping.
+2025-06-11 18:37:22 - INFO - Знайдено актуальних оголошень: 0
+2025-06-11 18:37:22 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-11 18:37:22 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-11 18:37:22 - INFO - Знайдено старих оголошень: 280
+2025-06-11 18:37:42 - INFO - Знайдено актуальних оголошень: 0
+2025-06-11 18:37:42 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
