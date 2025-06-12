@@ -114,3 +114,16 @@
 2025-06-12 16:33:54 - INFO - Знайдено старих оголошень: 282
 2025-06-12 16:34:08 - INFO - Знайдено актуальних оголошень: 0
 2025-06-12 16:34:08 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-06-12 17:24:08 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-12 17:24:08 - INFO - Знайдено старих оголошень: 658
+2025-06-12 17:24:11 - INFO - NEW {'title': 'Magnat subwoofer aktywny', 'link': 'https://www.olx.pl/d/oferta/magnat-subwoofer-aktywny-CID99-ID16dgZS.html', 'price': '250 zł', 'status': 'active', 'date_found': '2025-06-12 17:24', 'date_removed': None, 'description': 'Aktywny subwoofer Magnat 1440201 to doskonałe rozwiązanie dla miłośników mocnego i czystego basu. Jego wyjątkowa konstrukcja zapewnia głębokie i precyzyjne brzmienie, które wzbogaci każde doświadczenie muzyczne. Idealny wybór dla wymagających audiofilów.wymiary   32x34x35cmdprzet w stanie bdb i sprawny', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/mttakrwtsx7s-PL/image;s=680x1210', 'https://ireland.apollo.olxcdn.com:443/v1/files/2r5f1eu7amg71-PL/image;s=680x1210', 'https://ireland.apollo.olxcdn.com:443/v1/files/55lq7ouiwf35-PL/image;s=680x1210'], 'published_date': '2025-06-12 o 16:27', 'location': ''}
+2025-06-12 17:24:11 - INFO - Parsed page 1, found 1 new ads.
+2025-06-12 17:24:19 - INFO - Last page 4 is the same as this page. Stopping.
+2025-06-12 17:24:19 - INFO - Знайдено актуальних оголошень: 1
+2025-06-12 17:24:19 - INFO - Додаємо https://www.olx.pl/d/oferta/magnat-subwoofer-aktywny-CID99-ID16dgZS.html.
+2025-06-12 17:24:27 - INFO - Successfully sent message for ad: Magnat subwoofer aktywny
+2025-06-12 17:24:27 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-12 17:24:27 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-12 17:24:27 - INFO - Знайдено старих оголошень: 282
+2025-06-12 17:24:45 - INFO - Знайдено актуальних оголошень: 0
+2025-06-12 17:24:45 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
