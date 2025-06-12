@@ -127,3 +127,16 @@
 2025-06-12 17:24:27 - INFO - Знайдено старих оголошень: 282
 2025-06-12 17:24:45 - INFO - Знайдено актуальних оголошень: 0
 2025-06-12 17:24:45 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-06-12 18:35:36 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-12 18:35:36 - INFO - Знайдено старих оголошень: 659
+2025-06-12 18:35:45 - INFO - Last page 4 is the same as this page. Stopping.
+2025-06-12 18:35:45 - INFO - Знайдено актуальних оголошень: 0
+2025-06-12 18:35:45 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-12 18:35:45 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-12 18:35:45 - INFO - Знайдено старих оголошень: 282
+2025-06-12 18:35:48 - INFO - NEW {'title': 'Luxman L-2 wzmacniacz', 'link': 'https://www.olx.pl/d/oferta/luxman-l-2-wzmacniacz-CID99-ID16dmnx.html', 'price': '800 zł', 'status': 'active', 'date_found': '2025-06-12 18:35', 'date_removed': None, 'description': 'LUXMAN L-2,wzmacniacz stereoSprzedam wzmacniacz LUXMAN Urządzenie sprawne technicznie.Sprawdzone,testowane.Kupujesz dokładnie to co na foto .Sprzęt jest używany i nosi ślady użytkowania, może posiadać rysy lub zarysowania.Wzmaczniacz gra mocną i wyraźną średnicę, nie ma żadnych kłopotów z basem, tony wysokie nie są podbite (można podkręcić - chodzi o to że wszystko zależy od źródła dźwięku). Dźwięk piękny, pełny, wyrównany, bardzo dobry bas, zjawiskowa stereofonia. Przy dobrych nagraniach dech zapiera jak może grać tak starożytna zabawka.Dane techniczneSpecificationsPower output: 33 watts per channel into 8Ω (stereo)Frequency response: 15Hz to 60kHzTotal harmonic distortion: 0.03%Input sensitivity: 2.5mV (MM), 145mV (line)Signal to noise ratio: 84dB (MM), 90dB (line)Channel separation: 60dB (MM), 70dB (line)Dimensions: 438 x 289 x 105mmWeight: 7.5kgYears of manufacture: 1978 - 1982Manufactured in: JapanColor: SilverNajlepiej odbiór osobisty. Mogę wysłać gwarantuje solidne zapakowanie.', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/i8u056wkmwfj-PL/image;s=4577x1673', 'https://ireland.apollo.olxcdn.com:443/v1/files/9l4xd7bywiym1-PL/image;s=4581x1358', 'https://ireland.apollo.olxcdn.com:443/v1/files/sls1r9n4fa162-PL/image;s=4608x2592', 'https://ireland.apollo.olxcdn.com:443/v1/files/3c69at2wjslw-PL/image;s=4608x2592', 'https://ireland.apollo.olxcdn.com:443/v1/files/heb0h6af22y12-PL/image;s=1152x2048'], 'published_date': '2025-06-12 o 18:06', 'location': ''}
+2025-06-12 18:35:48 - INFO - Parsed page 1, found 1 new ads.
+2025-06-12 18:36:02 - INFO - Знайдено актуальних оголошень: 1
+2025-06-12 18:36:02 - INFO - Додаємо https://www.olx.pl/d/oferta/luxman-l-2-wzmacniacz-CID99-ID16dmnx.html.
+2025-06-12 18:36:13 - INFO - Successfully sent message for ad: Luxman L-2 wzmacniacz
+2025-06-12 18:36:13 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
