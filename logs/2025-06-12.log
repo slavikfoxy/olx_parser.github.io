@@ -7,3 +7,16 @@
 2025-06-12 03:50:47 - INFO - Знайдено старих оголошень: 280
 2025-06-12 03:51:11 - INFO - Знайдено актуальних оголошень: 0
 2025-06-12 03:51:11 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-06-12 06:38:04 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-12 06:38:04 - INFO - Знайдено старих оголошень: 658
+2025-06-12 06:38:15 - INFO - Last page 4 is the same as this page. Stopping.
+2025-06-12 06:38:15 - INFO - Знайдено актуальних оголошень: 0
+2025-06-12 06:38:15 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-12 06:38:15 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-12 06:38:15 - INFO - Знайдено старих оголошень: 280
+2025-06-12 06:38:20 - INFO - NEW {'title': 'Wzmaczniacz pioneer vsx-423', 'link': 'https://www.olx.pl/d/oferta/wzmaczniacz-pioneer-vsx-423-CID99-IDZrw0h.html', 'price': '300 zł', 'status': 'active', 'date_found': '2025-06-12 06:38', 'date_removed': None, 'description': 'Witam sprzedam oto wzmaczniacz widoczny na zdjęciu jest sprawny 100 /Odbiór centrum Bytomia więcej informacji pod telefonem 45*******16', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/5b57i02iwv09-PL/image;s=750x1000', 'https://ireland.apollo.olxcdn.com:443/v1/files/ce5jerk144ra-PL/image;s=750x1000', 'https://ireland.apollo.olxcdn.com:443/v1/files/a2ej70nglgq31-PL/image;s=750x1000', 'https://ireland.apollo.olxcdn.com:443/v1/files/q83wbs0qzvcg2-PL/image;s=750x1000'], 'published_date': '29 maja 2025', 'location': ''}
+2025-06-12 06:38:20 - INFO - Parsed page 1, found 1 new ads.
+2025-06-12 06:38:33 - INFO - Знайдено актуальних оголошень: 1
+2025-06-12 06:38:33 - INFO - Додаємо https://www.olx.pl/d/oferta/wzmaczniacz-pioneer-vsx-423-CID99-IDZrw0h.html.
+2025-06-12 06:38:39 - INFO - Successfully sent message for ad: Wzmaczniacz pioneer vsx-423
+2025-06-12 06:38:39 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
