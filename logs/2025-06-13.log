@@ -115,3 +115,16 @@
 2025-06-13 17:23:50 - INFO - Знайдено старих оголошень: 283
 2025-06-13 17:24:08 - INFO - Знайдено актуальних оголошень: 0
 2025-06-13 17:24:08 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-06-13 18:36:26 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-13 18:36:26 - INFO - Знайдено старих оголошень: 660
+2025-06-13 18:36:30 - INFO - NEW {'title': 'Kolumny satelity MAGNAT Cubus 5 sztuk', 'link': 'https://www.olx.pl/d/oferta/kolumny-satelity-magnat-cubus-5-sztuk-CID99-ID16e7MG.html', 'price': '220 zł', 'status': 'active', 'date_found': '2025-06-13 18:36', 'date_removed': None, 'description': 'Używane, w pełni sprawne, małe kolumny, satelity MAGNAT Cubus 5 sztuk. Grają bardzo dobrze. Wizualnie normalne ślady używania. Wymiary 13 x 13 x 13 cm każda', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/p0cpjc7944jn3-PL/image;s=4000x3000', 'https://ireland.apollo.olxcdn.com:443/v1/files/rl1p3smf12jf-PL/image;s=4000x3000', 'https://ireland.apollo.olxcdn.com:443/v1/files/de0twv9uy6xl3-PL/image;s=4000x3000', 'https://ireland.apollo.olxcdn.com:443/v1/files/630zkb8dprdy-PL/image;s=4000x3000', 'https://ireland.apollo.olxcdn.com:443/v1/files/nuchtyqvwqvz1-PL/image;s=4000x3000', 'https://ireland.apollo.olxcdn.com:443/v1/files/u7xolit9bb8m3-PL/image;s=4000x3000', 'https://ireland.apollo.olxcdn.com:443/v1/files/fjzj82ky7wxf3-PL/image;s=4000x3000', 'https://ireland.apollo.olxcdn.com:443/v1/files/o2gmcmegsxjy-PL/image;s=4000x3000'], 'published_date': '2025-06-13 o 18:03', 'location': ''}
+2025-06-13 18:36:30 - INFO - Parsed page 1, found 1 new ads.
+2025-06-13 18:36:39 - INFO - Last page 4 is the same as this page. Stopping.
+2025-06-13 18:36:39 - INFO - Знайдено актуальних оголошень: 1
+2025-06-13 18:36:39 - INFO - Додаємо https://www.olx.pl/d/oferta/kolumny-satelity-magnat-cubus-5-sztuk-CID99-ID16e7MG.html.
+2025-06-13 18:36:50 - INFO - Successfully sent message for ad: Kolumny satelity MAGNAT Cubus 5 sztuk
+2025-06-13 18:36:50 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-13 18:36:50 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-13 18:36:50 - INFO - Знайдено старих оголошень: 283
+2025-06-13 18:37:06 - INFO - Знайдено актуальних оголошень: 0
+2025-06-13 18:37:06 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
