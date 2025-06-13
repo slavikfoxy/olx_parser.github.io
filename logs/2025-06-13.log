@@ -146,3 +146,16 @@
 2025-06-13 20:29:03 - INFO - Знайдено старих оголошень: 283
 2025-06-13 20:29:19 - INFO - Знайдено актуальних оголошень: 0
 2025-06-13 20:29:19 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-06-13 21:24:46 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-13 21:24:46 - INFO - Знайдено старих оголошень: 661
+2025-06-13 21:24:49 - INFO - NEW {'title': 'Kolumny magnat s30', 'link': 'https://www.olx.pl/d/oferta/kolumny-magnat-s30-CID99-ID16edAn.html', 'price': '809 zł', 'status': 'active', 'date_found': '2025-06-13 21:24', 'date_removed': None, 'description': 'Używane kolumny magnat s30. Doskonałe urządzenie do poprawy jakości dźwięku w Twoim domu. Wysoka jakość wykonania gwarantuje trwałość i niezawodność. Sprawdź już dziś!Sprzedam praktycznie nowe kolumny magnat s30 z maskownicami orginalny karton zero śladów używania ,stoją tylko jako dekoracja .wysyłka przez olx kurierem DPD .Stan absolutnie jak nowe .przy odbiorze osobistym mozliwosc odsłuchu.', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/5sbejtg9c4jo3-PL/image;s=540x1200', 'https://ireland.apollo.olxcdn.com:443/v1/files/gxvatqatsbyd3-PL/image;s=540x1200'], 'published_date': '2025-06-13 o 21:01', 'location': ''}
+2025-06-13 21:24:49 - INFO - Parsed page 1, found 1 new ads.
+2025-06-13 21:24:57 - INFO - Last page 4 is the same as this page. Stopping.
+2025-06-13 21:24:57 - INFO - Знайдено актуальних оголошень: 1
+2025-06-13 21:24:57 - INFO - Додаємо https://www.olx.pl/d/oferta/kolumny-magnat-s30-CID99-ID16edAn.html.
+2025-06-13 21:25:05 - INFO - Successfully sent message for ad: Kolumny magnat s30
+2025-06-13 21:25:05 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-13 21:25:05 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-13 21:25:05 - INFO - Знайдено старих оголошень: 283
+2025-06-13 21:25:24 - INFO - Знайдено актуальних оголошень: 0
+2025-06-13 21:25:24 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
