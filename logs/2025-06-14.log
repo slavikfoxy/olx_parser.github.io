@@ -161,3 +161,16 @@
 2025-06-14 20:26:21 - INFO - Знайдено старих оголошень: 286
 2025-06-14 20:26:39 - INFO - Знайдено актуальних оголошень: 0
 2025-06-14 20:26:39 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-06-14 21:22:57 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-14 21:22:57 - INFO - Знайдено старих оголошень: 664
+2025-06-14 21:23:09 - INFO - Last page 4 is the same as this page. Stopping.
+2025-06-14 21:23:09 - INFO - Знайдено актуальних оголошень: 0
+2025-06-14 21:23:09 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-14 21:23:09 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-14 21:23:09 - INFO - Знайдено старих оголошень: 286
+2025-06-14 21:23:14 - INFO - NEW {'title': 'Rega Elex-R idealny stan', 'link': 'https://www.olx.pl/d/oferta/rega-elex-r-idealny-stan-CID99-ID14PbDM.html', 'price': '3 199 zł', 'status': 'active', 'date_found': '2025-06-14 21:23', 'date_removed': None, 'description': 'Kultowy wzmaczniacz stereo Rega Elex-R, polska dystrybucja, pełen sklepowy komplet, stan idealny.Wzmacniacz świeżo po profesjonalnym serwisie - został wymieniony potencjometr głośności + pomiary i konserwacja.Potencjometry głośności to znana przypadłość  w tych świetnych wzmacniaczach, tutaj problem został rozwiązany poprzez wymianę potencjometru na nowy (specjalnie sprowadzany z UK) + pomiary po wymianie.W związku z tym wzmacniacz w stanie zbliżonym do nowego, a może nawet i lepszym bo Rega słynie z wybitnie grających wzmacniaczy i jednocześnie słabej kontroli jakości - problemy z potencjometrami to standard nawet w nowych wzmacniaczach.', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/k6x4bvpfb8ae-PL/image;s=2000x1500', 'https://ireland.apollo.olxcdn.com:443/v1/files/ulxyzvi52ock2-PL/image;s=2000x1500', 'https://ireland.apollo.olxcdn.com:443/v1/files/srzn6776f4jn3-PL/image;s=2000x1500', 'https://ireland.apollo.olxcdn.com:443/v1/files/cmls59wikzf91-PL/image;s=2000x1500'], 'published_date': '17 maja 2025', 'location': ''}
+2025-06-14 21:23:14 - INFO - Parsed page 1, found 1 new ads.
+2025-06-14 21:23:30 - INFO - Знайдено актуальних оголошень: 1
+2025-06-14 21:23:30 - INFO - Додаємо https://www.olx.pl/d/oferta/rega-elex-r-idealny-stan-CID99-ID14PbDM.html.
+2025-06-14 21:23:36 - INFO - Successfully sent message for ad: Rega Elex-R idealny stan
+2025-06-14 21:23:36 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
