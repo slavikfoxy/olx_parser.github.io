@@ -7,3 +7,16 @@
 2025-06-14 03:46:55 - INFO - Знайдено старих оголошень: 283
 2025-06-14 03:47:11 - INFO - Знайдено актуальних оголошень: 0
 2025-06-14 03:47:11 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-06-14 06:34:11 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-14 06:34:11 - INFO - Знайдено старих оголошень: 662
+2025-06-14 06:34:22 - INFO - Last page 4 is the same as this page. Stopping.
+2025-06-14 06:34:22 - INFO - Знайдено актуальних оголошень: 0
+2025-06-14 06:34:22 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-14 06:34:22 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-14 06:34:22 - INFO - Знайдено старих оголошень: 283
+2025-06-14 06:34:31 - INFO - NEW {'title': 'Głośnik Bluetooth Milwaukee M12 SPEJSG2', 'link': 'https://www.olx.pl/d/oferta/glosnik-bluetooth-milwaukee-m12-spejsg2-CID99-ID168Lpy.html?reason=extended_search_extended_s2v', 'price': '500 zł', 'status': 'active', 'date_found': '2025-06-14 06:34', 'date_removed': None, 'description': 'Głośnik Bluetooth Milwaukee M12 SPEJSG2 4933498433 :Przenośny głośnik w miejscu pracy w zaawansowanej technologii Bluetooth®Bluetooth® 5.3 umożliwia odtwarzanie muzyki nawet z odległości 60 m od smartfona, komputera lub tabletuZrównoważony i czysty dźwięk przy każdej głośności.Głośnik klasy premium z portem basowym.Zapewnia dźwięk dla małych obszarów.Łącze audio łączy ponad 200 głośników MILWAUKEE® M18 i M12.Nieograniczone możliwości zawieszania i montażu dzięki zintegrowanemu haczykowi, haczykowi na gwoździe i klinom PACKOUT.Mechanizm przekręcania i blokowania umożliwiający połączenie ze wszystkimi komponentami PACKOUT.Zabezpieczone gniazdo zasilania USB-C umożliwia ładowanie urządzeń elektronicznych.Pełny czas pracy przez cały dzień dzięki akumulatorowi M12 o dużej wydajności 5,0 Ah.Elastyczny system akumulatorów: współpracuje ze wszystkimi akumulatorami MILWAUKEE M12.Dane techniczne:Czas pracy | Pełne naładowanie (hr): 10W zestawie: Uchwyt, PACKOUTMoc głośników (W): 30Zasięg (m): 60Waga (kg): 0.86Waga z akumulatorem (EPTA) (kg): 1.26 (M12 B4)Paragon/FV23%.Posiadamy narzędzia Milwaukee, Makita, Flex, Festool w super cenach. Zainteresowanych prosimy o kontakt 6 0 8 7 4 6 3 0 3- przygotujemy ofertę.', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/xuojqxxgr7rr-PL/image;s=3024x4032', 'https://ireland.apollo.olxcdn.com:443/v1/files/ap6upxzelqca3-PL/image;s=3024x4032', 'https://ireland.apollo.olxcdn.com:443/v1/files/7fmqz8z1qvr01-PL/image;s=3024x4032', 'https://ireland.apollo.olxcdn.com:443/v1/files/1v9heegykua61-PL/image;s=3024x4032', 'https://ireland.apollo.olxcdn.com:443/v1/files/scwvig8qmow13-PL/image;s=3024x4032'], 'published_date': '07 czerwca 2025', 'location': ''}
+2025-06-14 06:34:31 - INFO - Parsed page 2, found 1 new ads.
+2025-06-14 06:34:43 - INFO - Знайдено актуальних оголошень: 1
+2025-06-14 06:34:43 - INFO - Додаємо https://www.olx.pl/d/oferta/glosnik-bluetooth-milwaukee-m12-spejsg2-CID99-ID168Lpy.html?reason=extended_search_extended_s2v.
+2025-06-14 06:34:57 - INFO - Successfully sent message for ad: Głośnik Bluetooth Milwaukee M12 SPEJSG2
+2025-06-14 06:34:57 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
