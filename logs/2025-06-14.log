@@ -143,3 +143,12 @@
 2025-06-14 18:33:23 - INFO - Додаємо https://www.olx.pl/d/oferta/glosnik-sufitowy-bosh-lc1-um12e8-CID99-ID169ctS.html?reason=extended_search_extended_s2v.
 2025-06-14 18:33:36 - INFO - Successfully sent message for ad: Głośnik sufitowy Bosh LC1-UM12E8
 2025-06-14 18:33:36 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-06-14 19:19:07 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-14 19:19:07 - INFO - Знайдено старих оголошень: 664
+2025-06-14 19:19:21 - INFO - Last page 4 is the same as this page. Stopping.
+2025-06-14 19:19:21 - INFO - Знайдено актуальних оголошень: 0
+2025-06-14 19:19:21 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-14 19:19:21 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-14 19:19:21 - INFO - Знайдено старих оголошень: 286
+2025-06-14 19:19:35 - INFO - Знайдено актуальних оголошень: 0
+2025-06-14 19:19:36 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
