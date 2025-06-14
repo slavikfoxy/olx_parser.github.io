@@ -38,3 +38,16 @@
 2025-06-14 08:31:09 - INFO - Знайдено старих оголошень: 284
 2025-06-14 08:31:38 - INFO - Знайдено актуальних оголошень: 0
 2025-06-14 08:31:38 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-06-14 09:27:03 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-14 09:27:03 - INFO - Знайдено старих оголошень: 662
+2025-06-14 09:27:14 - INFO - Last page 4 is the same as this page. Stopping.
+2025-06-14 09:27:14 - INFO - Знайдено актуальних оголошень: 0
+2025-06-14 09:27:14 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-14 09:27:14 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-14 09:27:14 - INFO - Знайдено старих оголошень: 284
+2025-06-14 09:27:17 - INFO - NEW {'title': 'Wzmaczniacz excursion', 'link': 'https://www.olx.pl/d/oferta/wzmaczniacz-excursion-CID99-ID163Bns.html', 'price': '550 zł', 'status': 'active', 'date_found': '2025-06-14 09:27', 'date_removed': None, 'description': 'Witam mam na sprzedaż wzmacniacz CB łącz excursion praktycznie mało używany .', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/6jnrvs1n7rdp-PL/image;s=750x1000', 'https://ireland.apollo.olxcdn.com:443/v1/files/eaiyej22qv7i1-PL/image;s=750x1000', 'https://ireland.apollo.olxcdn.com:443/v1/files/6fujrxb4jl8s2-PL/image;s=750x1000'], 'published_date': '31 maja 2025', 'location': ''}
+2025-06-14 09:27:17 - INFO - Parsed page 1, found 1 new ads.
+2025-06-14 09:27:31 - INFO - Знайдено актуальних оголошень: 1
+2025-06-14 09:27:31 - INFO - Додаємо https://www.olx.pl/d/oferta/wzmaczniacz-excursion-CID99-ID163Bns.html.
+2025-06-14 09:27:40 - INFO - Successfully sent message for ad: Wzmaczniacz excursion
+2025-06-14 09:27:40 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
