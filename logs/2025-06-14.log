@@ -60,3 +60,16 @@
 2025-06-14 10:26:05 - INFO - Знайдено старих оголошень: 285
 2025-06-14 10:26:21 - INFO - Знайдено актуальних оголошень: 0
 2025-06-14 10:26:21 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-06-14 11:19:23 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-14 11:19:23 - INFO - Знайдено старих оголошень: 662
+2025-06-14 11:19:26 - INFO - NEW {'title': 'Subwoofer Magnat Monitor 300A', 'link': 'https://www.olx.pl/d/oferta/subwoofer-magnat-monitor-300a-CID99-ID16epyF.html', 'price': '850 zł', 'status': 'active', 'date_found': '2025-06-14 11:19', 'date_removed': None, 'description': 'Subwoofer Magnat Monitor 300A. Używany. Doskonałe rozszerzenie niskich częstotliwości w Twoim systemie dźwiękowym. Idealny do odtwarzania muzyki oraz filmów. Zapewnia głębokie basy i dynamiczne brzmienie. Doskonały wybór dla miłośników wysokiej jakości dźwięku.', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/dloa198rw03i2-PL/image;s=768x1024', 'https://ireland.apollo.olxcdn.com:443/v1/files/i2du4gxlvdeq1-PL/image;s=1536x1788', 'https://ireland.apollo.olxcdn.com:443/v1/files/chsmcbij1zpf3-PL/image;s=768x1024', 'https://ireland.apollo.olxcdn.com:443/v1/files/7tqqprlaoq0r3-PL/image;s=1536x1692'], 'published_date': '2025-06-14 o 10:32', 'location': ''}
+2025-06-14 11:19:26 - INFO - Parsed page 1, found 1 new ads.
+2025-06-14 11:19:35 - INFO - Last page 4 is the same as this page. Stopping.
+2025-06-14 11:19:35 - INFO - Знайдено актуальних оголошень: 1
+2025-06-14 11:19:35 - INFO - Додаємо https://www.olx.pl/d/oferta/subwoofer-magnat-monitor-300a-CID99-ID16epyF.html.
+2025-06-14 11:19:44 - INFO - Successfully sent message for ad: Subwoofer Magnat Monitor 300A
+2025-06-14 11:19:44 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-14 11:19:44 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-14 11:19:44 - INFO - Знайдено старих оголошень: 285
+2025-06-14 11:20:05 - INFO - Знайдено актуальних оголошень: 0
+2025-06-14 11:20:05 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
