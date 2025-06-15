@@ -156,3 +156,16 @@
 2025-06-15 19:19:59 - INFO - Знайдено старих оголошень: 291
 2025-06-15 19:20:17 - INFO - Знайдено актуальних оголошень: 0
 2025-06-15 19:20:17 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-06-15 20:26:57 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-15 20:26:57 - INFO - Знайдено старих оголошень: 666
+2025-06-15 20:27:07 - INFO - Last page 4 is the same as this page. Stopping.
+2025-06-15 20:27:07 - INFO - Знайдено актуальних оголошень: 0
+2025-06-15 20:27:07 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-15 20:27:07 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-15 20:27:07 - INFO - Знайдено старих оголошень: 291
+2025-06-15 20:27:13 - INFO - NEW {'title': 'Głośnik nowy nie używany The Box Pam12 Eco MKII', 'link': 'https://www.olx.pl/d/oferta/glosnik-nowy-nie-uzywany-the-box-pam12-eco-mkii-CID99-ID16anJL.html?reason=extended_search_extended_s2v', 'price': '300 zł', 'status': 'active', 'date_found': '2025-06-15 20:27', 'date_removed': None, 'description': 'Sprzedam nowy nie używany głośnik firmy The Box Pam 12 eco mkII. Głośnik kupiony w sklepie Thomann. Sprzedaje bo niestety nie mogę oddać go do sklepu - minęło 30 dni zwrotu.', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/ezz07tbhu9583-PL/image;s=1000x750', 'https://ireland.apollo.olxcdn.com:443/v1/files/bgnft0owrt1u1-PL/image;s=750x1000', 'https://ireland.apollo.olxcdn.com:443/v1/files/utj2tjb9k4z7-PL/image;s=1000x750', 'https://ireland.apollo.olxcdn.com:443/v1/files/3vlqp7f8bxqq3-PL/image;s=1000x750', 'https://ireland.apollo.olxcdn.com:443/v1/files/3fi92tmqb3fu2-PL/image;s=461x1000'], 'published_date': '09 czerwca 2025', 'location': ''}
+2025-06-15 20:27:13 - INFO - Parsed page 2, found 1 new ads.
+2025-06-15 20:27:24 - INFO - Знайдено актуальних оголошень: 1
+2025-06-15 20:27:24 - INFO - Додаємо https://www.olx.pl/d/oferta/glosnik-nowy-nie-uzywany-the-box-pam12-eco-mkii-CID99-ID16anJL.html?reason=extended_search_extended_s2v.
+2025-06-15 20:27:38 - INFO - Successfully sent message for ad: Głośnik nowy nie używany The Box Pam12 Eco MKII
+2025-06-15 20:27:38 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
