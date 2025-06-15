@@ -1,0 +1,13 @@
+2025-06-15 03:54:38 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-15 03:54:38 - INFO - Знайдено старих оголошень: 664
+2025-06-15 03:54:51 - INFO - Last page 4 is the same as this page. Stopping.
+2025-06-15 03:54:51 - INFO - Знайдено актуальних оголошень: 0
+2025-06-15 03:54:51 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-15 03:54:51 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-15 03:54:51 - INFO - Знайдено старих оголошень: 287
+2025-06-15 03:54:57 - INFO - NEW {'title': 'Subwoofer Głośnik 30cm 12" VIBE SLICK12D2 500W RMS 2x2 ohm', 'link': 'https://www.olx.pl/d/oferta/subwoofer-glosnik-30cm-12-vibe-slick12d2-500w-rms-2x2-ohm-CID99-ID169i2c.html?reason=extended_search_extended_s2v', 'price': '350 zł', 'status': 'active', 'date_found': '2025-06-15 03:54', 'date_removed': None, 'description': 'Używany niespełna miesiąc, od tamtej pory leżyGłośnik jest jak NOWY!Model: SLICK12D2-V3Średnica głośnika: 12"/323mmMoc: 1500W / 450W RMSSkuteczność: 86dBPasmo przenoszenia: 25Hz - 850HzImpedancja: 2x2 OHMŚrednica cewki: 2" (4 warstwy)Magnes: 44ozWymiary magnesu: 5.7" (145mm) / x 0.8" (20mm)Głębokość montażowa: 5.8" (147mm)Średnica montażowa: 10.9" (277mm)Zalecana obudowa: Wentylowana 42-70LGłośnik aktualnie jest w obudowie KTÓRA JEST DO WYMIANY!Możliwa wysyłka samego głośnika bądź odbiór osobisty lub dowóz z mojej strony +100km od KrakowaCena za sam głośnik, obudowa gratis ze względu na jej stan', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/ofy8388fmete2-PL/image;s=2560x2560', 'https://ireland.apollo.olxcdn.com:443/v1/files/gqgs4fpbvwtd1-PL/image;s=720x720', 'https://ireland.apollo.olxcdn.com:443/v1/files/vund35bjn6j8-PL/image;s=720x720', 'https://ireland.apollo.olxcdn.com:443/v1/files/a3jk4i2xciqo2-PL/image;s=1536x2048', 'https://ireland.apollo.olxcdn.com:443/v1/files/t6ofls2tiv4c1-PL/image;s=1536x2048'], 'published_date': '08 czerwca 2025', 'location': ''}
+2025-06-15 03:54:57 - INFO - Parsed page 2, found 1 new ads.
+2025-06-15 03:55:08 - INFO - Знайдено актуальних оголошень: 1
+2025-06-15 03:55:08 - INFO - Додаємо https://www.olx.pl/d/oferta/subwoofer-glosnik-30cm-12-vibe-slick12d2-500w-rms-2x2-ohm-CID99-ID169i2c.html?reason=extended_search_extended_s2v.
+2025-06-15 03:55:21 - INFO - Successfully sent message for ad: Subwoofer Głośnik 30cm 12" VIBE SLICK12D2 500W RMS 2x2 ohm
+2025-06-15 03:55:21 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
