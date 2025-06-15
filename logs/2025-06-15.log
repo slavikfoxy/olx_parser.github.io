@@ -54,3 +54,16 @@
 2025-06-15 09:25:55 - INFO - Знайдено старих оголошень: 288
 2025-06-15 09:26:12 - INFO - Знайдено актуальних оголошень: 0
 2025-06-15 09:26:12 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-06-15 10:27:51 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-15 10:27:51 - INFO - Знайдено старих оголошень: 666
+2025-06-15 10:28:05 - INFO - Last page 4 is the same as this page. Stopping.
+2025-06-15 10:28:05 - INFO - Знайдено актуальних оголошень: 0
+2025-06-15 10:28:05 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-15 10:28:05 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-15 10:28:05 - INFO - Знайдено старих оголошень: 288
+2025-06-15 10:28:09 - INFO - NEW {'title': 'Wzmaczniacz SPL 400 2x200W', 'link': 'https://www.olx.pl/d/oferta/wzmaczniacz-spl-400-2x200w-CID99-ID16eZK4.html', 'price': '300 zł', 'status': 'active', 'date_found': '2025-06-15 10:28', 'date_removed': None, 'description': 'Sprzedam wzmacniacz SPL 400 2x200W. W pełni sprawny, używany jedynie w domu. Nigdy nie wykorzystałem jego pełnego potencjału.Wszystkie parametry techniczne dostępne do sprawdzenia w internecie.Odbiór osobisty lub wysyłka.', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/w2nr3h9yrwmq2-PL/image;s=1000x750', 'https://ireland.apollo.olxcdn.com:443/v1/files/th1c7zwc4u38-PL/image;s=1000x750', 'https://ireland.apollo.olxcdn.com:443/v1/files/d98cl1bq3rbu3-PL/image;s=1000x750'], 'published_date': '2025-06-15 o 09:56', 'location': ''}
+2025-06-15 10:28:09 - INFO - Parsed page 1, found 1 new ads.
+2025-06-15 10:28:24 - INFO - Знайдено актуальних оголошень: 1
+2025-06-15 10:28:24 - INFO - Додаємо https://www.olx.pl/d/oferta/wzmaczniacz-spl-400-2x200w-CID99-ID16eZK4.html.
+2025-06-15 10:28:32 - INFO - Successfully sent message for ad: Wzmaczniacz SPL 400 2x200W
+2025-06-15 10:28:32 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
