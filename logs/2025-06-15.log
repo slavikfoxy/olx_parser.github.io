@@ -11,3 +11,12 @@
 2025-06-15 03:55:08 - INFO - Додаємо https://www.olx.pl/d/oferta/subwoofer-glosnik-30cm-12-vibe-slick12d2-500w-rms-2x2-ohm-CID99-ID169i2c.html?reason=extended_search_extended_s2v.
 2025-06-15 03:55:21 - INFO - Successfully sent message for ad: Subwoofer Głośnik 30cm 12" VIBE SLICK12D2 500W RMS 2x2 ohm
 2025-06-15 03:55:21 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-06-15 06:34:55 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-15 06:34:55 - INFO - Знайдено старих оголошень: 664
+2025-06-15 06:35:04 - INFO - Last page 4 is the same as this page. Stopping.
+2025-06-15 06:35:04 - INFO - Знайдено актуальних оголошень: 0
+2025-06-15 06:35:05 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-15 06:35:05 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-15 06:35:05 - INFO - Знайдено старих оголошень: 288
+2025-06-15 06:35:21 - INFO - Знайдено актуальних оголошень: 0
+2025-06-15 06:35:21 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
