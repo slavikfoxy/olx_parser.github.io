@@ -112,3 +112,20 @@
 2025-06-15 15:25:12 - INFO - Знайдено старих оголошень: 289
 2025-06-15 15:25:38 - INFO - Знайдено актуальних оголошень: 0
 2025-06-15 15:25:38 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-06-15 16:30:07 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-15 16:30:07 - INFO - Знайдено старих оголошень: 666
+2025-06-15 16:30:18 - INFO - Last page 4 is the same as this page. Stopping.
+2025-06-15 16:30:18 - INFO - Знайдено актуальних оголошень: 0
+2025-06-15 16:30:18 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-15 16:30:18 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-15 16:30:18 - INFO - Знайдено старих оголошень: 289
+2025-06-15 16:30:21 - INFO - NEW {'title': 'Wzmaczniacz Akai 2650', 'link': 'https://www.olx.pl/d/oferta/wzmaczniacz-akai-2650-CID99-ID16feMv.html', 'price': '1 400 zł', 'status': 'active', 'date_found': '2025-06-15 16:30', 'date_removed': None, 'description': 'Witam posiadam na sprzedaż wzmacniacz marki Akai seria 2650 w stanie nie znanym przez co sprzedaje jako uszkodzony', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/pxh4ldlipsat-PL/image;s=2000x1500', 'https://ireland.apollo.olxcdn.com:443/v1/files/p41ryx4la9qo2-PL/image;s=2000x1500', 'https://ireland.apollo.olxcdn.com:443/v1/files/349h0tsw8v622-PL/image;s=2000x1500', 'https://ireland.apollo.olxcdn.com:443/v1/files/m4bc680k7i5i-PL/image;s=2000x1500', 'https://ireland.apollo.olxcdn.com:443/v1/files/0p8e6snc1g591-PL/image;s=2000x1500', 'https://ireland.apollo.olxcdn.com:443/v1/files/idybl4x9o00m1-PL/image;s=2000x1500', 'https://ireland.apollo.olxcdn.com:443/v1/files/u34uhg89pqcb3-PL/image;s=2000x1500', 'https://ireland.apollo.olxcdn.com:443/v1/files/u35f54y9pm723-PL/image;s=2000x1500'], 'published_date': '2025-06-15 o 15:19', 'location': ''}
+2025-06-15 16:30:21 - INFO - Parsed page 1, found 1 new ads.
+2025-06-15 16:30:25 - INFO - NEW {'title': 'Głośnik Wharfedale Evolution^2 Centre + Subwoofer PowerCube 12A', 'link': 'https://www.olx.pl/d/oferta/glosnik-wharfedale-evolution2-centre-subwoofer-powercube-12a-CID99-ID16a8SQ.html?reason=extended_search_extended_s2v', 'price': '2 500 zł', 'status': 'active', 'date_found': '2025-06-15 16:30', 'date_removed': None, 'description': 'Głośnik centralny Wharfedale Evolution² Centre + subwoofer Wharfedale PowerCube 12A:Na sprzedaż:-Głośnik centralny Wharfedale Evolution² Centre-Subwoofer aktywny Wharfedale Powercube (model widoczny na zdjęciu)Sprzęt w bardzo dobrym stanie – zadbany, w pełni sprawny, gotowy do odsłuchu.Istnieje możliwość zakupienia pełnego zestawu Wharfedale widocznego na zdjęciu.Zainteresowanych proszę o kontakt – chętnie udzielę więcej informacji.', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/v3c4exarse9q-PL/image;s=810x1080', 'https://ireland.apollo.olxcdn.com:443/v1/files/7e5rupz6x1fi3-PL/image;s=810x1080', 'https://ireland.apollo.olxcdn.com:443/v1/files/fknlv24coie61-PL/image;s=810x1080', 'https://ireland.apollo.olxcdn.com:443/v1/files/ojstt77048b42-PL/image;s=810x1080', 'https://ireland.apollo.olxcdn.com:443/v1/files/su377gtmg22d-PL/image;s=810x1080', 'https://ireland.apollo.olxcdn.com:443/v1/files/9um85kdnbrcg1-PL/image;s=810x1080'], 'published_date': '09 czerwca 2025', 'location': ''}
+2025-06-15 16:30:25 - INFO - Parsed page 2, found 1 new ads.
+2025-06-15 16:30:35 - INFO - Знайдено актуальних оголошень: 2
+2025-06-15 16:30:35 - INFO - Додаємо https://www.olx.pl/d/oferta/wzmaczniacz-akai-2650-CID99-ID16feMv.html.
+2025-06-15 16:30:48 - INFO - Successfully sent message for ad: Wzmaczniacz Akai 2650
+2025-06-15 16:30:48 - INFO - Додаємо https://www.olx.pl/d/oferta/glosnik-wharfedale-evolution2-centre-subwoofer-powercube-12a-CID99-ID16a8SQ.html?reason=extended_search_extended_s2v.
+2025-06-15 16:30:58 - INFO - Successfully sent message for ad: Głośnik Wharfedale Evolution^2 Centre + Subwoofer PowerCube 12A
+2025-06-15 16:30:58 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
