@@ -152,3 +152,20 @@
 2025-06-16 19:20:56 - INFO - Знайдено старих оголошень: 294
 2025-06-16 19:21:13 - INFO - Знайдено актуальних оголошень: 0
 2025-06-16 19:21:13 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-06-16 20:28:52 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-16 20:28:52 - INFO - Знайдено старих оголошень: 669
+2025-06-16 20:28:56 - INFO - NEW {'title': 'Subwoofer Magnat B30', 'link': 'https://www.olx.pl/d/oferta/subwoofer-magnat-b30-CID99-ID16giyE.html', 'price': '220 zł', 'status': 'active', 'date_found': '2025-06-16 20:28', 'date_removed': None, 'description': 'Do sprzedania używany w pełni sprawny subwoofer Magnat B30. Głośnik mało używany w bardzo dobrym stanie technicznym i wizualnym.Parametry:- Rozmiar głosnika: 300 mm- Moc Max: 800 W- Moc RMS: 250 W- Skuteczność: 91 dB- Pasmo przenoszenia: 25 - 250 Hz- Impedancja: 4 Ohm- Wymiary: 430 x 390 x 355 mmMożliwa wysyłka.', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/v6xaabx8vtl4-PL/image;s=1368x1170', 'https://ireland.apollo.olxcdn.com:443/v1/files/4ogc9cb3hc9k1-PL/image;s=1236x996', 'https://ireland.apollo.olxcdn.com:443/v1/files/qkgedbf6bgd5-PL/image;s=1368x1202', 'https://ireland.apollo.olxcdn.com:443/v1/files/oqfhg3od0yth-PL/image;s=1368x1824'], 'published_date': '2025-06-16 o 20:03', 'location': ''}
+2025-06-16 20:28:56 - INFO - Parsed page 1, found 1 new ads.
+2025-06-16 20:29:05 - INFO - Last page 4 is the same as this page. Stopping.
+2025-06-16 20:29:05 - INFO - Знайдено актуальних оголошень: 1
+2025-06-16 20:29:05 - INFO - Додаємо https://www.olx.pl/d/oferta/subwoofer-magnat-b30-CID99-ID16giyE.html.
+2025-06-16 20:29:14 - INFO - Successfully sent message for ad: Subwoofer Magnat B30
+2025-06-16 20:29:14 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-16 20:29:14 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-16 20:29:14 - INFO - Знайдено старих оголошень: 294
+2025-06-16 20:29:24 - INFO - NEW {'title': 'Glośnik celestion G 12 T 75 Zamienie', 'link': 'https://www.olx.pl/d/oferta/glosnik-celestion-g-12-t-75-zamienie-CID99-ID1385Cj.html?reason=extended_search_extended_s2v', 'price': '350 zł', 'status': 'active', 'date_found': '2025-06-16 20:29', 'date_removed': None, 'description': 'Sprzedam głośnik celestion G12-T75, 100% sprawny, 16ohm', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/qrcxfhhfjy7l3-PL/image;s=720x1600'], 'published_date': '22 maja 2025', 'location': ''}
+2025-06-16 20:29:24 - INFO - Parsed page 4, found 1 new ads.
+2025-06-16 20:29:29 - INFO - Знайдено актуальних оголошень: 1
+2025-06-16 20:29:29 - INFO - Додаємо https://www.olx.pl/d/oferta/glosnik-celestion-g-12-t-75-zamienie-CID99-ID1385Cj.html?reason=extended_search_extended_s2v.
+2025-06-16 20:29:30 - INFO - Successfully sent message for ad: Glośnik celestion G 12 T 75 Zamienie
+2025-06-16 20:29:30 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
