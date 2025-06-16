@@ -169,3 +169,12 @@
 2025-06-16 20:29:29 - INFO - Додаємо https://www.olx.pl/d/oferta/glosnik-celestion-g-12-t-75-zamienie-CID99-ID1385Cj.html?reason=extended_search_extended_s2v.
 2025-06-16 20:29:30 - INFO - Successfully sent message for ad: Glośnik celestion G 12 T 75 Zamienie
 2025-06-16 20:29:30 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-06-16 21:25:00 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-16 21:25:00 - INFO - Знайдено старих оголошень: 670
+2025-06-16 21:25:13 - INFO - Last page 4 is the same as this page. Stopping.
+2025-06-16 21:25:13 - INFO - Знайдено актуальних оголошень: 0
+2025-06-16 21:25:13 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-16 21:25:13 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-16 21:25:13 - INFO - Знайдено старих оголошень: 295
+2025-06-16 21:25:29 - INFO - Знайдено актуальних оголошень: 0
+2025-06-16 21:25:29 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
