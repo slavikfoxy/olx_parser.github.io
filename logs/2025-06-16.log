@@ -139,3 +139,16 @@
 2025-06-16 18:37:10 - INFO - Знайдено старих оголошень: 294
 2025-06-16 18:37:30 - INFO - Знайдено актуальних оголошень: 0
 2025-06-16 18:37:30 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-06-16 19:20:29 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-16 19:20:29 - INFO - Знайдено старих оголошень: 668
+2025-06-16 19:20:34 - INFO - NEW {'title': 'Głośnik Magnat Power Bull 3000', 'link': 'https://www.olx.pl/d/oferta/glosnik-magnat-power-bull-3000-CID99-ID16gboP.html', 'price': '200 zł', 'status': 'active', 'date_found': '2025-06-16 19:20', 'date_removed': None, 'description': 'WitamNa sprzedaż głośnik basowy Magnat Power Bull 3000. Stan oceniam na bardzo dobry, lekkie wrzerki na gumie ale bez dziur.Zapraszam', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/qfwh4l9x5wem2-PL/image;s=1024x768', 'https://ireland.apollo.olxcdn.com:443/v1/files/z98kvmn3x2b7-PL/image;s=1024x768', 'https://ireland.apollo.olxcdn.com:443/v1/files/cpgcvtbmdq0j3-PL/image;s=1024x768', 'https://ireland.apollo.olxcdn.com:443/v1/files/020miia3hre82-PL/image;s=1024x768', 'https://ireland.apollo.olxcdn.com:443/v1/files/kw69buz9oyp1-PL/image;s=1024x768', 'https://ireland.apollo.olxcdn.com:443/v1/files/m9i8c1a4j5dd1-PL/image;s=1440x1518'], 'published_date': '2025-06-16 o 18:11', 'location': ''}
+2025-06-16 19:20:34 - INFO - Parsed page 1, found 1 new ads.
+2025-06-16 19:20:44 - INFO - Last page 4 is the same as this page. Stopping.
+2025-06-16 19:20:44 - INFO - Знайдено актуальних оголошень: 1
+2025-06-16 19:20:44 - INFO - Додаємо https://www.olx.pl/d/oferta/glosnik-magnat-power-bull-3000-CID99-ID16gboP.html.
+2025-06-16 19:20:56 - INFO - Successfully sent message for ad: Głośnik Magnat Power Bull 3000
+2025-06-16 19:20:56 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-16 19:20:56 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-16 19:20:56 - INFO - Знайдено старих оголошень: 294
+2025-06-16 19:21:13 - INFO - Знайдено актуальних оголошень: 0
+2025-06-16 19:21:13 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
