@@ -61,3 +61,16 @@
 2025-06-17 11:22:54 - INFO - Знайдено старих оголошень: 295
 2025-06-17 11:23:10 - INFO - Знайдено актуальних оголошень: 0
 2025-06-17 11:23:10 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-06-17 12:55:44 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-17 12:55:44 - INFO - Знайдено старих оголошень: 670
+2025-06-17 12:55:56 - INFO - Last page 4 is the same as this page. Stopping.
+2025-06-17 12:55:56 - INFO - Знайдено актуальних оголошень: 0
+2025-06-17 12:55:56 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-17 12:55:56 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-17 12:55:56 - INFO - Знайдено старих оголошень: 295
+2025-06-17 12:56:02 - INFO - NEW {'title': 'Piec Combo T Amp 80W do keyboardu, gitary itp.Głośnik 12 " Celestion', 'link': 'https://www.olx.pl/d/oferta/piec-combo-t-amp-80w-do-keyboardu-gitary-itp-glosnik-12-celestion-CID99-ID16bvUn.html?reason=extended_search_extended_s2v', 'price': '450 zł', 'status': 'active', 'date_found': '2025-06-17 12:56', 'date_removed': None, 'description': 'Sprzedam używane Combo T Amp 80W do keyboardu, gitary lub basu. Posiada b. dobry głośnik Celestion 12" oraz drugi wysokotonowy. Cztery kanały wejścia, gniazda do podłączenia odbiorników, mixer, reverb oraz gniazda na efekty itp. Zainstalowany na kółkach z rączką walizkową, posiada pokrowiec.Wszystko sprawne, działa. Preferowany odbiór osobisty.', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/yzobuo82ynie2-PL/image;s=3072x4096', 'https://ireland.apollo.olxcdn.com:443/v1/files/5yfyjk4b4kl52-PL/image;s=4096x3072', 'https://ireland.apollo.olxcdn.com:443/v1/files/2u4v9nj2ctim1-PL/image;s=2365x4208', 'https://ireland.apollo.olxcdn.com:443/v1/files/75f99mdtguyn3-PL/image;s=3072x4096', 'https://ireland.apollo.olxcdn.com:443/v1/files/6onugizwci6e-PL/image;s=3072x4096', 'https://ireland.apollo.olxcdn.com:443/v1/files/faro6ta6ci7p2-PL/image;s=3072x4096', 'https://ireland.apollo.olxcdn.com:443/v1/files/xq74nc26tybi1-PL/image;s=3072x4096', 'https://ireland.apollo.olxcdn.com:443/v1/files/jw5uqru513oo3-PL/image;s=4096x3072'], 'published_date': '10 czerwca 2025', 'location': ''}
+2025-06-17 12:56:02 - INFO - Parsed page 2, found 1 new ads.
+2025-06-17 12:56:13 - INFO - Знайдено актуальних оголошень: 1
+2025-06-17 12:56:13 - INFO - Додаємо https://www.olx.pl/d/oferta/piec-combo-t-amp-80w-do-keyboardu-gitary-itp-glosnik-12-celestion-CID99-ID16bvUn.html?reason=extended_search_extended_s2v.
+2025-06-17 12:56:24 - INFO - Successfully sent message for ad: Piec Combo T Amp 80W do keyboardu, gitary itp.Głośnik 12 " Celestion
+2025-06-17 12:56:24 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
