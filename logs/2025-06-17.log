@@ -83,3 +83,16 @@
 2025-06-17 13:37:59 - INFO - Знайдено старих оголошень: 296
 2025-06-17 13:38:15 - INFO - Знайдено актуальних оголошень: 0
 2025-06-17 13:38:15 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-06-17 14:27:31 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-17 14:27:31 - INFO - Знайдено старих оголошень: 670
+2025-06-17 14:27:45 - INFO - Last page 4 is the same as this page. Stopping.
+2025-06-17 14:27:45 - INFO - Знайдено актуальних оголошень: 0
+2025-06-17 14:27:45 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-17 14:27:45 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-17 14:27:45 - INFO - Знайдено старих оголошень: 296
+2025-06-17 14:27:48 - INFO - NEW {'title': 'Wzmaczniacz WM 5123', 'link': 'https://www.olx.pl/d/oferta/wzmaczniacz-wm-5123-CID99-ID16gRyZ.html', 'price': '200 zł', 'status': 'active', 'date_found': '2025-06-17 14:27', 'date_removed': None, 'description': 'Działa do dziś, zawsze najlepiej odsłuchać ale mogę również wysłać', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/e3mrnioau0xu1-PL/image;s=750x1000', 'https://ireland.apollo.olxcdn.com:443/v1/files/vwh0goh0lvel2-PL/image;s=750x1000', 'https://ireland.apollo.olxcdn.com:443/v1/files/9ln3ze9uv5pl2-PL/image;s=750x1000', 'https://ireland.apollo.olxcdn.com:443/v1/files/gsxdl78pm0cm-PL/image;s=750x1000', 'https://ireland.apollo.olxcdn.com:443/v1/files/x2rk83ysgdtu2-PL/image;s=750x1000'], 'published_date': '2025-06-17 o 14:03', 'location': ''}
+2025-06-17 14:27:48 - INFO - Parsed page 1, found 1 new ads.
+2025-06-17 14:28:03 - INFO - Знайдено актуальних оголошень: 1
+2025-06-17 14:28:03 - INFO - Додаємо https://www.olx.pl/d/oferta/wzmaczniacz-wm-5123-CID99-ID16gRyZ.html.
+2025-06-17 14:28:17 - INFO - Successfully sent message for ad: Wzmaczniacz WM 5123
+2025-06-17 14:28:17 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
