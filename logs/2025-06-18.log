@@ -132,3 +132,16 @@
 2025-06-18 18:37:34 - INFO - Додаємо https://www.olx.pl/d/oferta/wzmacniacz-konc-mocy-topping-la-90discrete-2x120w-1x200w-CID99-ID15Cd4E.html?reason=extended_search_extended_s2v.
 2025-06-18 18:37:46 - INFO - Successfully sent message for ad: Wzmacniacz/końc. mocy  TOPPING LA 90Discrete  2x120W/ 1x200W
 2025-06-18 18:37:46 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-06-18 19:20:49 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-18 19:20:49 - INFO - Знайдено старих оголошень: 672
+2025-06-18 19:21:01 - INFO - Last page 4 is the same as this page. Stopping.
+2025-06-18 19:21:01 - INFO - Знайдено актуальних оголошень: 0
+2025-06-18 19:21:01 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-18 19:21:01 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-18 19:21:01 - INFO - Знайдено старих оголошень: 300
+2025-06-18 19:21:04 - INFO - NEW {'title': 'Wzmaczniacz Technics A 700 Mk 2', 'link': 'https://www.olx.pl/d/oferta/wzmaczniacz-technics-a-700-mk-2-CID99-ID16hN2f.html', 'price': '800 zł', 'status': 'active', 'date_found': '2025-06-18 19:21', 'date_removed': None, 'description': 'Wzmaczniascz Technics  A 700 Mk2  normalne slady uzytkowania w komplecie pilot i kabel.sieciowy .odbior osobisty w Krakowie,  mozna sprawdzic na miejscu zapraszam do zakupu,', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/8up2rnjakcbl2-PL/image;s=3024x4032', 'https://ireland.apollo.olxcdn.com:443/v1/files/h3jgl79tclso1-PL/image;s=3024x4032', 'https://ireland.apollo.olxcdn.com:443/v1/files/q2jywdjkgxth3-PL/image;s=3024x4032'], 'published_date': '2025-06-18 o 10:42', 'location': ''}
+2025-06-18 19:21:04 - INFO - Parsed page 1, found 1 new ads.
+2025-06-18 19:21:19 - INFO - Знайдено актуальних оголошень: 1
+2025-06-18 19:21:19 - INFO - Додаємо https://www.olx.pl/d/oferta/wzmaczniacz-technics-a-700-mk-2-CID99-ID16hN2f.html.
+2025-06-18 19:21:27 - INFO - Successfully sent message for ad: Wzmaczniacz Technics A 700 Mk 2
+2025-06-18 19:21:27 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
