@@ -145,3 +145,12 @@
 2025-06-18 19:21:19 - INFO - Додаємо https://www.olx.pl/d/oferta/wzmaczniacz-technics-a-700-mk-2-CID99-ID16hN2f.html.
 2025-06-18 19:21:27 - INFO - Successfully sent message for ad: Wzmaczniacz Technics A 700 Mk 2
 2025-06-18 19:21:27 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-06-18 20:30:09 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-18 20:30:09 - INFO - Знайдено старих оголошень: 672
+2025-06-18 20:30:23 - INFO - Last page 4 is the same as this page. Stopping.
+2025-06-18 20:30:23 - INFO - Знайдено актуальних оголошень: 0
+2025-06-18 20:30:23 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-18 20:30:23 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-18 20:30:23 - INFO - Знайдено старих оголошень: 301
+2025-06-18 20:30:41 - INFO - Знайдено актуальних оголошень: 0
+2025-06-18 20:30:41 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
