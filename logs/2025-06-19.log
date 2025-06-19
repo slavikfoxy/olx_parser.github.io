@@ -113,3 +113,12 @@
 2025-06-19 14:26:30 - INFO - Додаємо https://www.olx.pl/d/oferta/amplituner-yamaha-rx-v667-7-2-stan-idelany-pilot-arc-hdmi-wzmacniacz-CID99-ID163Hvp.html?reason=extended_search_extended_s2v.
 2025-06-19 14:26:41 - INFO - Successfully sent message for ad: Amplituner Yamaha RX-V667 7.2 Stan idelany Pilot ARC HDMI Wzmacniacz
 2025-06-19 14:26:41 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-06-19 15:27:45 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-19 15:27:45 - INFO - Знайдено старих оголошень: 673
+2025-06-19 15:27:59 - INFO - Last page 4 is the same as this page. Stopping.
+2025-06-19 15:27:59 - INFO - Знайдено актуальних оголошень: 0
+2025-06-19 15:27:59 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-19 15:27:59 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-19 15:27:59 - INFO - Знайдено старих оголошень: 306
+2025-06-19 15:28:16 - INFO - Знайдено актуальних оголошень: 0
+2025-06-19 15:28:16 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
