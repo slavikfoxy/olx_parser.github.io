@@ -74,3 +74,20 @@
 2025-06-19 11:23:09 - INFO - Знайдено старих оголошень: 304
 2025-06-19 11:23:27 - INFO - Знайдено актуальних оголошень: 0
 2025-06-19 11:23:27 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-06-19 12:54:33 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-19 12:54:33 - INFO - Знайдено старих оголошень: 672
+2025-06-19 12:54:36 - INFO - NEW {'title': 'MAGNAT kolumny stereo sprawne', 'link': 'https://www.olx.pl/d/oferta/magnat-kolumny-stereo-sprawne-CID99-ID16iACm.html', 'price': '299 zł', 'status': 'active', 'date_found': '2025-06-19 12:54', 'date_removed': None, 'description': 'Sprzedam używane kolumny stereo MAGNAT w pełni sprawne. Doskonałe brzmienie i jakość dźwięku. Idealne do domowego kina lub słuchania muzyki ,ślady używania widoczne na zdjęciach najlepiej odbiór osobisty', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/3xw12fzqoo14-PL/image;s=2000x3552', 'https://ireland.apollo.olxcdn.com:443/v1/files/3u9i8lsd94zt-PL/image;s=2000x3552', 'https://ireland.apollo.olxcdn.com:443/v1/files/8k4q8ylf6m6a2-PL/image;s=2000x3552', 'https://ireland.apollo.olxcdn.com:443/v1/files/scun8v0tmf0a2-PL/image;s=2000x3552', 'https://ireland.apollo.olxcdn.com:443/v1/files/beszmy3qg05z1-PL/image;s=2000x3552', 'https://ireland.apollo.olxcdn.com:443/v1/files/2k7hr2v77yp8-PL/image;s=2000x3552', 'https://ireland.apollo.olxcdn.com:443/v1/files/zvh84ivfffa12-PL/image;s=2000x3552'], 'published_date': '2025-06-19 o 11:46', 'location': ''}
+2025-06-19 12:54:36 - INFO - Parsed page 1, found 1 new ads.
+2025-06-19 12:54:43 - INFO - Last page 4 is the same as this page. Stopping.
+2025-06-19 12:54:43 - INFO - Знайдено актуальних оголошень: 1
+2025-06-19 12:54:43 - INFO - Додаємо https://www.olx.pl/d/oferta/magnat-kolumny-stereo-sprawne-CID99-ID16iACm.html.
+2025-06-19 12:54:54 - INFO - Successfully sent message for ad: MAGNAT kolumny stereo sprawne
+2025-06-19 12:54:54 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-19 12:54:54 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-19 12:54:54 - INFO - Знайдено старих оголошень: 304
+2025-06-19 12:55:00 - INFO - NEW {'title': 'Głośnik GO-SOUND 12AM (używany) z pokrowcem do transportu', 'link': 'https://www.olx.pl/d/oferta/glosnik-go-sound-12am-uzywany-z-pokrowcem-do-transportu-CID99-ID168xjR.html?reason=extended_search_extended_s2v', 'price': '950 zł', 'status': 'active', 'date_found': '2025-06-19 12:54', 'date_removed': None, 'description': 'Używany głośnik GO-SOUND 12AM wraz z pokrowcem do transportu. Doskonały sprzęt dla miłośników muzyki w podróży. Dzięki praktycznemu pokrowcowi łatwo zabierzesz go ze sobą wszędzie. Idealny wybór dla osób aktywnych, ceniących mobilność i wysoką jakość dźwięku. USB, Bluetooth, Wejscie mikrofonowe, liniowe.', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/czdi4nww3fot1-PL/image;s=1536x2048', 'https://ireland.apollo.olxcdn.com:443/v1/files/ew8b8mu6cx2v1-PL/image;s=1536x2048', 'https://ireland.apollo.olxcdn.com:443/v1/files/pp2zfxurrhvm-PL/image;s=1536x2048'], 'published_date': '13 czerwca 2025', 'location': ''}
+2025-06-19 12:55:00 - INFO - Parsed page 2, found 1 new ads.
+2025-06-19 12:55:12 - INFO - Знайдено актуальних оголошень: 1
+2025-06-19 12:55:12 - INFO - Додаємо https://www.olx.pl/d/oferta/glosnik-go-sound-12am-uzywany-z-pokrowcem-do-transportu-CID99-ID168xjR.html?reason=extended_search_extended_s2v.
+2025-06-19 12:55:20 - INFO - Successfully sent message for ad: Głośnik GO-SOUND 12AM (używany) z pokrowcem do transportu
+2025-06-19 12:55:20 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
