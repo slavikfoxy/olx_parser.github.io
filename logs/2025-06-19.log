@@ -56,3 +56,12 @@
 2025-06-19 09:30:12 - INFO - Retrying in 32 seconds...
 2025-06-19 09:30:50 - INFO - Successfully sent message for ad: Maskownica, osłona metalowa, "grill" na głośnik 10"czyli 25,5cm
 2025-06-19 09:30:50 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-06-19 10:28:50 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-19 10:28:50 - INFO - Знайдено старих оголошень: 672
+2025-06-19 10:29:01 - INFO - Last page 4 is the same as this page. Stopping.
+2025-06-19 10:29:01 - INFO - Знайдено актуальних оголошень: 0
+2025-06-19 10:29:01 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-19 10:29:01 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-19 10:29:01 - INFO - Знайдено старих оголошень: 304
+2025-06-19 10:29:16 - INFO - Знайдено актуальних оголошень: 0
+2025-06-19 10:29:16 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
