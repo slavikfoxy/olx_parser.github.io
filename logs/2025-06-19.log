@@ -100,3 +100,16 @@
 2025-06-19 13:37:00 - INFO - Знайдено старих оголошень: 305
 2025-06-19 13:37:21 - INFO - Знайдено актуальних оголошень: 0
 2025-06-19 13:37:21 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-06-19 14:26:00 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-19 14:26:00 - INFO - Знайдено старих оголошень: 673
+2025-06-19 14:26:12 - INFO - Last page 4 is the same as this page. Stopping.
+2025-06-19 14:26:12 - INFO - Знайдено актуальних оголошень: 0
+2025-06-19 14:26:12 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-19 14:26:12 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-19 14:26:12 - INFO - Знайдено старих оголошень: 305
+2025-06-19 14:26:22 - INFO - NEW {'title': 'Amplituner Yamaha RX-V667 7.2 Stan idelany Pilot ARC HDMI Wzmacniacz', 'link': 'https://www.olx.pl/d/oferta/amplituner-yamaha-rx-v667-7-2-stan-idelany-pilot-arc-hdmi-wzmacniacz-CID99-ID163Hvp.html?reason=extended_search_extended_s2v', 'price': '649 zł', 'status': 'active', 'date_found': '2025-06-19 14:26', 'date_removed': None, 'description': 'Witam mam na sprzedaż amplituner Yamaha RX-V667 7.2 w idealnym stanie pilotem w 100% sprawny. Sprzęt posiada wiele wejść HDMI jak I jedno wyjście z ARC czyli z zwrotnym kanałem audio który pozwala na pełne komunikowanie z telewizorem i pełne przesyłanie dźwięku przestrzennego. Wyświetlacz jest bardzo czytelny, pokrętło głośności działa idealnie. Amplituner posiada wiele trybów przestrzennych, wiele wejść analogowych I cyfrowych w tym optyczne.Dane techniczne:Obraz Wejścia / wyjścia video HDMI/komponent/kompozyt/S-VideoSkaler 108Rodzaj AmplituneryIlość końcówek 7Moc 8 [Ω] (1% THD+N, 1 kHz) [W] 2K 145Moc 4 [Ω] (1% THD+N, 1 kHz) [W] 2K 204Dekodery surround D-TrueHD, DD, DD EX, DPLIIx,DTS ES, DTS Neo:6, DTS 96/24• Ceny do negocjacji• Odbiór osobisty Kielce i okolice• Ekspresowa wysyłka paczkomatem InPost• Szybki kontaktZachęcam do obejrzenia innych aukcji', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/2icb1zhv8fx71-PL/image;s=2000x1126', 'https://ireland.apollo.olxcdn.com:443/v1/files/rw5kcveaivfr1-PL/image;s=2000x1126', 'https://ireland.apollo.olxcdn.com:443/v1/files/uplhg165fs891-PL/image;s=2000x1126', 'https://ireland.apollo.olxcdn.com:443/v1/files/5oq6r8huckco-PL/image;s=2000x1126', 'https://ireland.apollo.olxcdn.com:443/v1/files/y1x1ym5e0lky-PL/image;s=2000x1126', 'https://ireland.apollo.olxcdn.com:443/v1/files/n9thprodnw3b2-PL/image;s=2000x1126', 'https://ireland.apollo.olxcdn.com:443/v1/files/rhs8ofl0nt0t3-PL/image;s=2000x1126'], 'published_date': '31 maja 2025', 'location': ''}
+2025-06-19 14:26:22 - INFO - Parsed page 3, found 1 new ads.
+2025-06-19 14:26:30 - INFO - Знайдено актуальних оголошень: 1
+2025-06-19 14:26:30 - INFO - Додаємо https://www.olx.pl/d/oferta/amplituner-yamaha-rx-v667-7-2-stan-idelany-pilot-arc-hdmi-wzmacniacz-CID99-ID163Hvp.html?reason=extended_search_extended_s2v.
+2025-06-19 14:26:41 - INFO - Successfully sent message for ad: Amplituner Yamaha RX-V667 7.2 Stan idelany Pilot ARC HDMI Wzmacniacz
+2025-06-19 14:26:41 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
