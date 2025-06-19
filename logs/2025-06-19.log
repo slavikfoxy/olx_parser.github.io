@@ -91,3 +91,12 @@
 2025-06-19 12:55:12 - INFO - Додаємо https://www.olx.pl/d/oferta/glosnik-go-sound-12am-uzywany-z-pokrowcem-do-transportu-CID99-ID168xjR.html?reason=extended_search_extended_s2v.
 2025-06-19 12:55:20 - INFO - Successfully sent message for ad: Głośnik GO-SOUND 12AM (używany) z pokrowcem do transportu
 2025-06-19 12:55:20 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-06-19 13:36:48 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-19 13:36:48 - INFO - Знайдено старих оголошень: 673
+2025-06-19 13:37:00 - INFO - Last page 4 is the same as this page. Stopping.
+2025-06-19 13:37:00 - INFO - Знайдено актуальних оголошень: 0
+2025-06-19 13:37:00 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-19 13:37:00 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-19 13:37:00 - INFO - Знайдено старих оголошень: 305
+2025-06-19 13:37:21 - INFO - Знайдено актуальних оголошень: 0
+2025-06-19 13:37:21 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
