@@ -109,3 +109,12 @@
 2025-06-20 16:32:47 - INFO - Додаємо https://www.olx.pl/d/oferta/wzmaczniacz-co100-2-audiosystem-CID99-ID16juru.html.
 2025-06-20 16:32:49 - INFO - Successfully sent message for ad: Wzmaczniacz co100.2 audiosystem
 2025-06-20 16:32:49 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-06-20 17:23:33 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-20 17:23:33 - INFO - Знайдено старих оголошень: 674
+2025-06-20 17:23:44 - INFO - Last page 4 is the same as this page. Stopping.
+2025-06-20 17:23:44 - INFO - Знайдено актуальних оголошень: 0
+2025-06-20 17:23:44 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-20 17:23:44 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-20 17:23:44 - INFO - Знайдено старих оголошень: 307
+2025-06-20 17:24:00 - INFO - Знайдено актуальних оголошень: 0
+2025-06-20 17:24:00 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
