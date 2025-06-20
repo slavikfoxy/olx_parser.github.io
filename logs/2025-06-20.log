@@ -136,3 +136,16 @@
 2025-06-20 19:20:34 - INFO - Знайдено старих оголошень: 307
 2025-06-20 19:20:51 - INFO - Знайдено актуальних оголошень: 0
 2025-06-20 19:20:51 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-06-20 20:28:22 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-20 20:28:22 - INFO - Знайдено старих оголошень: 674
+2025-06-20 20:28:25 - INFO - NEW {'title': 'Głośnik wysokotonowy magnat', 'link': 'https://www.olx.pl/d/oferta/glosnik-wysokotonowy-magnat-CID99-ID16jD8A.html', 'price': '100 zł', 'status': 'active', 'date_found': '2025-06-20 20:28', 'date_removed': None, 'description': 'Sprzedam 2 głośniki wysokotonowy magnat T13 M 450 GNoweśrednica 9cm', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/zhazf6w552593-PL/image;s=765x1020'], 'published_date': '2025-06-20 o 19:25', 'location': ''}
+2025-06-20 20:28:25 - INFO - Parsed page 1, found 1 new ads.
+2025-06-20 20:28:34 - INFO - Last page 4 is the same as this page. Stopping.
+2025-06-20 20:28:34 - INFO - Знайдено актуальних оголошень: 1
+2025-06-20 20:28:34 - INFO - Додаємо https://www.olx.pl/d/oferta/glosnik-wysokotonowy-magnat-CID99-ID16jD8A.html.
+2025-06-20 20:28:35 - INFO - Successfully sent message for ad: Głośnik wysokotonowy magnat
+2025-06-20 20:28:35 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-20 20:28:35 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-20 20:28:35 - INFO - Знайдено старих оголошень: 307
+2025-06-20 20:28:50 - INFO - Знайдено актуальних оголошень: 0
+2025-06-20 20:28:50 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
