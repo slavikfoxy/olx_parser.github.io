@@ -96,3 +96,16 @@
 2025-06-20 15:27:41 - INFO - Знайдено старих оголошень: 306
 2025-06-20 15:27:56 - INFO - Знайдено актуальних оголошень: 0
 2025-06-20 15:27:56 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-06-20 16:32:20 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-20 16:32:20 - INFO - Знайдено старих оголошень: 674
+2025-06-20 16:32:32 - INFO - Last page 4 is the same as this page. Stopping.
+2025-06-20 16:32:32 - INFO - Знайдено актуальних оголошень: 0
+2025-06-20 16:32:32 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-20 16:32:32 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-20 16:32:32 - INFO - Знайдено старих оголошень: 306
+2025-06-20 16:32:34 - INFO - NEW {'title': 'Wzmaczniacz co100.2 audiosystem', 'link': 'https://www.olx.pl/d/oferta/wzmaczniacz-co100-2-audiosystem-CID99-ID16juru.html', 'price': '350 zł', 'status': 'active', 'date_found': '2025-06-20 16:32', 'date_removed': None, 'description': 'Dzień dobrySprzedam używany wzmacniacz audio system c100.2Prawie przeze mnie nie używany bo kupiłem, ale skrzynka w bagażniku za dużo zajmuje2x 100W RMS przy 4 Ohm2x 160W RMS przy 2 Ohm !!!aż 320W RMS przy 4 Ohm w mostku!', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/m5y9eekm8x8u1-PL/image;s=1000x750'], 'published_date': '2025-06-20 o 15:43', 'location': ''}
+2025-06-20 16:32:34 - INFO - Parsed page 1, found 1 new ads.
+2025-06-20 16:32:47 - INFO - Знайдено актуальних оголошень: 1
+2025-06-20 16:32:47 - INFO - Додаємо https://www.olx.pl/d/oferta/wzmaczniacz-co100-2-audiosystem-CID99-ID16juru.html.
+2025-06-20 16:32:49 - INFO - Successfully sent message for ad: Wzmaczniacz co100.2 audiosystem
+2025-06-20 16:32:49 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
