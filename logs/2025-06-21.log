@@ -92,3 +92,16 @@
 2025-06-21 14:24:29 - INFO - Знайдено старих оголошень: 308
 2025-06-21 14:24:46 - INFO - Знайдено актуальних оголошень: 0
 2025-06-21 14:24:46 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-06-21 15:24:59 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-21 15:24:59 - INFO - Знайдено старих оголошень: 675
+2025-06-21 15:25:03 - INFO - NEW {'title': 'Kolumna centralna Magnat Metric Center', 'link': 'https://www.olx.pl/d/oferta/kolumna-centralna-magnat-metric-center-CID99-ID16k2iH.html', 'price': '35 zł', 'status': 'active', 'date_found': '2025-06-21 15:25', 'date_removed': None, 'description': 'Witam.Przedmiotem sprzedaży jest Kolumna centralna Magnat Metric CenterSprawna, stan wizualny jak na zdjęciach.Zapraszam.', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/z1zquzlj7q6p-PL/image;s=1521x1148', 'https://ireland.apollo.olxcdn.com:443/v1/files/3gkpkp29mo973-PL/image;s=1460x1148', 'https://ireland.apollo.olxcdn.com:443/v1/files/6h0pys2y725o1-PL/image;s=1556x1062', 'https://ireland.apollo.olxcdn.com:443/v1/files/j7ku9ttudvvf-PL/image;s=1369x1148', 'https://ireland.apollo.olxcdn.com:443/v1/files/yic4jtvemxu33-PL/image;s=1045x1502'], 'published_date': '2025-06-21 o 14:24', 'location': ''}
+2025-06-21 15:25:03 - INFO - Parsed page 1, found 1 new ads.
+2025-06-21 15:25:10 - INFO - Last page 4 is the same as this page. Stopping.
+2025-06-21 15:25:10 - INFO - Знайдено актуальних оголошень: 1
+2025-06-21 15:25:10 - INFO - Додаємо https://www.olx.pl/d/oferta/kolumna-centralna-magnat-metric-center-CID99-ID16k2iH.html.
+2025-06-21 15:25:24 - INFO - Successfully sent message for ad: Kolumna centralna Magnat Metric Center
+2025-06-21 15:25:24 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-21 15:25:24 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-21 15:25:24 - INFO - Знайдено старих оголошень: 308
+2025-06-21 15:25:39 - INFO - Знайдено актуальних оголошень: 0
+2025-06-21 15:25:39 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
