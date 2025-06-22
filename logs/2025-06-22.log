@@ -65,3 +65,16 @@
 2025-06-22 11:20:35 - INFO - Знайдено старих оголошень: 309
 2025-06-22 11:20:51 - INFO - Знайдено актуальних оголошень: 0
 2025-06-22 11:20:51 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-06-22 12:49:45 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-22 12:49:45 - INFO - Знайдено старих оголошень: 678
+2025-06-22 12:49:56 - INFO - Last page 4 is the same as this page. Stopping.
+2025-06-22 12:49:56 - INFO - Знайдено актуальних оголошень: 0
+2025-06-22 12:49:56 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-22 12:49:56 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-22 12:49:56 - INFO - Знайдено старих оголошень: 309
+2025-06-22 12:50:03 - INFO - NEW {'title': 'Głośniki SEAS 25TV-EW 4r 25cm', 'link': 'https://www.olx.pl/d/oferta/glosniki-seas-25tv-ew-4r-25cm-CID99-ID16f73V.html?reason=extended_search_extended_s2v', 'price': '200 zł', 'status': 'active', 'date_found': '2025-06-22 12:50', 'date_removed': None, 'description': 'Używane głośniki SEAS 25TV-EW 4r o średnicy 25cm.zachowane w ładnym oryginalnym stanie,kosze aluminiowe,magnes alniko. Posiadam dwie szt. Bardzo żądko spotykane ..', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/tfhqauddv34e-PL/image;s=1020x768', 'https://ireland.apollo.olxcdn.com:443/v1/files/409trmbagum81-PL/image;s=1020x768', 'https://ireland.apollo.olxcdn.com:443/v1/files/r2yp534v7mvs1-PL/image;s=1020x768', 'https://ireland.apollo.olxcdn.com:443/v1/files/tjollof0f15p2-PL/image;s=1020x768'], 'published_date': '15 czerwca 2025', 'location': ''}
+2025-06-22 12:50:03 - INFO - Parsed page 2, found 1 new ads.
+2025-06-22 12:50:12 - INFO - Знайдено актуальних оголошень: 1
+2025-06-22 12:50:12 - INFO - Додаємо https://www.olx.pl/d/oferta/glosniki-seas-25tv-ew-4r-25cm-CID99-ID16f73V.html?reason=extended_search_extended_s2v.
+2025-06-22 12:50:21 - INFO - Successfully sent message for ad: Głośniki SEAS 25TV-EW 4r 25cm
+2025-06-22 12:50:21 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
