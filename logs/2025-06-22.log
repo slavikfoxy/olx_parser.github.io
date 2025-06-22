@@ -96,3 +96,16 @@
 2025-06-22 14:23:20 - INFO - Знайдено старих оголошень: 310
 2025-06-22 14:23:39 - INFO - Знайдено актуальних оголошень: 0
 2025-06-22 14:23:39 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-06-22 15:24:47 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-22 15:24:47 - INFO - Знайдено старих оголошень: 678
+2025-06-22 15:24:51 - INFO - NEW {'title': 'Płaski Subwoofer pasywny Magnat Ministar 75/100 W', 'link': 'https://www.olx.pl/d/oferta/plaski-subwoofer-pasywny-magnat-ministar-75-100-w-CID99-ID16kDYb.html', 'price': '89 zł', 'status': 'active', 'date_found': '2025-06-22 15:24', 'date_removed': None, 'description': 'Witam.Przedmiotem sprzedaży jest Płaski Subwoofer pasywny Magnat Ministar 75/100 WW pełni sprawny, stan wizualny jak na zdjęciach.Zapraszam.', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/8wa3oe0sdgpc-PL/image;s=1317x1148', 'https://ireland.apollo.olxcdn.com:443/v1/files/kh7c2smtq7qx1-PL/image;s=1331x1148', 'https://ireland.apollo.olxcdn.com:443/v1/files/4fcybsdcbtdg-PL/image;s=1401x1148', 'https://ireland.apollo.olxcdn.com:443/v1/files/p31e77bilbc71-PL/image;s=1230x1148', 'https://ireland.apollo.olxcdn.com:443/v1/files/r6i4rox3sair1-PL/image;s=1415x1148', 'https://ireland.apollo.olxcdn.com:443/v1/files/busu9clzgvly2-PL/image;s=1279x1148'], 'published_date': '2025-06-22 o 14:53', 'location': ''}
+2025-06-22 15:24:51 - INFO - Parsed page 1, found 1 new ads.
+2025-06-22 15:25:00 - INFO - Last page 4 is the same as this page. Stopping.
+2025-06-22 15:25:00 - INFO - Знайдено актуальних оголошень: 1
+2025-06-22 15:25:00 - INFO - Додаємо https://www.olx.pl/d/oferta/plaski-subwoofer-pasywny-magnat-ministar-75-100-w-CID99-ID16kDYb.html.
+2025-06-22 15:25:13 - INFO - Successfully sent message for ad: Płaski Subwoofer pasywny Magnat Ministar 75/100 W
+2025-06-22 15:25:13 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-22 15:25:13 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-22 15:25:13 - INFO - Знайдено старих оголошень: 310
+2025-06-22 15:25:35 - INFO - Знайдено актуальних оголошень: 0
+2025-06-22 15:25:35 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
