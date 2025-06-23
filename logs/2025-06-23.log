@@ -61,3 +61,16 @@
 2025-06-23 11:23:41 - INFO - Знайдено старих оголошень: 310
 2025-06-23 11:23:56 - INFO - Знайдено актуальних оголошень: 0
 2025-06-23 11:23:56 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-06-23 12:56:29 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-23 12:56:29 - INFO - Знайдено старих оголошень: 681
+2025-06-23 12:56:32 - INFO - NEW {'title': 'Magnat Monitor Supreme 202', 'link': 'https://www.olx.pl/d/oferta/magnat-monitor-supreme-202-CID99-ID12DjSJ.html', 'price': '550 zł', 'status': 'active', 'date_found': '2025-06-23 12:56', 'date_removed': None, 'description': 'Używane kolumny od około 3 lat.Jeden właścicielDane techniczneKonstrukcja\t2-drożnaBudowa\tPasywna (wymaga wzmacniacza)Przetworniki\tDynamiczneGłośniki wysokotonowe:\t1x 1 cal (25 mm) jedwabna kopułkaGłośniki średnioniskotonowe:\t1x 6.5 cali (170mm) stożek z celulozyObudowa:\tMDFBas-refleks\tTyłMembrana pasywna\tNIEImpedancja4 Ohm8 OhmSkuteczność\t93dBMoc ciągła (RMS)\t100WZalecana moc wzmacniacza\t30W - 200WPasmo przenoszenia\t34Hz - 40.000HzCzęstotliwość podziału zwrotnicy:\t3300HzINNE:\tPozłacane terminale głośnikowe::\tPort Airflex zmniejszający podbarwienia bass reflexuWysokość:\t35.4cmSzerokość:\t21.5cmGłębokość:\t27.3cmWaga:\t6.2kg', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/3asw8705c729-PL/image;s=768x1020', 'https://ireland.apollo.olxcdn.com:443/v1/files/ekwh87ok9or51-PL/image;s=768x1020', 'https://ireland.apollo.olxcdn.com:443/v1/files/66nwspc0bfol2-PL/image;s=768x1020', 'https://ireland.apollo.olxcdn.com:443/v1/files/08ra70s0sl9f2-PL/image;s=768x1020;r=270', 'https://ireland.apollo.olxcdn.com:443/v1/files/l5uahifmsr66-PL/image;s=1020x768;r=90', 'https://ireland.apollo.olxcdn.com:443/v1/files/8b3hbumxqbwx1-PL/image;s=768x1020'], 'published_date': '2025-06-23 o 11:49', 'location': ''}
+2025-06-23 12:56:32 - INFO - Parsed page 1, found 1 new ads.
+2025-06-23 12:56:40 - INFO - Last page 4 is the same as this page. Stopping.
+2025-06-23 12:56:40 - INFO - Знайдено актуальних оголошень: 1
+2025-06-23 12:56:40 - INFO - Додаємо https://www.olx.pl/d/oferta/magnat-monitor-supreme-202-CID99-ID12DjSJ.html.
+2025-06-23 12:56:53 - INFO - Successfully sent message for ad: Magnat Monitor Supreme 202
+2025-06-23 12:56:53 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-23 12:56:53 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-23 12:56:53 - INFO - Знайдено старих оголошень: 310
+2025-06-23 12:57:09 - INFO - Знайдено актуальних оголошень: 0
+2025-06-23 12:57:09 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
