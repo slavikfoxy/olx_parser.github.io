@@ -145,3 +145,18 @@
 2025-06-23 19:21:22 - INFO - Додаємо https://www.olx.pl/d/oferta/glosnik-tm-12s-studio-coke-do-telefonu-jak-i-innego-zrodla-muzyki-CID99-ID16gGGz.html?reason=extended_search_extended_s2v.
 2025-06-23 19:21:32 - INFO - Successfully sent message for ad: Głośnik tm 12s studio coke do telefonu jak i innego źródła muzyki
 2025-06-23 19:21:32 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-06-23 20:29:28 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-23 20:29:28 - INFO - Знайдено старих оголошень: 683
+2025-06-23 20:29:38 - INFO - Last page 4 is the same as this page. Stopping.
+2025-06-23 20:29:38 - INFO - Знайдено актуальних оголошень: 0
+2025-06-23 20:29:38 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-23 20:29:38 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-23 20:29:38 - INFO - Знайдено старих оголошень: 311
+2025-06-23 20:29:43 - INFO - NEW {'title': 'Głośnik bezprzewodowy 3mk Fuego\n-czas pracy do 12godzin\n-funkcja powe', 'link': 'https://www.olx.pl/d/oferta/glosnik-bezprzewodowy-3mk-fuego-czas-pracy-do-12godzin-funkcja-powe-CID99-ID16gH7z.html?reason=extended_search_extended_s2v', 'price': '180 zł', 'status': 'active', 'date_found': '2025-06-23 20:29', 'date_removed': None, 'description': 'Głośnik bezprzewodowy 3mk Fuego z czasem pracy do 12 godzin. Doskonałe rozwiązanie dla miłośników muzyki w podróży, czy ze znajomymi.-funkcja powerbanku-Moc 30W-Tryb TWS-Bluetooth 5.3-kolor; czarnyMożliwy odbiór osobisty w Toruniu (złotoria). Po wiecej informacji zapraszam pv :)', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/0obgqo2vs6t3-PL/image;s=1500x2000', 'https://ireland.apollo.olxcdn.com:443/v1/files/2h03utn29zlj2-PL/image;s=1500x2000', 'https://ireland.apollo.olxcdn.com:443/v1/files/kvxmt8yxwj0b2-PL/image;s=1500x2000', 'https://ireland.apollo.olxcdn.com:443/v1/files/dgo2p1r6324g-PL/image;s=1500x2000'], 'published_date': '17 czerwca 2025', 'location': ''}
+2025-06-23 20:29:43 - INFO - Parsed page 2, found 1 new ads.
+2025-06-23 20:29:53 - INFO - Знайдено актуальних оголошень: 1
+2025-06-23 20:29:53 - INFO - Додаємо https://www.olx.pl/d/oferta/glosnik-bezprzewodowy-3mk-fuego-czas-pracy-do-12godzin-funkcja-powe-CID99-ID16gH7z.html?reason=extended_search_extended_s2v.
+2025-06-23 20:29:59 - INFO - Successfully sent message for ad: Głośnik bezprzewodowy 3mk Fuego
+-czas pracy do 12godzin
+-funkcja powe
+2025-06-23 20:29:59 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
