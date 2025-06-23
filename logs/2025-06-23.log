@@ -119,3 +119,16 @@
 2025-06-23 17:25:03 - INFO - Знайдено старих оголошень: 310
 2025-06-23 17:25:22 - INFO - Знайдено актуальних оголошень: 0
 2025-06-23 17:25:22 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-06-23 18:37:30 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-23 18:37:30 - INFO - Знайдено старих оголошень: 682
+2025-06-23 18:37:34 - INFO - NEW {'title': 'Sprzedam kolumny sonobuul firmy Magnat', 'link': 'https://www.olx.pl/d/oferta/sprzedam-kolumny-sonobuul-firmy-magnat-CID99-ID16lHd6.html', 'price': '120 zł', 'status': 'active', 'date_found': '2025-06-23 18:37', 'date_removed': None, 'description': 'Sprzedam używane kolumny firmy Magnat. Doskonałe brzmienie i solidna konstrukcja. Idealne do domowego kina lub słuchania muzyki. Niezawodne i stylowe kolumny do salonu.', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/n4whanc6vvrd2-PL/image;s=768x1024', 'https://ireland.apollo.olxcdn.com:443/v1/files/on6k8ax45nmd-PL/image;s=768x1024', 'https://ireland.apollo.olxcdn.com:443/v1/files/iknc734rr93r2-PL/image;s=768x1024', 'https://ireland.apollo.olxcdn.com:443/v1/files/fjxv5r1b3y74-PL/image;s=768x1024'], 'published_date': '2025-06-23 o 18:19', 'location': ''}
+2025-06-23 18:37:34 - INFO - Parsed page 1, found 1 new ads.
+2025-06-23 18:37:42 - INFO - Last page 4 is the same as this page. Stopping.
+2025-06-23 18:37:42 - INFO - Знайдено актуальних оголошень: 1
+2025-06-23 18:37:42 - INFO - Додаємо https://www.olx.pl/d/oferta/sprzedam-kolumny-sonobuul-firmy-magnat-CID99-ID16lHd6.html.
+2025-06-23 18:37:51 - INFO - Successfully sent message for ad: Sprzedam kolumny sonobuul firmy Magnat
+2025-06-23 18:37:51 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-23 18:37:51 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-23 18:37:51 - INFO - Знайдено старих оголошень: 310
+2025-06-23 18:38:07 - INFO - Знайдено актуальних оголошень: 0
+2025-06-23 18:38:07 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
