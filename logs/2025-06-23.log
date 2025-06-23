@@ -132,3 +132,16 @@
 2025-06-23 18:37:51 - INFO - Знайдено старих оголошень: 310
 2025-06-23 18:38:07 - INFO - Знайдено актуальних оголошень: 0
 2025-06-23 18:38:07 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-06-23 19:20:52 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-23 19:20:52 - INFO - Знайдено старих оголошень: 683
+2025-06-23 19:21:05 - INFO - Last page 4 is the same as this page. Stopping.
+2025-06-23 19:21:05 - INFO - Знайдено актуальних оголошень: 0
+2025-06-23 19:21:05 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-23 19:21:05 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-23 19:21:05 - INFO - Знайдено старих оголошень: 310
+2025-06-23 19:21:12 - INFO - NEW {'title': 'Głośnik tm 12s studio coke do telefonu jak i innego źródła muzyki', 'link': 'https://www.olx.pl/d/oferta/glosnik-tm-12s-studio-coke-do-telefonu-jak-i-innego-zrodla-muzyki-CID99-ID16gGGz.html?reason=extended_search_extended_s2v', 'price': '50 zł', 'status': 'active', 'date_found': '2025-06-23 19:21', 'date_removed': None, 'description': 'Głośnik TM 12S Studio Coke przeznaczony do telefonów oraz innych źródeł muzyki. W zestawie czerwony głośnik przewód ładujący pudełko możliwość odtwarzania muzyki poprzez położenie telefonu na głośniku oraz poprzez wtyczkę Jack 3,5 mm wymiary 22 na 10 na 8 cm bateria 850 mAh ładowanie ładowarką z telefonu', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/ptaoqqnu1go2-PL/image;s=768x1024', 'https://ireland.apollo.olxcdn.com:443/v1/files/j9jp9shmjzpt-PL/image;s=768x1024', 'https://ireland.apollo.olxcdn.com:443/v1/files/z9fbhuza4ax62-PL/image;s=768x1024', 'https://ireland.apollo.olxcdn.com:443/v1/files/tzd4pvfki9e03-PL/image;s=768x1024'], 'published_date': '17 czerwca 2025', 'location': ''}
+2025-06-23 19:21:12 - INFO - Parsed page 2, found 1 new ads.
+2025-06-23 19:21:22 - INFO - Знайдено актуальних оголошень: 1
+2025-06-23 19:21:22 - INFO - Додаємо https://www.olx.pl/d/oferta/glosnik-tm-12s-studio-coke-do-telefonu-jak-i-innego-zrodla-muzyki-CID99-ID16gGGz.html?reason=extended_search_extended_s2v.
+2025-06-23 19:21:32 - INFO - Successfully sent message for ad: Głośnik tm 12s studio coke do telefonu jak i innego źródła muzyki
+2025-06-23 19:21:32 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
