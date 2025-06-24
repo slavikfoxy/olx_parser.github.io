@@ -50,3 +50,12 @@
 2025-06-24 09:30:11 - INFO - Додаємо https://www.olx.pl/d/oferta/wzmaczniacz-philips-fa-910-seria-9-CID99-ID16m2jz.html.
 2025-06-24 09:30:17 - INFO - Successfully sent message for ad: Wzmaczniacz Philips FA 910 Seria 9
 2025-06-24 09:30:17 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-06-24 10:29:50 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-24 10:29:50 - INFO - Знайдено старих оголошень: 684
+2025-06-24 10:30:00 - INFO - Last page 4 is the same as this page. Stopping.
+2025-06-24 10:30:00 - INFO - Знайдено актуальних оголошень: 0
+2025-06-24 10:30:00 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-24 10:30:00 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-24 10:30:00 - INFO - Знайдено старих оголошень: 313
+2025-06-24 10:30:16 - INFO - Знайдено актуальних оголошень: 0
+2025-06-24 10:30:16 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
