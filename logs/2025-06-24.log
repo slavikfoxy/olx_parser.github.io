@@ -38,3 +38,15 @@
 2025-06-24 08:36:10 - INFO - Знайдено старих оголошень: 312
 2025-06-24 08:36:26 - INFO - Знайдено актуальних оголошень: 0
 2025-06-24 08:36:27 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-06-24 09:29:51 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-24 09:29:51 - INFO - Знайдено старих оголошень: 684
+2025-06-24 09:29:54 - INFO - Знайдено актуальних оголошень: 0
+2025-06-24 09:29:54 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-24 09:29:54 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-24 09:29:54 - INFO - Знайдено старих оголошень: 312
+2025-06-24 09:29:57 - INFO - NEW {'title': 'Wzmaczniacz Philips FA 910 Seria 9', 'link': 'https://www.olx.pl/d/oferta/wzmaczniacz-philips-fa-910-seria-9-CID99-ID16m2jz.html', 'price': '250 zł', 'status': 'active', 'date_found': '2025-06-24 09:29', 'date_removed': None, 'description': 'Wzmacniacz Philips FA 910 wyprodukowany w latach 90.. Stan wizualny b.dobry. Sprawny.Gwarantuję solidne i bezpieczne spakowanie.', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/51dmwnduip1q-PL/image;s=1920x1440', 'https://ireland.apollo.olxcdn.com:443/v1/files/qqscfuzzsq2s2-PL/image;s=4032x3024', 'https://ireland.apollo.olxcdn.com:443/v1/files/yla7nz6g8g3q-PL/image;s=4032x3024'], 'published_date': '2025-06-24 o 08:49', 'location': ''}
+2025-06-24 09:29:57 - INFO - Parsed page 1, found 1 new ads.
+2025-06-24 09:30:11 - INFO - Знайдено актуальних оголошень: 1
+2025-06-24 09:30:11 - INFO - Додаємо https://www.olx.pl/d/oferta/wzmaczniacz-philips-fa-910-seria-9-CID99-ID16m2jz.html.
+2025-06-24 09:30:17 - INFO - Successfully sent message for ad: Wzmaczniacz Philips FA 910 Seria 9
+2025-06-24 09:30:17 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
