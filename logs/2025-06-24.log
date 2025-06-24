@@ -25,3 +25,16 @@
 2025-06-24 07:27:16 - INFO - Знайдено старих оголошень: 312
 2025-06-24 07:27:33 - INFO - Знайдено актуальних оголошень: 0
 2025-06-24 07:27:33 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-06-24 08:35:55 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-24 08:35:55 - INFO - Знайдено старих оголошень: 683
+2025-06-24 08:36:01 - INFO - NEW {'title': 'Przetwornice głośnikowe MAGNAT', 'link': 'https://www.olx.pl/d/oferta/przetwornice-glosnikowe-magnat-CID99-ID16lZ3C.html', 'price': '100 zł', 'status': 'active', 'date_found': '2025-06-24 08:36', 'date_removed': None, 'description': 'Używane przetwornice głośnikowe MAGNAT. Doskonałe rozwiązanie dla miłośników wysokiej jakości dźwięku. Zapewnij sobie wyjątkowe doznania dźwiękowe dzięki tym konwerterom głośnikowym.Jedna obudowa jest uszkodzoną , co nie wpływa na jakość dźwięku.', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/vbvt1ermphfg-PL/image;s=1160x522'], 'published_date': '2025-06-24 o 07:41', 'location': ''}
+2025-06-24 08:36:01 - INFO - Parsed page 1, found 1 new ads.
+2025-06-24 08:36:09 - INFO - Last page 4 is the same as this page. Stopping.
+2025-06-24 08:36:09 - INFO - Знайдено актуальних оголошень: 1
+2025-06-24 08:36:09 - INFO - Додаємо https://www.olx.pl/d/oferta/przetwornice-glosnikowe-magnat-CID99-ID16lZ3C.html.
+2025-06-24 08:36:10 - INFO - Successfully sent message for ad: Przetwornice głośnikowe MAGNAT
+2025-06-24 08:36:10 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-24 08:36:10 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-24 08:36:10 - INFO - Знайдено старих оголошень: 312
+2025-06-24 08:36:26 - INFO - Знайдено актуальних оголошень: 0
+2025-06-24 08:36:27 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
