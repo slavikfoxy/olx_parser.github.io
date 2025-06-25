@@ -168,3 +168,16 @@
 2025-06-25 22:26:01 - INFO - Знайдено старих оголошень: 315
 2025-06-25 22:26:16 - INFO - Знайдено актуальних оголошень: 0
 2025-06-25 22:26:16 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-06-25 23:25:20 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-25 23:25:20 - INFO - Знайдено старих оголошень: 686
+2025-06-25 23:25:31 - INFO - Last page 4 is the same as this page. Stopping.
+2025-06-25 23:25:31 - INFO - Знайдено актуальних оголошень: 0
+2025-06-25 23:25:31 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-25 23:25:31 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-25 23:25:31 - INFO - Знайдено старих оголошень: 315
+2025-06-25 23:25:37 - INFO - NEW {'title': 'Okazja glosnik 12 cali 400w rms hk audio alto subwoofer najtaniej', 'link': 'https://www.olx.pl/d/oferta/okazja-glosnik-12-cali-400w-rms-hk-audio-alto-subwoofer-najtaniej-CID99-ID16igVG.html?reason=extended_search_extended_s2v', 'price': '150 zł', 'status': 'active', 'date_found': '2025-06-25 23:25', 'date_removed': None, 'description': 'Sprzedam głośnik sprawny 400w rms alto Hk najtaniej. 2 ohm, działa, dostałem go wraz z innym sprzętem. Po podpięciu parametry poprawne, gra bez zastrzeżeń.', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/pjyq24x4cc3g-PL/image;s=1000x750', 'https://ireland.apollo.olxcdn.com:443/v1/files/szym3bl6p7dm2-PL/image;s=1000x750', 'https://ireland.apollo.olxcdn.com:443/v1/files/078zui4sm3oe3-PL/image;s=1000x750', 'https://ireland.apollo.olxcdn.com:443/v1/files/r8lcxflufm56-PL/image;s=1000x750', 'https://ireland.apollo.olxcdn.com:443/v1/files/4ri2e5yuvuik3-PL/image;s=1000x750', 'https://ireland.apollo.olxcdn.com:443/v1/files/u13po9nyumh63-PL/image;s=1000x750'], 'published_date': '19 czerwca 2025', 'location': ''}
+2025-06-25 23:25:37 - INFO - Parsed page 2, found 1 new ads.
+2025-06-25 23:25:49 - INFO - Знайдено актуальних оголошень: 1
+2025-06-25 23:25:49 - INFO - Додаємо https://www.olx.pl/d/oferta/okazja-glosnik-12-cali-400w-rms-hk-audio-alto-subwoofer-najtaniej-CID99-ID16igVG.html?reason=extended_search_extended_s2v.
+2025-06-25 23:26:00 - INFO - Successfully sent message for ad: Okazja glosnik 12 cali 400w rms hk audio alto subwoofer najtaniej
+2025-06-25 23:26:00 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
