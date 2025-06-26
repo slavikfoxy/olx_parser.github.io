@@ -110,3 +110,16 @@
 2025-06-26 16:33:39 - INFO - Знайдено старих оголошень: 317
 2025-06-26 16:33:56 - INFO - Знайдено актуальних оголошень: 0
 2025-06-26 16:33:56 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-06-26 17:24:14 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-26 17:24:14 - INFO - Знайдено старих оголошень: 686
+2025-06-26 17:24:18 - INFO - NEW {'title': 'Subwoofer DIY. Klipsch, Hertz, Magnat.', 'link': 'https://www.olx.pl/d/oferta/subwoofer-diy-klipsch-hertz-magnat-CID99-ID16oe4r.html', 'price': '500 zł', 'status': 'active', 'date_found': '2025-06-26 17:24', 'date_removed': None, 'description': 'Witam.Sprzedam dwa subwoofery własnej konstrukcji. Nie mogłem znaleźć gabarytowo małych subwooferów ale o dużej mocy,więc  postanowiłem założyć coś sam. Do budowy posłużyła mi  skrzynka z Magnata SUB202A,która   wygluszylem, wzmacniacz z Klipsch R12SW i przetwornik Hertz ES200.5, stroiłem osobiście na 30Hz. Szczerze powiem że to dziala. Zmieniam sprzęt i koncepcje więc te idą w odstawkę. Możliwa wysyłka kurierem. Cena za sztukę.', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/miiidvgowmjm1-PL/image;s=1020x765', 'https://ireland.apollo.olxcdn.com:443/v1/files/27dm1hu3ohef-PL/image;s=1020x765', 'https://ireland.apollo.olxcdn.com:443/v1/files/gylfsd5az3bt2-PL/image;s=1020x765'], 'published_date': '2025-06-26 o 17:21', 'location': ''}
+2025-06-26 17:24:18 - INFO - Parsed page 1, found 1 new ads.
+2025-06-26 17:24:27 - INFO - Last page 4 is the same as this page. Stopping.
+2025-06-26 17:24:27 - INFO - Знайдено актуальних оголошень: 1
+2025-06-26 17:24:27 - INFO - Додаємо https://www.olx.pl/d/oferta/subwoofer-diy-klipsch-hertz-magnat-CID99-ID16oe4r.html.
+2025-06-26 17:24:34 - INFO - Successfully sent message for ad: Subwoofer DIY. Klipsch, Hertz, Magnat.
+2025-06-26 17:24:34 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-26 17:24:34 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-26 17:24:34 - INFO - Знайдено старих оголошень: 317
+2025-06-26 17:24:52 - INFO - Знайдено актуальних оголошень: 0
+2025-06-26 17:24:52 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
