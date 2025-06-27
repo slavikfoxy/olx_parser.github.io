@@ -101,3 +101,16 @@
 2025-06-27 15:27:57 - INFO - Знайдено старих оголошень: 318
 2025-06-27 15:28:14 - INFO - Знайдено актуальних оголошень: 0
 2025-06-27 15:28:14 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-06-27 16:32:39 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-27 16:32:39 - INFO - Знайдено старих оголошень: 688
+2025-06-27 16:32:53 - INFO - Last page 4 is the same as this page. Stopping.
+2025-06-27 16:32:53 - INFO - Знайдено актуальних оголошень: 0
+2025-06-27 16:32:53 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-27 16:32:53 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-27 16:32:53 - INFO - Знайдено старих оголошень: 318
+2025-06-27 16:32:59 - INFO - NEW {'title': 'Głośniki Gdn 75 4r 25cm', 'link': 'https://www.olx.pl/d/oferta/glosniki-gdn-75-4r-25cm-CID99-ID16jT3a.html?reason=extended_search_extended_s2v', 'price': '80 zł', 'status': 'active', 'date_found': '2025-06-27 16:32', 'date_removed': None, 'description': 'Sprzedam używane głośniki Gdn 75 4r o średnicy 25cm. glosniki sprawne grające lecz membrany już gorzej wyglądają,kopolki do wymiany chyba że komuś na wyglądzie nie zależy. Cena za szt mam 4szt', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/lju3aktxqry6-PL/image;s=720x1612'], 'published_date': '21 czerwca 2025', 'location': ''}
+2025-06-27 16:32:59 - INFO - Parsed page 2, found 1 new ads.
+2025-06-27 16:33:10 - INFO - Знайдено актуальних оголошень: 1
+2025-06-27 16:33:10 - INFO - Додаємо https://www.olx.pl/d/oferta/glosniki-gdn-75-4r-25cm-CID99-ID16jT3a.html?reason=extended_search_extended_s2v.
+2025-06-27 16:33:11 - INFO - Successfully sent message for ad: Głośniki Gdn 75 4r 25cm
+2025-06-27 16:33:11 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
