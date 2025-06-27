@@ -25,3 +25,16 @@
 2025-06-27 07:26:08 - INFO - Знайдено старих оголошень: 318
 2025-06-27 07:26:25 - INFO - Знайдено актуальних оголошень: 0
 2025-06-27 07:26:25 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-06-27 08:34:56 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-27 08:34:56 - INFO - Знайдено старих оголошень: 687
+2025-06-27 08:34:59 - INFO - NEW {'title': 'Subwoofer Magnat RS 8 - SPOKO Lombard Pabianice', 'link': 'https://www.olx.pl/d/oferta/subwoofer-magnat-rs-8-spoko-lombard-pabianice-CID99-ID16ouc2.html', 'price': '850 zł', 'status': 'active', 'date_found': '2025-06-27 08:34', 'date_removed': None, 'description': 'Witam posiadam do sprzedania Subwoofer Magnat RS 8Używany w stanie bardzo dobrym.Spoko Firma Pabianiceul. Zamkowa 18Pracujemy:pn-pt 10:00-18:00sob 10:00-14:00Jesteśmy legalnie działającym lombardemSPOKO Lombard SP. Z O.O.KNF RDL000008- Pożyczki pod zastaw- Skup złota, skup srebra- Kupujemy sprzedajemy wszystko co ma wartośćProsimy o wcześniejszy kontakt w celu potwierdzeniadostępności sprzedawanego towaru.', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/1zengmm6lp8y2-PL/image;s=920x1042', 'https://ireland.apollo.olxcdn.com:443/v1/files/82piqb9z3ypf3-PL/image;s=894x1209', 'https://ireland.apollo.olxcdn.com:443/v1/files/qwlv3nq0e72-PL/image;s=861x1130', 'https://ireland.apollo.olxcdn.com:443/v1/files/06qph6p8qgqd-PL/image;s=1346x872'], 'published_date': '2025-06-27 o 08:14', 'location': ''}
+2025-06-27 08:34:59 - INFO - Parsed page 1, found 1 new ads.
+2025-06-27 08:35:08 - INFO - Last page 4 is the same as this page. Stopping.
+2025-06-27 08:35:08 - INFO - Знайдено актуальних оголошень: 1
+2025-06-27 08:35:08 - INFO - Додаємо https://www.olx.pl/d/oferta/subwoofer-magnat-rs-8-spoko-lombard-pabianice-CID99-ID16ouc2.html.
+2025-06-27 08:35:16 - INFO - Successfully sent message for ad: Subwoofer Magnat RS 8 - SPOKO Lombard Pabianice
+2025-06-27 08:35:16 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-27 08:35:16 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-27 08:35:16 - INFO - Знайдено старих оголошень: 318
+2025-06-27 08:35:33 - INFO - Знайдено актуальних оголошень: 0
+2025-06-27 08:35:33 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
