@@ -56,3 +56,19 @@
 2025-06-28 10:26:30 - INFO - Знайдено старих оголошень: 320
 2025-06-28 10:27:00 - INFO - Знайдено актуальних оголошень: 0
 2025-06-28 10:27:00 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-06-28 11:20:34 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-28 11:20:34 - INFO - Знайдено старих оголошень: 688
+2025-06-28 11:20:45 - INFO - Last page 4 is the same as this page. Stopping.
+2025-06-28 11:20:45 - INFO - Знайдено актуальних оголошень: 0
+2025-06-28 11:20:45 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-28 11:20:45 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-28 11:20:45 - INFO - Знайдено старих оголошень: 320
+2025-06-28 11:20:49 - INFO - NEW {'title': 'Wzmaczniacz BLAUPUNKT', 'link': 'https://www.olx.pl/d/oferta/wzmaczniacz-blaupunkt-CID99-ID16pezP.html', 'price': '180 zł', 'status': 'active', 'date_found': '2025-06-28 11:20', 'date_removed': None, 'description': 'Sprzedam wzmacniacz BLAUPUNKT .Stan: bardzo dobryOferta ważna do 10 lipca', 'images': [], 'published_date': '2025-06-28 o 10:47', 'location': ''}
+2025-06-28 11:20:50 - INFO - NEW {'title': 'Wzmaczniacz NAD C315BEE Odtwarzacz Cd NAD C515BEE', 'link': 'https://www.olx.pl/d/oferta/wzmaczniacz-nad-c315bee-odtwarzacz-cd-nad-c515bee-CID99-ID14u1UC.html', 'price': '700 zł', 'status': 'active', 'date_found': '2025-06-28 11:20', 'date_removed': None, 'description': 'WitamNa sprzedaż wzmaczniacz Nad C315bee plus odtwarzacz cd Nad C515beeSprzęt kupiony w 2008r (posiadam dowód zakupu) w bardzo dobrym stanieJak widać na zdjęciach piloty i instrukcje w komplecieOdtwarzacz wymaga czyszczenia bo potrafi przeskoczyć na niektórych nagraniachMogę sprzedać sam wzmaczniacz za 400złDla zainteresowanych moge podesłać więcej zdjęćPreferuję odbiór osobisty choć mogę wysłać kurieremChętnie odpowiem na pytania pod nr tel 51*******32', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/v6hpkdg3xzjl2-PL/image;s=4000x1846', 'https://ireland.apollo.olxcdn.com:443/v1/files/3qe1g1r4r619-PL/image;s=1846x4000', 'https://ireland.apollo.olxcdn.com:443/v1/files/6h8pp0f4prvb3-PL/image;s=1846x4000'], 'published_date': '2025-06-28 o 10:28', 'location': ''}
+2025-06-28 11:20:50 - INFO - Parsed page 1, found 2 new ads.
+2025-06-28 11:21:03 - INFO - Знайдено актуальних оголошень: 2
+2025-06-28 11:21:03 - INFO - Додаємо https://www.olx.pl/d/oferta/wzmaczniacz-blaupunkt-CID99-ID16pezP.html.
+2025-06-28 11:21:04 - INFO - Successfully sent message for ad: Wzmaczniacz BLAUPUNKT
+2025-06-28 11:21:04 - INFO - Додаємо https://www.olx.pl/d/oferta/wzmaczniacz-nad-c315bee-odtwarzacz-cd-nad-c515bee-CID99-ID14u1UC.html.
+2025-06-28 11:21:09 - INFO - Successfully sent message for ad: Wzmaczniacz NAD C315BEE Odtwarzacz Cd NAD C515BEE
+2025-06-28 11:21:09 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
