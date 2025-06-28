@@ -170,3 +170,16 @@
 2025-06-28 22:24:43 - INFO - Знайдено старих оголошень: 322
 2025-06-28 22:24:59 - INFO - Знайдено актуальних оголошень: 0
 2025-06-28 22:24:59 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-06-28 23:24:26 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-28 23:24:26 - INFO - Знайдено старих оголошень: 688
+2025-06-28 23:24:38 - INFO - Last page 4 is the same as this page. Stopping.
+2025-06-28 23:24:38 - INFO - Знайдено актуальних оголошень: 0
+2025-06-28 23:24:38 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-28 23:24:38 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-28 23:24:38 - INFO - Знайдено старих оголошень: 322
+2025-06-28 23:24:45 - INFO - NEW {'title': 'Głośnik SRS XB12', 'link': 'https://www.olx.pl/d/oferta/glosnik-srs-xb12-CID99-ID16kuhQ.html?reason=extended_search_extended_s2v', 'price': '30 zł', 'status': 'active', 'date_found': '2025-06-28 23:24', 'date_removed': None, 'description': 'Mam na sprzedaż sprawny głośnik srs xb12. Nie posiada zaślepki na porty, stąd nie jest już wodoodporny. Poza tym jest w stanie dobrym (tak jak na zdjęciach). Zainteresowanych proszę o kontakt.', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/1r4x84861w4x2-PL/image;s=868x1156', 'https://ireland.apollo.olxcdn.com:443/v1/files/tpzu1jql3xwj1-PL/image;s=868x1156', 'https://ireland.apollo.olxcdn.com:443/v1/files/8gqhflphcudc1-PL/image;s=868x1156', 'https://ireland.apollo.olxcdn.com:443/v1/files/hls331jopjfe-PL/image;s=868x1156', 'https://ireland.apollo.olxcdn.com:443/v1/files/06cywscer7jj1-PL/image;s=868x1156'], 'published_date': '22 czerwca 2025', 'location': ''}
+2025-06-28 23:24:45 - INFO - Parsed page 2, found 1 new ads.
+2025-06-28 23:24:57 - INFO - Знайдено актуальних оголошень: 1
+2025-06-28 23:24:57 - INFO - Додаємо https://www.olx.pl/d/oferta/glosnik-srs-xb12-CID99-ID16kuhQ.html?reason=extended_search_extended_s2v.
+2025-06-28 23:25:10 - INFO - Successfully sent message for ad: Głośnik SRS XB12
+2025-06-28 23:25:10 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
