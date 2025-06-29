@@ -96,3 +96,12 @@
 2025-06-29 14:23:25 - INFO - Додаємо https://www.olx.pl/d/oferta/glosnik-groubd-zero-gziw12spl-CID99-ID16l5HS.html?reason=extended_search_extended_s2v.
 2025-06-29 14:23:33 - INFO - Successfully sent message for ad: Głośnik Groubd zero GZIW12SPL
 2025-06-29 14:23:33 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-06-29 15:25:04 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-29 15:25:04 - INFO - Знайдено старих оголошень: 689
+2025-06-29 15:25:17 - INFO - Last page 4 is the same as this page. Stopping.
+2025-06-29 15:25:17 - INFO - Знайдено актуальних оголошень: 0
+2025-06-29 15:25:17 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-29 15:25:17 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-29 15:25:17 - INFO - Знайдено старих оголошень: 324
+2025-06-29 15:25:36 - INFO - Знайдено актуальних оголошень: 0
+2025-06-29 15:25:36 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
