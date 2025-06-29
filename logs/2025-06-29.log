@@ -167,3 +167,12 @@
 2025-06-29 21:24:00 - INFO - Додаємо https://www.olx.pl/d/oferta/wzmacniacz-2200w-do-wiezy-glosnikow-bluetooth-mp3-radio-aux-CID99-ID166MHa.html?reason=extended_search_extended_s2v.
 2025-06-29 21:24:12 - INFO - Successfully sent message for ad: Wzmacniacz 2×200w do wieży głośników  Bluetooth mp3 radio aux
 2025-06-29 21:24:12 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-06-29 22:24:40 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-29 22:24:40 - INFO - Знайдено старих оголошень: 689
+2025-06-29 22:24:52 - INFO - Last page 4 is the same as this page. Stopping.
+2025-06-29 22:24:52 - INFO - Знайдено актуальних оголошень: 0
+2025-06-29 22:24:53 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-29 22:24:53 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-29 22:24:53 - INFO - Знайдено старих оголошень: 326
+2025-06-29 22:25:09 - INFO - Знайдено актуальних оголошень: 0
+2025-06-29 22:25:09 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
