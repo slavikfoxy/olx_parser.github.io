@@ -83,3 +83,16 @@
 2025-06-29 13:32:40 - INFO - Знайдено старих оголошень: 323
 2025-06-29 13:32:57 - INFO - Знайдено актуальних оголошень: 0
 2025-06-29 13:32:57 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-06-29 14:22:55 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-29 14:22:55 - INFO - Знайдено старих оголошень: 689
+2025-06-29 14:23:07 - INFO - Last page 4 is the same as this page. Stopping.
+2025-06-29 14:23:07 - INFO - Знайдено актуальних оголошень: 0
+2025-06-29 14:23:07 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-29 14:23:07 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-29 14:23:07 - INFO - Знайдено старих оголошень: 323
+2025-06-29 14:23:14 - INFO - NEW {'title': 'Głośnik Groubd zero GZIW12SPL', 'link': 'https://www.olx.pl/d/oferta/glosnik-groubd-zero-gziw12spl-CID99-ID16l5HS.html?reason=extended_search_extended_s2v', 'price': '500 zł', 'status': 'active', 'date_found': '2025-06-29 14:23', 'date_removed': None, 'description': 'Używany prz z krótki czas głośnik ground zero, 2x2 ohm, łącznie może przegrał 10 godzin. Sprzedaję z powodu nieużywania (inny priorytet w bagażniku)', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/4bdnip3epv6e3-PL/image;s=250x250', 'https://ireland.apollo.olxcdn.com:443/v1/files/j0prb5q3m0h6-PL/image;s=250x250'], 'published_date': '23 czerwca 2025', 'location': ''}
+2025-06-29 14:23:14 - INFO - Parsed page 2, found 1 new ads.
+2025-06-29 14:23:25 - INFO - Знайдено актуальних оголошень: 1
+2025-06-29 14:23:25 - INFO - Додаємо https://www.olx.pl/d/oferta/glosnik-groubd-zero-gziw12spl-CID99-ID16l5HS.html?reason=extended_search_extended_s2v.
+2025-06-29 14:23:33 - INFO - Successfully sent message for ad: Głośnik Groubd zero GZIW12SPL
+2025-06-29 14:23:33 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
