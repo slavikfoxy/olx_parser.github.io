@@ -114,3 +114,16 @@
 2025-06-29 16:30:43 - INFO - Знайдено старих оголошень: 324
 2025-06-29 16:31:00 - INFO - Знайдено актуальних оголошень: 0
 2025-06-29 16:31:00 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
+2025-06-29 17:22:00 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/glosniki-i-kolumny/q-magnat/?courier=1, JSON: magnat.json, Thread ID: 2
+2025-06-29 17:22:00 - INFO - Знайдено старих оголошень: 689
+2025-06-29 17:22:14 - INFO - Last page 4 is the same as this page. Stopping.
+2025-06-29 17:22:14 - INFO - Знайдено актуальних оголошень: 0
+2025-06-29 17:22:14 - INFO - ✅ HTML файл збережено: magnat.html
+2025-06-29 17:22:14 - INFO - Обробка URL: https://www.olx.pl/elektronika/sprzet-audio/q-wzmaczniacz/?courier=1, JSON: wzmaczniacz.json, Thread ID: 5
+2025-06-29 17:22:14 - INFO - Знайдено старих оголошень: 324
+2025-06-29 17:22:22 - INFO - NEW {'title': 'Sprzedam sprawny zmacniacz philips', 'link': 'https://www.olx.pl/d/oferta/sprzedam-sprawny-zmacniacz-philips-CID99-ID16lMSM.html?reason=extended_search_extended_s2v', 'price': '150 zł', 'status': 'active', 'date_found': '2025-06-29 17:22', 'date_removed': None, 'description': 'Sprzedam używany, działający wzmacniacz Philips. Doskonałe rozwiązanie dla miłośników muzyki. Jego solidna konstrukcja zapewnia wysoką jakość dźwięku. Idealny do domowego systemu audio.', 'images': ['https://ireland.apollo.olxcdn.com:443/v1/files/6pffhs46cab33-PL/image;s=2000x1500', 'https://ireland.apollo.olxcdn.com:443/v1/files/5wlemkdtxnd6-PL/image;s=2000x1500', 'https://ireland.apollo.olxcdn.com:443/v1/files/0c0rqx3zz4xs3-PL/image;s=2000x1500', 'https://ireland.apollo.olxcdn.com:443/v1/files/qz9594jw47922-PL/image;s=2000x1500', 'https://ireland.apollo.olxcdn.com:443/v1/files/ncm8nru1vqe3-PL/image;s=2000x1500', 'https://ireland.apollo.olxcdn.com:443/v1/files/w2kpfo87a7yt3-PL/image;s=2000x1500', 'https://ireland.apollo.olxcdn.com:443/v1/files/q2bfn2xbnqb9-PL/image;s=2000x1500', 'https://ireland.apollo.olxcdn.com:443/v1/files/zrv0yjgiqnjd-PL/image;s=1500x2000'], 'published_date': '23 czerwca 2025', 'location': ''}
+2025-06-29 17:22:22 - INFO - Parsed page 2, found 1 new ads.
+2025-06-29 17:22:34 - INFO - Знайдено актуальних оголошень: 1
+2025-06-29 17:22:34 - INFO - Додаємо https://www.olx.pl/d/oferta/sprzedam-sprawny-zmacniacz-philips-CID99-ID16lMSM.html?reason=extended_search_extended_s2v.
+2025-06-29 17:22:45 - INFO - Successfully sent message for ad: Sprzedam sprawny zmacniacz philips
+2025-06-29 17:22:45 - INFO - ✅ HTML файл збережено: wzmaczniacz.html
